@@ -1,0 +1,23 @@
+name: TSLA price
+
+on:
+    schedule:
+        - cron: '* * * * *'
+        
+jobs:
+    update:
+        environment: secrets
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+            
+        steps:
+            - uses: actions/checkout@v3
+            - uses: actions/setup-node@v3
+              with:
+                node-version: "16"
+            - name: run script
+              run: node "${pwd}/tslaUpdate.js"
+            - uses: stefanzweifel/git-auto-commit-action@v4
+              with:
+                commit_message: auto change
