@@ -17,7 +17,7 @@ jobs:
               with:
                 node-version: "16"
             - name: run script
-              run: node "${pwd}/tslaUpdate.js"
+              run: node "./tslaUpdate.js"
             - uses: stefanzweifel/git-auto-commit-action@v4
               with:
                 commit_message: auto change
