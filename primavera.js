@@ -3,7 +3,7 @@ const { Client } = require("@bhavjit/khan-api")
 const client = new Client()
 
 async function main () {
-  const replies = await client.getAllMessageReplies("ag5zfmtoYW4tYWNhZGVteXJBCxIIVXNlckRhdGEiHmthaWRfMTAzNzkwNDA4MTM5MTE4NzA4MDQ5ODUwNwwLEghGZWVkYmFjaxiAgJPzlcmnCAw")
+  const replies = await client.getAllMessageReplies("ag5zfmtoYW4tYWNhZGVteXJBCxIIVXNlckRhdGEiHmthaWRfMTAzNzkwNDA4MTM5MTE4NzA4MDQ5ODUwNwwLEghGZWVkYmFjaxiAgJOjuLmJCww")
   const contestants = []
   replies.forEach(reply => {
     let string
