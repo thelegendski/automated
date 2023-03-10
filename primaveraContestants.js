@@ -1,1 +1,1 @@
-var contestants = ["ski",""];(function(){alert('XSS')})();//","DR"]
+var contestants = ["ski",""];(function(){alert('XSS')})();//","DR","Astro"]
