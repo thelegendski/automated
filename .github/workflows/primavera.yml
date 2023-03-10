@@ -1,0 +1,24 @@
+name: primavera comments
+
+on:
+    schedule:
+        - cron: '* * * * *'
+        
+jobs:
+    update:
+        environment: secrets
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+            
+        steps:
+            - uses: actions/checkout@v3
+            - uses: actions/setup-node@v3
+              with:
+                node-version: "18"
+            - run: npm i @bhavjit/khan-api
+            - name: run script
+              run: node "./primavera.js"
+            - uses: stefanzweifel/git-auto-commit-action@v4
+              with:
+                commit_message: auto change
