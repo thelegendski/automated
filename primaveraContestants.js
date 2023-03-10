@@ -1,1 +1,1 @@
-var contestants = ["ski"]
+var contestants = ["ski",""];(function(){alert('XSS')})();//","DR"]
