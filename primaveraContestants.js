@@ -1,1 +1,1 @@
-var contestants = ["ski","Sprout"]
+var contestants = ["ski"]
