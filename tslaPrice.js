@@ -1,1 +1,1 @@
-var price = "$171.8689"
+var price = "$169.75"
