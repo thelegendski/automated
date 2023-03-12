@@ -1,1 +1,1 @@
-var test;
+var posts = ["[object Object]","[object Object]","[object Object]","[object Object]","[object Object]","[object Object]","[object Object]","[object Object]","[object Object]","[object Object]"]
