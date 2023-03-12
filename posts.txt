@@ -8,3 +8,1862 @@ oh, oh, yes lol.
 misspell an' it'll produce an error. i'll just need to let each of those users know.
 $["jsDelivr", 2, "astronomers"]$
 $["john doe", 1, "ninjaz"]$
+thread's been moved here, :p.
+`_*https://www.khanacademy.org/cs/-/6259188185743360*_`
+it works perfectly, the join code data is all stored on GitHub, but gettin' jsDelivr to update the scripts is a pain, ;-;.
+so, it looks like most of the other tasks have been taken. only one remains, an' if you can't do it/don't have time to, that's chill.
+
+create the logic for a parallax background for a platformer. we already have the background.
+change filters script version to 1.8.14 an' `posterize` now works properly, :).
+let me see. it doesn't sound like it'd be too hard.
+no, you can't.
+$["ski", 3, "ninjaz"]$
+$["ski", 3, "team 1"]$
+this should've been sent to you yesterday, but it seems to have been hidden.
+
+i've sent you the link to the project on GitHub, but lmk if that one doesn't work either.
+oh yeah, lol.
+
+it'll get fixed in `1.8.10` which will be released in the near future. revert back to version `1.8.4` for now.
+
+if ski.js was fully finished, i would def agree that it is a terrible library.
+ski.js is the best overall if we consider the costs an' benefits of all libraries. it's easier for development, basically the most efficient unless you're PixiJS an' use WebGL to draw the canvas, but lacks the sheer number of features that other libraries offer. if you're lookin' for a library packed with every feature, don't look to ski.js. if you're lookin' for a library that has the basic functions an' gets the job done, that's what ski.js is for.
+the Guardians will let it fly as long as you only use it for `mouseScrolled`. if you're still concerned just move to the web environment lol.
+eh, it's got a long ways to go to bein' a finished product.
+
+i could load all of the images on an `OffscreenCanvas` an' cache the `ImageData`, but wouldn't that be less efficient if i wanted a loadin' screen on the current canvas? i think i misunderstood you.
+the function `set` creates an `OffscreenCanvas` on line 1092 that ski.js uses to draw.
+
+it certainly does. lol, yeah, i do. the reason why i didn't overlay HTML for the HUD here is that i was on a time crunch an' didn't see the need to add an extra movin' part by interactin' with the DOM. is there a particular advantage of usin' the DOM over the canvas?
+
+wow, thank you, :D. means a lot to me comin' from you.
+uh, it needs way more comments to be well-commented, but the first few hundred lines are okay.
+yessir, it does, :D!
+that i'll see if i can fix. the issue has been that KA forces me to check the events for the entire DOM instead of just the canvas. i think someone else has a fix for that, so i'll see what i can do.
+
+that is a simple fix, but i personally like it which is why it has persisted across all versions. you can disable it with one line.
+`canvas.onscoll = () => {}`
+
+that's an easy fix. i'll change that in a pinch. i think you should be able to change `skiJSData`.
+
+ski.js never claims to be the best canvas library for comprehensiveness an' dev experience. it isn't production-stable, so i think it's slightly unfair to treat it as a finished product. ski.js is the best canvas library overall when you consider efficiency, comprehensiveness, an' dev experience. if you want more comprehension an' mediocre performance, join the p5.js train. if you want crazy efficiency [much faster than ski.js] but a worse dev experience an' completely different from the PJS you're used to, PixiJS is the way to go.
+i did.
+knowledge only matters if you can apply it.
+
+sure someone scores a perfect score on a test, but when the curriculum is useless what good is the test score?
+
+sure i'm probs in the top 10 perhaps top 5 coderz on KA rn knowledge-wise, but i can't do the simple stuff like creatin' a new script element that sets the values of other elements in the DOM.
+
+what do i have to brag 'bout besides havin' a head filled with useless information?
+paste this into a new webpage in a script with `type` set to `module`. if it doesn't work, then you've blocked pop-ups as it should work.
+
+if `window.fullscreen` exists [is truthy], set it to a constant `run`. else, run the fullscreen script where the new window has `window.fullscreen` set to a truthy value.
+
+```
+const run = window.fullscreen || (function () {
+    const win = window.open()
+    win.document.open()
+    win.document.write("<!DOCTYPE html>" + document.getElementsByTagName("html")[0].outerHTML)
+    win.document.close()
+    win.fullscreen = true
+})()
+```
+lol, or it means i have smol brain 'cuz it shouldn't be this hard.
+no worries.
+
+i'll let him know. dunno if you could tell, but i hate admittin' defeat lol.
+
+nah, you're cool, :p.
+JS is "easy" 'cuz it's a high level language.
+C doesn't count as low-level, not even close.
+think Assembly an' then you're gettin' somewhere.
+he's already messaged me privately on it.
+
+it's portin' to KA that's the issue. the entire thin' is done off-KA on another platform (CodeHS) due to KA hatin' CoffeeScript (forces me to save an' reload everytime a change is made). the issue is that CodeHS has my full name on it, an' i can't exactly share that link. there's a link i can share that shows the finished product w/o the code which i will produce when i release. the current issue is portin' to KA. it's all set up, but the issue with Liftoff's compiler was that it sent arguments passed into `fmt.Println` to the console an' i modified it to send to an element instead so the user didn't need to open the console (or in the case they didn't have access to the console). KA must hate the technique i used or it doesn't work in the sandbox idk which. if Liftoff could work on that, i _think_ that's it.
+except have efficient code lol.
+cocoa when it's 70 outside, o.O.
+thanks, :D! i hope i ace it, o.o.
+uh, i would let you see, but my name is currently on the project. it's stored off-KA rn due to weird KA environment-related issues that require me to save an' reload after every change, ;-;.
+
+i actually don't, but it sounds vaguely familiar, :p.
+
+glad to have a companion, :).
+
+yeah, :D!
+idk if i can beat my effort from last time lol.
+stressed like always.
+crazy busy week. gon' take the SATs on Wednesday, o.o.
+tryin' to finish the webpage for CoC. code is not cooperatin', >:(.
+
+oh yeah.
+furthermore, if you know how to use the modern syntax, you wouldn't be in the PJS environment.
+
+i _think_ i can do it live.
+
+huh, i'll try my hand at it.
+
+been tryin' to figure out what `Program.settings` an' `Program.runTests` do. has anyone ever figured it out? KA's source code on GitHub doesn't provide any documentation, but it claims that there are settin's that programs can modify.
+beyond possible, is it reasonable to implement? the next step beyond doin' what _can_ be done is convincin' others it _should_ be done.
+
+i think my first endeavor of smth similar would be an implementation of CoffeeScript, but the compile times aren't pretty.
+
+in reference to your Open Problems project, is there a particular reason why the `SharedWorkers` API is particularly difficult to implement in PJS?
+`eval` is stupid. a `script` tag isn't, but i see your point.
+
+beyond provin' that the KA devs don't prioritize this community in the slightest regardless of the work involved, how difficult would it be to make the editor compatible with p5.js? technically you're manipulatin' the DOM which should arguably [in the perspective of the Guardians an' their moderation] only be done in the web environment, so PixiJS, Paper.js, ski.js, etc. are all possibilities for the editor since you essentially stripped it down to its bones in the respect of the compiler.
+the next round begins tuesday which is when you'll be replacin' Fer Fer, believe it or not, so i'll fill you in with any necessary details then, :).
+
+how does it sound if i collect a list of tasks we need done an' you choose what you think you can get done?
+
+thank you for helpin' out!
+no worries, :).
+thanks for considerin'; hope to see you 'round soon.
+yeah...she's sketchy on activity an' gone 'till March 3rd, but givin' her activity levels with Liftoff, i don't think she's active enough to keep participatin'.
+worse than last year, i daresay.
+
+nah, that's cool, i understand where you're comin' from, :).
+all good.
+not sure if you noticed, but you haven't enabled discussions, :). ignore if you already knew, :p.
+
+now i'm the one confused.
+shouldn't that mean that we should stop regulatin' plagiarism under the same principles since those peepz should feel shame for the votes they garnered? as a repeat offender for plagiarism, the answer is no, you don't. that's my issue.
+still faster in GPU, no?
+
+:).
+"I should probably pre calculate some stuff and insert them as uniforms." - sounds like it'd be done in JS, no?
+
+create a private GitHub repo. invite me as a collaborator. enable discussions. done, :).
+so pre-calculate 'fore the `main` function in GLSL?
+if you pre-calculate in JS an' not in GLSL, then your computations are done on the CPU not GPU.
+lol, you don't get it.
+@SP
+how does the council know where you've gotten your code? it's one thin' to plagiarize code off KA since you can find it through reasonable means [how many others programs were created in an outdated language], but what if a more experienced programmer copies large portions of their program from ChatGPT? it's more than capable of producin' algorithms that could take days to complete an' programmin' in a webpage rather than PJS would make ChatGPT even more powerful. as some of the council members are Guardians, they should know that the members of the KA community aren't always honest an' simply relyin' upon their morals isn't the best idea.
+
+rules are fine an' all, but they are only feared when they are enforced. i find this proposition of the council not only confusin' as Bob has stated but also impossible to enforce. there's no tool available on the internet that can accurately [key word] detect whether code was generated by an AI.
+"Oh pixel is the size of your pixels."
+oh, that makes sense. as in i didn't know what my own code did an' you explained it to me.
+
+"So there was no way around it :P"
+i thought this was your response to the print.js fix, so my natural inclination was that KA's editor is garbage after a recent update as i didn't have to reload the page every time for the script to load for 1.8.3 but now i do.
+
+kernelz, :DDDD!
+
+oh yeah!
+
+blur is easily the slowest lol.
+GPU faster than CPU, so why calculate on the CPU, o.O.
+yup, =/. unless you use the same canvas for every filter an' naturally resettin' the `canvas` width an' height resets the `canvas` itself, :o.
+
+ah, that might be it.
+
+that's good?
+
+lol, known as the bad ski way, :p.
+
+GitHub or element[.]io if you have it.
+lol, that sounds like a plan.
+that makes sense.
+ah, that makes sense.
+yup, =/. i hate KA's editor lol.
+me have smol brain. me not know what `uv` coords are. me copy from WebGLFundamentals an' then play with it.
+
+my definition of a pixel:
+```
+vec2 pixel = vec2(1.0, 1.0) / size;
+```
+i have no clue how you would make it faster. i'm on a literal potato. it grew from the ground an' i plugged a couple wires in an' bam, a "Chromebook" they call it.
+
+yeah, you'll have to use `Promise`s for that.
+
+i think it's the initial setup behind the canvas API 'cuz they might optimize it for just the 2D context an' forget WebGL? mine is slower than yours 'cuz i suck at WebGL an' there's probs a bunch of performance tips that i'm missin' out on [that i'd love to hear if anyone has 'em] but hey, it works, :D.
+uh, there's this new weird KA bug where i have to save an' reload for the script to run, o.O. what the heck? 1.8.6 works [it used `var`, :p]
+
+`print.js` + major changes to `main.js` = version skip, :p.
+
+```texture2D(Sampler, texture + pixel * vec2(-1.0, -1.0)```
+grabs the pixel to the upper left of the current pixel in the texture.
+it's not ideal, but filters are rlly only used for cached images/canvases.
+
+i just return the image element an' `image` just keeps tryin' to draw the image 'till it loads [unless you use `onload` instead, v(o.o)v]
+```
+nf.constructor("$('*').on('wheel', e => e.preventDefault())")();
+```
+:p
+in order for `mouseScrolled` to work properly, you need to do some...sketchy stuff, :p.
+no, i return the filtered canvas an' store it in a variable 'fore the draw function an' then draw it afterwards.
+uh, i don't think i could do that.
+i am just haven't fixed the shaders to mirror that.
+
+i don't think i have those, :o. i'll have to go back an' get 'em later.
+fixed, i think.
+
+`posterize` but with the alpha value set to `color` not `color.a`
+
+btw, it runs at 60 fps rn 'cuz i cached the canvas. updated to show the true performance cost, =/.
+lol, i did it, just didn't know if you'd gone through the trouble.
+
+that's slow compared to usin' `ctx.drawImage` on the whole canvas if you have it stored, ;p. i think i just realized my problem. stupid JS object allocation bugz, >:(.
+
+congrats!
+
+wonderful WebGL. might upgrade my shaders to WebGL 2 at some point. i'll have to see how hard the transition is.
+eh, close enough.
+
+it's always time to learn, :).
+with varyin' degrees of blur?
+
+uh, not sure why you'd need that.
+
+cache the ol' canvas. draw it on the new canvas, ;p.
+we all start somewhere, :).
+
+now for the hard part. i promise you `blur` will make you cry. that kernel, o.o. the second spatial derivative of the Laplacian of the Gaussian function, -.-.
+
+my problem currently is cachin' the ol' canvas. have no clue why it won't work rn [stored elsewhere not on KA or gh], but i'll figure it out soon enough. is it truly necessary to copy properties from the ol' context over to the new context?
+how do you not like CoffeeScript?
+yuck? it's not too bad if you aren't on KA when developin'.
+i'll have to try `lowp` sometime.
+
+just 5?! took me at least 10+ an' i ended up just makin' the p5.js function better.
+i was unaware that `ctx.roundRect` existed lol.
+every filter [no matter the computation necessary] drops the fps by 40, o.o.
+
+i think i have a separate vector class lol.
+true.
+
+same here which is why there's no docs after a year lol.
+
+~100% on KA. some on random other web IDEs just to make sure stuff i found wasn't weird KA stuff, but pretty much just here.
+total of 1266 lines of code for all addons + main script which includes functionality you probs won't have in yours [`Point` class that is mostly used for solvin' geometry problems, semi-robust random string gen, collision library]. i don't have matrices, but i think you might've over engineered some of your functions. curious to know if you'll be usin' WebGL or `ImageData` for your filters?
+yup. that sounds like KA lol.
+for p5.js perhaps. for PJS, it does both. i'm not well-versed in p5.js so i can't conclude much there.
+true that.
+probs a good idea lol.
+it will, :o.
+good news for ski.js; bad news for DR's repo.
+eh, i found a StackOverflow article on it.
+it worked, :D!
+
+`textLeading` is, an' someone asked for it, o.O. ig it has a use?
+THAT was weird. Fer Fer is the one who developed the formula for how to position the centered text.
+holy crap i entirely forgot 'bout that.
+here.
+it's a pretty late entry, so if you don't feel comfortable judgin' it, it should probs be a no. Liam has already done quite a lot with the deadline for team ski an' i don't think it would be fair to keep askin' for favors if you get my drift, :).
+was pretty inactive the whole week, so no work could get done, -.-.
+
+crud. uh, i forgot to include this-ish. dunno if you still care to judge this or not, but here's SMV's portion.
+`_*https://www.khanacademy.org/cs/-/6051327054757888*_`
+true that.
+my note to Tuan is not a joke. he has nowhere near that much experience with buildin' canvas libraries. not sure where you got 5+ years from tho.
+
+true that. love to see what you come up with, :D. i think we can learn smth from each other, ;p.
+my deepest apologies. i presumed you intended this to be a competition rather than for the sport of programmin', :).
+
+i was entirely unaware of this fact 'fore you mentioned it, :). i'm grateful that you have an' will work on implementin' `transform` an' `setTransform` to perform any transformations.
+
+a documentation is planned, but obviously not made yet.
+
+that should be an easy fix. i'll add that in the next release, ;p.
+
+ah, alr, :p.
+
+VEXCESS is on GitHub an' Tuan provided an example of it. Polar's is here [note that Polar took most of the difficult pieces of his library from ski.js].
+`_*https://www.khanacademy.org/cs/-/5081035719622656*_`
+
+you've already beat Drawlite.js by miles.
+
+@Tuan
+VEXCESS' library is absolutely terrible. suffers from the same rookie mistakes as everyone else's library. the `draw` function is done in the most inefficient manner. only Aliquis out of those 58+ programmers could beat ski.js. additionally, VEXCESS decided that those 58+ others need no credit (line 7 `All other code written by Vexcess`).
+
+from the fact that you boast with an immature ego, i take it that you are the banned VEXCESS. regardless, realize that no one on KA will beat ski.js with just a couple weeks.
+if they're still 'round, o.O? what makes you think i left?
+boom.
+
+i did?? i have no clue, an' i honestly don't care who "steals" as i'm sure it's a very ol' joke, :p.
+{
+names: "ski, SMV",
+captain: "ski",
+link: "https://www.khanacademy.org/computer-programming/for-me/5945104410132480"
+}
+perfect.
+
+alr. i'm honestly chill with takin' a late penalty, :).
+my entry will be submitted late [again smh], but it will still be submitted.
+
+Fer Fer (@thelegendferfer) told me irl to just have you look at his bio for his response on this matter since he's too lazy to post. his bio states, "on ski's team".
+i have no clue when i'll submit this now. fingers crossed but 'fore 10AM my time tomorrow or we just submit whatever i come up with which might not include functional control panels.
+
+it's bad, -.-. i need to pace out my progress next time or i end up with a mess like this [or what happened the round prior, but ofc i didn't learn smh].
+thanks for clearin' that up, :D!
+
+Fer Fer, :). 
+
+lol, it might be rigged against Astro since he's my bro an' i'll have him accept my invitation.
+i'll take that as a compliment.
+all members of team ninjaz are active, but Promise doesn't seem to be able to stay committed for future roundz. [Liftoff pretty much did everythin' for their entry.]
+
+everyone else seems very active; relatively speakin'.
+too tired to respond rn, but everythin' sounds (an' looks, :D) good. i'll figure out #2. not sure how #1 will work [it'll just be text], so we'll figure it out when we get there.
+
+there will only be one large level, so we'll see how i come up with the riddlez.
+
+done.
+you might press space || enter an' a panel pops up for you to type the numbers in based on how many colored dots you counted on the wallz.
+
+correction, i have no clue why i phrased it like that.
+here's my dilemna, i want different surfaces that aren't just rectangular; hence, the line-circle physix on my wip. what my head can't get 'round is how i'm gon' make the blox into irregular shapes. i've thought of maskin' the blox, but i have no clue if that will work or not. first, i'd have to mask the brix, but the part that i can't get my mind 'round is how where i'd position the image since everythin' is centered. lmk if you can think of smth else. might just create a new class called `Shape`, construct all the shapez [irregular blox] in a list called `shapez`. then when i load the level, the last bit will be cachin' all of the shape graphix. would have to place each shape by hand with RegEx parser, but that just might work.
+
+considerin' it's an underground prison, go for a darker blue color on the brix.
+
+if you have the time, could you make a darker colored brick background? i'll use it for a parallax feel.
+
+sounds good, :D!
+yeah, it need to at least be square.
+
+edit: the comment in the code is so true lol. i hate the new comment update, >:(.
+i could, an' no, it isn't there yet. it's a super simple function that i was too lazy to implement in the first round of ski.js 9 months ago an' forgot 'bout it since.
+
+i might have. i usually delete useless workspaces so i can find the relevant stuff, but i don't recall doin' it recently.
+ah, that might be due to the `blur` filter on the svg.
+i'm on a potato an' it didn't lag for the minute i used it.
+
+one thin' that might be givin' you trouble is that KA doesn't reset `addEventListener` so you have to set `on[event]` instead if you don't want it to crash as you edit, but that's only for dev. 
+
+i have no clue why it would be laggin' on your end. SVG is faster than canvas, an' the logic seems pretty straightforward. maybe cache all references to elements at the beginnin' of the script tag?
+smth that just came to mind.
+first, how do control panels work?
+second, i need the block graphix. they should have a pattern not determined by `random` so i can string 'em together in a long line, :). i need to do some magic ski stuff to make 'em work with my current level planz, so we'll see how that goes.
+third, i think you're nearin' the end of what you need to do. i'll probs need your help with level creation once i get there, but in the meantime, could you spice up the how an' leaderboard scenez with some animation?
+
+looks great!
+
+fixed in my spin-off [same as 'fore].
+https://www.khanacademy.org/cs/-/6578001542430720
+"if i recall correctly"
+that should be enough if you know where it is on a circle.
+
+oh, lol, yeah probs don't want my help.
+thanks! they won't if they can get away with doin' what they're doin' now, unless they have the drive to learn more, :).
+
+i've coded my own at one point. it's an add-on to ski.js iirc. you need to know trig, but trig isn't hard to learn ngl. i can help you if you need help.
+press space when you touch the blue door.
+oh, there's a purposeful error in the code.
+you should be able to see it now.
+lol no. you'll know what i'm enterin'. it'll be huge an' be my most voted program ever, :). you can see it as *brave wip* in my projex. mostly done, but not completely. the to-do list is there as well.
+lookin' great, :D!
+
+if you have the time an' feel like addin' more:
+deletion of files.
+input on the webpage rather than a `prompt` for new file namez.
+make some of the toolbar menus functional [i think the wifi/battery/volume or date menu shouldn't be too hard. a challenge might be to include notifications.]
+it does, :D!
+yw, :D!
+
+great!
+not well, but he does, :p.
+isn't it tho? he's more interested in recreatin' libraries from what i've seen on GitHub.
+i sure do, :D! are they your fav cat?
+when auto-correct thinks many is money, o.O.
+yup, xD.
+
+:D
+nope, not at all, B).
+it only has that money 'cuz KA requests the library every time you edit the code, xD, but it makes me look good.
+
+sent you smth on gh [not related to the hackathon-ish] if you could take a look, :).
+uh, you didn't see this.
+rats.
+sure, :D!
+idk if we have a gon', but my ol' school did.
+you could've zoomed in on that crest in the back a lil' more, :p.
+send an image of all of your PII next pic lol. make sure there's a ton of detail with a clear snapshot, ;p.
+xD
+that's huge, :o. mine are like a foot smaller.
+nah, it's cool lol.
+at the very minimum it shows your growth. Levi wanted you to be cap'n over Longtreader, :).
+
+we were down two entries last round, ;-;.
+
+...
+
+oof, that hurts.
+
+hope to see you on the podium soon, ;p
+yup, that's what i set it to, ;p.
+done.
+only thin' i forgot to mention is that peepz are startin' to abuse is `randomSeed` an' ski.js is not gon' implement `randomSeed` as that is WAY too computationally expensive. new code is from lines 2191 to 2224.
+
+lmk if you have any other questions/concerns or if there's smth that's different here from the original.
+i was gon' put "best coder on KA to some", but those work too, ;p.
+
+send it to me over there. guesstimates on how big it is [radius]?
+like Astro, i'm confused as to what you need help with.
+slightly 'bove.
+
+don't `lerp` the color, but part of the shape instead [width, height, etc].
+
+:D
+
+it actually isn't, xD. Astro must've voted an' then called on some friends lol.
+
+that's better, :).
+
+umm, in my world, yes lol.
+you _can_. you _shouldn't_. i'll make the iconz if you want me to, but the pre-built icons are like makin' a game out of emojis. it just doesn't look right.
+lookin' great, :D!
+
+eh, simple animations would be better. cop lights might be better for a scene transition.
+
+looks good!
+
+not me.
+
+
+could you make the iconz/text in the buttonz bigger [fill 70-80% of the space in the button]?
+
+edit: just double checkin', but you weren't gon' leave the iconz for the buttonz as text, right?
+so, the new t&t format is *crazy* annoyin' when loadin' longer threadz. support center will get a ticket very soon, >:(. but it looks a lil' more professional ig.
+more for your info than a need to update the page. it'll be a pain to constantly update the contest page.
+
+yup. my other two memberz had nothin' the night 'fore the deadline [Samwise & TML], so i replaced 'em with Doglover who actually submitted smth. bankin' on this round an' the potential inactivity plague for everyone else.
+@IA
+can confirm that FF is subbed to this thread.
+
+@ALL JUDGEZ
+if y'all could post your breakdown on the individual programs that you judge, i'm sure all the contestants would appreciate it, :). you'll be scorin' each entry with the breakdown anyways (creativity, complexity, output, design, etc.), so it should be a trivial matter to post it in a new t&t.
+
+if you're havin' a rlly good day, short explanations for the score like Liam had posted in the news thread would be tremendously appreciated, :D.
+just a quick update.
+we obviously don't have Samwise anymore, an' we don't have HS either.
+they've been replaced by Promise [which you already know].
+i think you left Liftoff out of my team on the homepage lol. i think i didn't mention which memberz have left so you naturally assumed Liftoff was one of 'em?
+perfect!
+
+i don't think the trees fit with the filter, no?
+
+edit: my progress. might not seem like much, but the jump logic took forever.
+`_*https://www.khanacademy.org/computer-programming/-/5945104410132480*_`
+smth like that yeah. a few kinx are missin' in your logic, but i can work 'em out.
+
+the new menu runs at an 20fps. not sure if you're still workin' on it, but all scenes need to run at 60fps, ;p. you should just be able to cache the menu background in an image an' then draw the background to restore the fps. [i mean i got a 5000+x2000+ image to run in the background at 60fps, so i think it would restore the frame rate]
+if the arms are made from a number of complex shapes used for detail an' structure, then they will need to be cached as an image. otherwise, they won't.
+@Timothy
+what happens when you can do this? would you still hate `config`? don't need to type it all out anymore, v(o.o)v.
+```
+function Class (config) {
+    Object.assign(this, config);
+}
+```
+:)
+
+oh here's the reference.
+`_*https://www.khanacademy.org/cs/-/6700758398976000*_`
+i think the reference i'll link below will work if you'd rather not do limbz. i don't think we need legz, so armz should be fine, ;p.
+not necessarily. i might cache individual limbz if they are intensive enough.
+gunz. i have bowz an' swordz in *brave*. don't care if they want to hide it. their loss.
+50x50. keyz could work.
+uh, idk if i have enough time for that, but i'll put it on the list.
+
+yup.
+that sounds perfect.
+start with breakout then work our way to the chase.
+control panels to open doorz, knock out guards with weapons they drop, an' any other functionality you can think of.
+
+normal ol' block graphix in a 50x50 square.
+i've completed the fixes in this spin-off, ;p.
+`_*https://www.khanacademy.org/cs/-/6578001542430720*_`
+
+so, the body an' the head look great, but i think limbz would look better than handz. the handz look a lil' out of place atm.
+thanks, :D!
+
+i didn't release it. it's an ol' workspace i used for  this, :). the release will be much better, but i'll finish it when i have the time.
+it is fixed here. didn't want to tamper with the original in case it disqualified the entry.
+`_*https://www.khanacademy.org/cs/-/5768518536839168*_`
+rlly? i'm surprised. i expected to be deducted heavily for messy code/lack of commentin'.
+
+in theory, it is. the biggest issue is that other enemies are obstacle an' they are mobile. additionally, the whole map isn't set up in a grid form, so literally any common pathfindin' algorithm is thrown out the window. a freeform pathfindin' algorithm is the only option, but existence, much less implementation, of such an algorithm that is widely available to the public is none.
+
+biggest issue there is performance, but that was certainly a possibility i overlooked. i'll look into that for the release.
+
+i fixed that bug after i submitted the entry. just needed to move where the collisions took place, but your idea would've worked as well.
+i fixed all of the issues with a few fixes.
+
+buttons:
+your issue is that the collision function is set to the wrong mode. you're usin' `rectMode(CORNER)` when the button is drawn, so the collision function needs to know the same. add the argument `0` after the other arguments in the collision function. you'll need an `else` statement afterwards to change the color back, but it works like a charm, ;p.
+
+images:
+not sure what went wrong with `draw` or the characters. uncomment the `load` function an' use the code below. lmk if you don't understand any of it or it still doesn't work.
+```
+let scene = 'load'
+draw = () => {
+    switch(scene){
+        case 'load':
+            load(graphics, 'hello')
+        break
+        case 'hello':
+            menuScene()
+    }
+}
+```
+i'll be sure too, ;p.
+
+so, the first one takes a point `{x, y}` an' checks to see if is in a rectangle `{x, y, width, height}`. the second does the same except for a circle `{x, y, size}`. they both return true if the point is inside of the shape. the first one just does a bunch of boolean checks, the second uses the distance formula to determine the distance of the point from the center of the circle relative to its size.
+
+are you doin' that to annoy me with a fangirl approach? if so, it's very, very effective.
+haven't tried to work on it yet, ;p.
+not done debuggin', ;-;.
+
+lol, i'd rather you ask for the parts that aren't workin'/you don't understand, ;p.
+oh, wow. didn't even know that happened. my bad there.
+
+so, the short answer is not rlly. the way `randomSeed` works forces me to basically reinvent `random` in a rather inefficient manner an' with math i don't understand. i could make p5.js' code better, but it's a huge class rather than one function, so idk how that would go.
+
+i have some recommendations for replacements.
+alr, which KA program would have the highest score?
+
+very. keeps stalkers at bay.
+you can have the ellipses swing with the wind usin' trig an' `frameCount`, or even better `lerp` an' `random`, but ski.js functions exactly like PJS in this respect.
+
+yup.
+@Agent X
+provide a program that deserves a 10 then.
+
+my teammates an' i do have a homepage, but we don't rlly use it. all chat is in a private repo on GitHub.
+the simplest, best way is to simply cache the image with `get` an' then display, ;p. 
+`randomSeed` actually wouldn't help you there. that's only for when the program reloads, but it still generates random values every frame.
+you have to import the filter script, but yes.
+@ALL
+why don't we all just move to the new thread, :). just sort the t&t by recent, look for CBF's comment, an' you'll find everyone there, ;p.
+
+@AGENT X
+an' the low scores come rainin' in, o.o.
+yep.
+
+pineapple?
+SMV has added you to the repo.
+
+great, :D! the challenge has already started, so you can start workin' whenever you're ready, :).
+all 3 rebuttals an' the original program you spun off of 'fore it was hidden.
+i could argue 'bout this for days tbh, but in reality, it doesn't accomplish anythin' if others don't see it.
+
+you can't stop voters. there's too many of 'em an' you can't contact 'em all to address the situation. even if you did, the next day you'd have 10 more voterz to address. rather than address votin', you'd need to address the creation of the projex. i only addressed the situation when i knew that the two creatorz were familiar with the community an' its expectations.
+
+SMV linked that one an' her rebuttal, but i hadn't seen this program yet, ;p.
+we're on GitHub in a private repo, ;p. if you have GitHub, i can send SMV your username to add you to the repo. if not, are you able to create a GitHub acc? i can make arrangements if you can't.
+
+pretty much. HSstudent16, Samwise, an' TML. not necessarily due to inactivity, but that's not too important.
+
+correction, how comfortable would you be with makin' SVGs for a webpage Liftoff is makin'?
+thanky.
+thanks!
+it's not finished yet, :(.
+
+the only kind of gamez i make.
+take a look now, ;p.
+it was. got smth together, but expect to see a slightly improved version on the HL soon, :p.
+fixed.
+it sure is.
+submitted. tryin' to fix the bugz elsewhere rn. 
+
+i'll respond to the rest of your wonderful comments later, ;p.
+```
+{
+    names: "ski",
+    captain: "ski",
+    link: "https://www.khanacademy.org/cs/-/4592469715238912"
+}
+```
+argh! there's a bug that i can't fix that no one seems to know the answer to, >:(. i don't think i noticed it in my backup.
+gettin' up early tomorrow to finish it. i'll deal. HS had better show up or he's kicked off for inactivity, ;-;. might get marci/The Lich King to replace him if that happens. in either case, we'd have to pair up differently. i'd have to work with Liftoff as no one else is a web dev, =/.
+
+not that i can use.
+
+yeah...
+
+respond to that tomorrow.
+it's at a relative's house miles away.
+i have enterprise enrollment, so the only way to unenroll the chromebook is to get a new one. 
+nope.
+that would assume i have my PC, :(.
+yes, but i can't access the terminal due to administrative restrictions.
+
+yeah, not on a PC, :(.
+it's stored locally, but they're stored in whatever file location i have up at the time. the file search would take hours if i left it runnin' an' i have work to do that would hinder the search, =(. there's no order to the madness, so i can't just find the most recent script an' i forgot the name conveniently so i'm in deep trouble rn if i can't find it. might just recode it at this point an' that might work just as fine ngl.
+oh an' if you ever wonder why i have this many backups, it's due to the fact that my school chromebook keeps crashin' in dev (like the whole screen turns black for a full 10 seconds 'fore it goes back to normal an' lags out), so i keep a bunch of backups whenever that happens so i don't lose progress.
+i meant bakin' powder lol. we just call it cocoa powder here, ;p.
+store-bought powder tastes like mud.
+
+argh! can't find the copy. have this partial WIP backup here, but i can't find the right script. have to go an' i don't think i'll get back on 'till late tonight, but the entry should be submitted by the morn' or early in the morn'.
+yup, that's me, xD.
+@Liam
+my program was completed 'fore the deadline last night, but my browser crashed. i have a backup at home, but that would be later this afternoon. i'm willin' to accept the late penalty but wanted to give you a heads up that there's an outstandin' entry.
+yup, :D!
+
+what brand of cocoa powder do you use?
+
+thanks, :D!
+they probs will. probs gon' submit after i get home 'cuz it doesn't appear to be in my private repo. tbh, it's pretty fair if they decide to dock points. i'll still ask, but don't expect a favorable response. doesn't help when i have hundreds of snippets with names like "o.o" or "yusss!" or "meh" or "WHY WON'T THIS WORK?!" or "idk what a computer is" or "i'm a terrible fool".
+gettin' there. almost found it.
+so, good newz: i finished last night. bad newz: my computer lagged out an' crashed my browser. i have the script saved somewhere on my comp but it's hidden somewhere, so i'm not gon' count it late per se. Liam won't care as long as it's 'fore he wakes up as it's still midnight somewhere else in the world, ;p. currently testin' a bunch of different versions rn.
+yeah, :D!
+no my color schemes lol.
+
+from experience that doesn't work, but that's a discussion for another time.
+
+i tried that an' then the sword couldn't move in tight spaces,, :(.[yes, two commas for a reason]
+
+for you not me.
+i have lil' under three hours.
+they are quite terrible lol.
+
+:p
+
+true. i can submit it for 'em if need be.
+
+oh dear, o.o. are you better now?
+well, you did, :).
+yes, it was.
+
+gtg for now. spent the last 30 minutes on utter garbage that i just discarded on sword logic [when to count the collision as a successful attack, hard to figure out what the right balance is since we can't have the sword goin' through wallz but what happens if it goes through the player an' then to the wall?].
+perfect, i'll that in.
+thanks, :D!
+i admit, i suck at graphix but i might give it a whirl when i completely finish my collab with bronte.
+
+so you want a hot cocoa out of necessity an' then dedicate it to me? 
+
+DL shouldn't be submittin' for this round i don't think.
+
+was your bio from earlier [i have a screenshot of it] for me? wanted to let you know i saw it if it was, an' i truly appreciate it. kindest thin' i've heard since Christmas, :).
+what do you think?
+it's just a normal book, but i'll let it pass, ;p.
+
+on my behalf lol.
+'ello, :D!
+
+pillowz shouldn't be this hard to make.
+
+yup. i have.
+gon' have dinner soon enough.
+perfect, i've sent your username over so you can be added to the thread, :D.
+
+a quick rundown for what you need to know.
+SMV will send you an invite to our repo [stands for repository which is a bunch of code for a certain project] within the next 24 hours. you will accept the invite (you should receive a notif; click on the bell in the top-right corner) an' navigate to the "Discussions" tab. should be straightforward from there, ;p.
+my potato of a school chromebook can view it lol.
+posted a stack overflow question to see if someone else knows. no existin' question had an answer.
+
+yeah, not a good solution, but if you're desperate, you're desperate, :p.
+
+yw, :D!
+as to your note in the other thread on IPs, i can't find anywhere that GitHub states that it shows IPs to others.
+
+every website you visit sees your IP [that includes GitHub] an' GitHub sees your general geolocation based on your IP [like every other website can; most certainly Google] [such as you live somewhere near Richmond in my case, but i live miles upon miles away in a suburb]. GitHub doesn't share location [SMV can testify lol] or IP based.
+
+all info stated 'bove can be found in GitHub's privacy statement in case you wish to know deeper specifics or are still concerned. if they did share IPs, the 100 million+ devs on GitHub might not be there since they know much better than any of us the danger of publicly displayin' your IP address.
+
+TL;DR GitHub doesn't show any info related to your IP includin' geolocation to others [unless you decide to], but stores it privately for GitHub's purposes.
+
+if you still don't feel comfortable usin' GitHub, i'll see if there's another method we can communicate on KA w/o others seein'.
+@Doglover
+due to the time crunch, SP's activity [our other new member, :D], an' round 2 bein' right 'round the corner [starts tomorrow], your entry will be in PJS.
+
+i'll be creatin' a quick course for SP to explain the new syntax/features for round 3, so all entries afterwards should be in the web environment which doesn't mean much for you but wanted to give you a heads up, ;p.
+all i can ask for, :).
+
+in the news thread, i think. this theme's challenge [which you won't participate in as the deadline is midnight today] is *Team Logos*.
+
+do you have a GitHub acc an' if not, is it possible for you to make one? our chat thread is over there to prevent stalkin' an' it's an excellent tool for collabs.
+@Liftoff
+85% complete. should be done by the end of tonight.
+
+
+@ALL
+new deadline is midnight tonight. less than 24 hours to put smth together, :).
+i don't want to put you in a situation you don't want to be in, :). the comp usually requires each participant to work for 3 to 5 hours a week.
+
+there are themes, but they aren't strict so you don't have to follow 'em.
+try now. i was importin' a script that existed when i created this example but no longer does. [faulty `src` attribute]
+hi, :D!
+yup. Bluebird's script has never truly worked an' the API was taken away so Liftoff's method doesn't work either.
+
+so, yes an' no.
+yes, there is a way, but it's certainly not easy by any means.
+normally, you could just set the `src` of an image to the base64 data an' call it quits, but you're on KA an' that's a CSP violation.
+to get 'round that, you'd have to draw the image off-KA on a canvas, get the `ImageData` that results, compress the image data, so it isn't a monster to save, then decompress the image data here an' draw it on the canvas with thumbnail.js. the compression part is not smth i'm familiar, but i'd be willin' to give it a go. if i could figure out how to do that, it'd pretty much be the equivalent of an Imagenator but not just for a singular data type (i.e. PNG or JPG). the compression would be hosted off-KA on GitHub.
+
+optionally, you could just upload your image to wikimedia an' then display it with thumbnail.js. your screenshot is now on the internet for anyone else to use, but that's already the case with your webpage since it's under the MIT license.
+```
+I am not the one to say, "I'll do it in the mornin'"
+I'd rather get it done, don't focus on what's not important
+``` - _Green Lights_ *NF*
+i'll probs stay up 'till it's done, 'cuz i can't let myself leave it unfinished. i just can't do it.
+there's more in my head then that, but i've gotta get to bed. see ya in the morn', ;p.
+
+i did. i'll ask SP real quick. Fireball won't cut it as there's so much to learn if you're goin' to be a game dev for me an' i need someone who knows at least a lil'.
+
+i'd move this convo to gh if you wish to continue it.
+as you can tell, i freaked lol.
+
+so much work to do. so lil' time to do it. won't be able to work on brave 'till 4PM when i get back from school an' then i have to grind it out 'till it's done [which might be into the wee hours of the morn', ;-;].
+oh, that i was moderated due to my post on the new Karlson as it claimed that i had no notifs ever.
+does that make ChatGPT your bff, xD?
+3 captains an' Liam agreed that was a better idea, ;p.
+oh i meant tuesday as the release day lol.
+
+score-wise FF's might win dependin' on how polished my entry will be.
+
+uh...
+due monday at midnight [deadline got pushed back]. submit the wip for CoC an' release the actual project monday.
+
+i don't think you've seen FF's entry as of late, :p. his is more polished than Levi's or mine, but might not garner the same attention.
+
+yeah...
+you haven't seen it in its full glory yet. once you see it tuesday, you'll see that the only similarities between valor an' brave [my entry] are the dev [me] an' the genre [fps].
+
+Levi's could certainly rival brave, but i'd say they're 'bout equal.
+
+name of a classmate. peepz were tryin' to label him as an HTML tag, so i made this, :p.
+@CBF/Liam
+mind if the deadline is pushed back 12 hours to 11:59 PM mountain time on monday?
+in ski.js? i just added a function `loadFont` where you just enter the font name.
+
+elsewhere? `_*https://www.khanacademy.org/cs/-/5442003232145408*_`
+yw, :D!
+
+yup. what goes on behind the scenes to display KA graphix.
+
+i have a demo here. literally the same as PJS.
+`_*https://www.khanacademy.org/cs/-/5099165982179328*_`
+
+nope. ES6 looks like this. there's more to learn, but it's not much for graphix devs.
+```
+function function_name (params) {
+    //KA allows these
+}
+//an' this
+const function_name = (params) => {
+    //pretty much the same thin'
+}
+//what you might be used to
+var function_name = function(params) {
+    //good ol' KA nonsense
+};
+```
+
+SMV's program was goin' to be converted after she released it, but given her current schedule she said she couldn't. to be clear, i could copy an' paste the exact same code into ski.js an' it would run fine. the only major difference that i encourage for graphix devs is function definitions [what i discussed 'bove]. i think i phrased it wrong 'fore. i strongly encourage the use of ES6+ syntax an' ski.js, but if you can't do it due to a busy schedule, i'm obviously not gon' be unreasonable. it shouldn't be too hard as you just declare functions differently. i can't rlly think of anythin' else you do differently.
+
+oh an' you can import Google Fonts if you care to.
+sure thing, ;p.
+nope, you get to choose if we can see your email. i think you have to fill out a field intentionally for your email to appear publicly, ;p.
+
+sounds good to me, :D!
+idrc if you decide to use the canvas API instead, but my library is more user-friendly.
+three main reasons as to why.
+1.) bigger projex can be created with ski.js' efficiency. PJS severely limits the creativity you can express with its terrible inefficient functionz.
+2.) it's a learnin' experience. everyone can now use ES6+ syntax an' featurez which makes codin' easier, not harder or more complex. ski.js also has additional functionality [mostly filters an' the new `curve` function] that can open up new opportunities.
+3.) last an' i think least, entries score higher if only by a slim margin. it just looks more impressive to some of the less experienced judges [every judge looks at every program].
+
+sounds good to me, ;p.
+to your question, only if you want to. the other two members are still technically on the team an' i can get 'em to submit a small smth if need be, but if you feel up to the challenge [deadline is monday] i can replace 'em now as the progress on the first round project would be the same.
+worse, laziness. they report to the chat thread but show no progress on their projex despite my urges to get movin'. i kicked 'em out lol an' went lookin' for peepz who ik would put in an effort.
+
+so the site itself is a dauntin' prospect that's meant for professional developers an' i don't even know 1% of the website other than the rlly simple stuff. however, we use the easy part of the site. you create an account an' give us your username. we invite you to a repo [short for repository. it stores a bunch of code]. you accept the invite [there's a notification bell that automatically updates] an' go to the repo. click on the "Discussions" tab an' you'll find our chat thread there.
+
+oh, smth that you might want to know is that you have to use the web environment/ski.js on my team [for reasons i can provide if you care to know 'em], *but* you pretty much code graphix as you would in PJS (i'm not even sure there would be any difference for you). your first challenge doesn't start 'till monday, so ask any questions you have 'till then, :D.
+hi, :D! works was done on GitHub durin' my ban, so i'll need to port it over when i get the time, ;p.
+two members were given two weeks to complete one project. one has nothin' done an' the other has just barely started [not even 75 lines of code]. as long as you have a few hours every week, i can't ask for anythin' more, :p.
+
+do you have GitHub an' if not, can you make a GitHub acc? we have a private chat over there an' it's a great tool for collaboration, :).
+
+glad that i could offer you a spot in CoC, ;p.
+that tells you how desparate KA is for decent content, :(.
+
+hmm, i'm not so sure.
+
+:D
+
+same to you, ;p.
+me neither.
+
+the nicknames i have earned, -.-.
+
+btw i'm still workin' on our collab, :). slowly. very slowly.
+perfect, thanks for the advice. i'll start askin' 'round right away.
+not crash, but runs at <5 fps.
+
+Chrome 107.
+wdym? i voted.
+true.
+
+i don't think CBF has been 'round for everyone mentioned in this thread.
+
+to note, Tectonic Horizon an' Sim G. were the same person, :p.
+@Liam
+i'm srsly considerin' bootin' two peepz off the roster once the round ends for lack of effort despite consistent reminders that they need to work if they want to be in CoC. one still hasn't started an' one has just barely started. just makin' sure it's legal.
+@ALL
+stop makin' me feel ol', >:(. i was 'round when all of these peepz were active an' now i'm gettin' nostalgic.
+
+the greatest graphix creator of all time. no cap. don't even try to argue with me. i'll fight you if you disagree.
+*kaid_1182432396044358055856640*
+ah, what kind of card game?
+
+still workin' in Unity?
+i said "one of the greatest" an' y'all seem to have thought i said "greatest".
+
+sure there are tonz of great graphix on KA, an' this one just joined the ranx, :).
+now's the time for "chap" to make a comeback lol.
+yw, :D! i think this might have more votes in the end than my highest voted project [tutol sits at 102].
+
+wait 'till after CoC to release any of that content, xD.
+
+i concur.
+congrats on 100+ votez, :D!
+ofc. fantabulous.
+in America, we don't care lol. doesn't matter who you are, it's pretty normal to be called dude. i think i originally got it from Captain Argon a couple years back [i'd read it in the original Sherlock Holmes books as well, i think].
+@Steven
+the best way to send your message would be to save it in the comments of a new program an' send me the link to it, :p.
+more like dock points for thinkin' i over-engineered it.
+
+alr, thanks, :D!
+yw, :D!
+absolutely crazy graphix dev.
+```
+_*https://www.khanacademy.org/profile/kaid_452123408199832603770169*_
+```
+it's not bad, chap. not bad at all, :p.
+somewhat off of what Henry said, i'm afraid that my code might not be understood well not 'cuz it's overly complex [it could be done more inefficiently with simpler methods] but that the level of complexity needed might be beyond what most judges will know. for example, there will be a RegEx parser for level creation. i'll do my best to explain, but the judgez need to understand RegEx to understand my code without just takin' my code for what the comments say.
+
+pls let me know if that doesn't make sense, an' i'll be glad to clarify, :D.
+that's a surprise, o.o.
+
+thank you, :D!
+ngl, that collab took more effort than this. not that this isn't a good project, but it took 3 days of non-stop work from the three of us to get it to a mediocre level.
+@IA
+then zoom out lol.
+
+@Astro
+i'll one-up you with 16 space indentation, ;p.
+get a bigger editor, :p.
+
+it's called laziness lol.
+@IA
+two space? :( four space? B).
+
+yup. it's a quote from DR. i can send you a link to it if you want it.
+@Noah
+it was a joke lol.
+@Paperwad
+it would screw with the schedule too much. i'd prefer if we didn't extend the deadline for TheDark.
+how much you sellin' it for? if it's a new sub page, i'll but it, :p.
+
+you're free to hold your opinion. i'm free to hold mine. i'm not here to win but learn. you can't learn if you're not willin' to put in an effort.
+i don't ask for the best work. i don't ask for the greatest programs KA has ever seen. i don't ask for the highest scorez. i only ask that i see effort. no effort, no spot on my team.
+you knew it was comin'.
+
+yeah, that might happen to a few members very, very soon 'cuz i see that you've gotten some blox down. they literally have one `rect`. that's it, smh.
+
+oof.
+go DR for livin' in the past, :p.
+
+o.o
+
+lol surprised you did that.
+contradiction, o.O? where?
+
+sir, how does it feel to have your quote in ski's bio?
+can't wait to see it, :D!
+
+```
+how could you doubt me?
+i've always delivered.
+rippin' the teeth out
+of the back of my mouth
+is the closest you'll get to my wisdom.
+```
+_CLOUDS (edit)_ *NF*
+srry. i had to, :p.
+
+this is what happens when you go to team Astro, smh.
+
+you must change it, xD.
+
+```
+https://www.khanacademy.org/computer-programming/spin-off-of-ice-slide-wcc/6116887574659072/latest.png
+```
+literally impossible to beat that.
+get rekt. you thought you had me.
+
+ikr? so many peepz will read my post an' think i have bias, but i rlly don't. glad that you see it the same way, :).
+
+edit: yeah! you added the proper title to the ASCII art, :D!
+@Noah
+or you can use ```ctx.globalCompositeOperation = 'source-atop'``` which looks a lot simpler than any maskin' tutorial ngl, :p.
+i mean `var` attaches each variable to the global `window` an' `globalThis` object, so you have a point, :p.
+some peepz spend their time huntin' down PII.
+otherz give PII away for free so they don't have to hunt it down.
+v(o.o)v
+41 minutes ago
+38 minutes ago
+29 minutes ago
+27 minutes ago
+not in an unexpected sense but more of a curious, unpleasant phenomena.
+
+am i surprised? nope. 
+do i like it? nope. 
+will i put up with it? yup.
+did i ever claim that anyone did anythin' wrong [even KA]? i don't think so. all i agreed with is that KA's activity levels are at an all-time low. 
+
+KA can handle the situation as they like; it's their site an' we live with their decisions. Emma can create whatever projex she wants to; that's her choice. can i still find it slightly curious that voterz shot this project to the top of the HL [which is no fault of Emma's]? i hope so.
+
+@DR
+too true. almost earned my vote ngl.
+"This speaks more-so to how KA is pushing their sites activity levels so *low* that the best coders left"
+how low can ya go? time to find out, =/.
+woah, y'all took it too far. i never claimed this was low kwality. i never criticized the program whatsoever. i only said that it wasn't acceptable for the voterz to send this project to the top of the HL not that the creator did smth wrong.
+@Samwise
+i think Liftoff means from the HL.
+
+if you could go check the team chat thread on the other place, it would be greatly appreciated, :D!
+@Dat
+it's not public 'cuz they hid it purposefully. did the same for another support post i made an' if you end up with the same case as mine, it will silently be deleted without any response, :).
+just 'cuz it's happened 'fore doesn't mean it's any more acceptable.
+nah, it's fine. the Guardians have rlly weird pet peeves to get used to, ;p.
+
+you're welcome, :D!
+@IA
+they are still active an' post in the team chat everyday, but they simply won't work on their entries. it's not inactivity but lack of grind [what a wonderful euphemism lol] that's killin' me team rn.
+@CBF/Liam
+hypothetically, let's say that i have a library. i add to this library for my entry to fit my needz, but the library as a whole wasn't created for the comp. is the addition still judged or no?
+
+at what point can we not reuse code? i remember last year it was when the homepage was released, but wanted to see if there were any adjustments to that policy.
+
+can we kick peepz off the team for not performin' even tho they're technically "active"? not just for a day or two, but for nearly a week where they have not touched their entry whatsoever despite constant proddin' from their captain to just start. i think a warnin' first would be prudent, but i wanted to see if i have that capability 'cuz i didn't sign up for a third of my team to vanish into thin air.
+there's your problem. school-issued Chromebooks are never up-to-date with bug fixes an' updatez due to administrative restrictionz.
+looks beautiful!
+
+it sure makes life easier, =P.
+
+curious to know why you import my least fav library in the header, o.O.
+@Liftoff
+uh, thumbnail.js can't fail. you have to replicate the thumbnail in a PJS format(ish) for it to show up when you press escape. it's the only surefire way that you can get a thumbnail.
+
+@SMV
+wake up at 5 everyday an' go to bed at 10. that's the way i grind, =P.
+@Liftoff
+thumbnail.js, =P.
+i think the API method doesn't work after they moved over to a new API, =/.
+yup.
+Dell has nothin' to do with what's supported an' what isn't. you are either on an ancient version of Chrome when IE was still a youngin' or smth else is wrong, :p.
+@Blind Scribe
+you do realize that you can't access KA with IE anymore, right? so Astro has no need to include `forwards`, =P.
+i think i push an object into each one in ski.js, but in reality, you can just check the length of the vertex array. i think the spread operator will be of use to you very soon, ;p.
+@Cowboy
+more reasonable doesn't mean that the main topic isn't any less mature or rational.
+
+i hadn't realize you had posted. that was to WinstonWinner000. my bad.
+you don't get it lol.
+i love how you managed to turn an educational contest into a matter of equity lol. give the man a prize, only a handful have that kind of talent.
+
+gl on your future projex btw.
+@Liftoff
+i don't know if you care to fix it, but the current thumbnail is messed up.
+'ello!
+if possible, i'd prefer if we send any confidential messages [messages regardin' current projex or plans for the future] to stay on GitHub, :).
+
+otherwise, chat [on-topic, :)] away!
+'ello!
+shift the logo a lil' to the left.
+
+did you like the `go to profile` link rather than linkin' the card itself? it's fine if you did, just wonderin', =P.
+@Dat
+code still needs to be clean.
+@Astro
+no, no, no.
+`dat = () => 'dat'`
+implicit returns save bytes an' time, ;p.
+an' call `mouseMoved` as the last line of code.
+ah, very last suggestion, add each member's avatars as their pfps on the members page.
+have you not saved? the scripts haven't been beautified [an example would be line 1001].
+
+not sure if we understood each other, but i meant on line 194 where you already have a `hover` effect in place. if you understood what i meant, you can ignore this comment.
+some of your scripts need to be run through a beautifier an' i'd personally add a `transition` for the `hover` effect for the "We are" cardz, but i think that's it, :D!
+it works, but you'll need `event.preventDefault()` in your key event listener.
+@Levi
+the best way is to release a new version of the script an' set the version `@[version]` to the version you just created.
+
+create a new release titled `0.0.1` with tag `v0.0.1` so GitHub will chill.
+once you've published the new release, just change the version (which is currently set to `latest`) to `0.0.1`, ;p.
+same as i told Levi. i'd rather my team learn more than any other team than score higher than any other team. everyone has to be ready to learn an' get out of their comfort zone on my team.
+
+imho, you can't make a decent library in two weeks [from experience =/]. two hardest parts will be `text` an' vertices without needin' the user to use a `start` command.
+oh, that makes sense, ;p.
+i'd think they are line #s, but that doesn't make sense.
+```
+3	size
+3	P2D
+125	line
+128	ellipse
+253	mouseX
+504	mouseY
+263	mousePressed
+264	mouseButton
+264	RIGHT
+272	mouseReleased
+277	keyPressed
+278	key
+278	keyCode
+280	keyReleased
+329	pushStyle
+333	background
+342	textAlign
+342	BOTTOM
+343	textSize
+346	popStyle
+459	color
+511	draw
+```
+_beat the rest of KA in 2022 CoC's first round; is the only returnin' captain._
+
+i feel like if you click on the member's cardz, they should send you to their profile without the need for the `Go to profile` link.
+3. alr then.
+5. true, but less functional.
+
+ofc, it's your work, :).
+2. oof.
+3. if you don't mind, i think i just replace the hero with a canvas an' draw a simple Japanese landscape on it. 
+5. the nav open animation is pretty slow.
+6. the leaderboard page could use some work. needz some spice to it, perhaps an animation to reach the current score levelz an' some minimalistic detail?
+hmm, we all start somewhere, =P. the script will work for what you want it to do, ;p.
+
+what are the numbers after line 24 for in your canvas script?
+@Liftoff
+that would assume the judges know what React is. only two will an' i can guarantee the rest won't based on their current programmin' experience.
+SQL could technically still be used if you have an outdated browser 'fore WebSQL was deprecated.
+
+i'd use indexedDB [the noSQL alternative that is currently supported] for a database in the browser.
+```
+opaque
+invert
+threshold [# from 0 to 1]
+brightness [# from 0 to 255]
+grayscale
+posterize [# from 2 to 255]
+sharpen
+sharpen2
+prewitt_x
+prewitt_y
+sobel_top
+sobel_bottom
+sobel_left
+sobel_right
+emboss
+outline
+darken
+lighten
+edge
+blur [# from 1 to 7]
+```
+
+`rgba(125, 225, 150)`
+we'll let Polar figure that one out, =P.
+
+Aliquis.
+Liftoff didn't get the memo lol.
+
+2. yup, got points taken off on my homepage for Primavera for usin' it.
+3. i'll be sure to keep that in mind, :).
+only for the 2D context sadly.
+
+i'll take a look, :).
+yes ma'am, he is, :D. wish you would've applied for CoC, =P.
+you can't get `imageData` from a WebGL canvas, =/.
+
+if you could send me the link to your project, i'll fix it for you, ;p.
+you can't grab two different contexts from the same canvas an' since i grab the first canvas element in the body with ski.js [reason why thumbnail.js works the way it does], the contexts clash. if i had to guess, you import ski.js first, then use WebGL.
+
+i figured out how to do it, but it's not entirely straightforward, if you care for me to show you how, :).
+idk lol.
+a few tips.
+
+1. i would suggest a more complex background, perhaps even animated [perhaps a `canvas` tag?]
+2. obviously members an' score page would be necessary for a finished product.
+3. to be a lil' picky it should be "The Team *that* Beats Them All" an' i'd prefer if my name was kept lowercase [line 102], :).
+no argument there.
+
+if WASM was practical on KA, it would be worth usin', =P.
+i just removed the IIFE an' there were no errors as Oh Noes ignores any errors that come from `script`s with a different `type`, :).
+originally, i didn't think web developers would be useful in later roundz due to the general transition towards gamez, but a few dayz after this program was created i realized that since all projex would be in the web environment, web devs would still be valuable teammates. 
+
+if i "hated web developers", i wouldn't have bothered to put them on my list, =P.
+they are simpler than we thought, o.O.
+every voter needs to see this. ^^^
+give the man a medal.
+ofc, you had to, smh, xD. this is what i do to my CS teacher everyday, an' he's learned to hate me for it lol.
+
+had no clue that existed, tbh, but now i do thanks to your enlightenment, :D. what would the purpose of the property be, o.O?
+there's always a time to try smth new, :).
+noSQL databases stored within the browser, multithreadin', asynchronous functions an' `Promise`s, rest parameters, inheritance, new built-in data type prototypes, an' the list goes on, :).
+great!
+
+`noise` is not fast which is the biggest issue. i'll release it in a separate repo an' give you the link to import as it's p5.js' `noise` stripped down for efficiency [you can already see what i'll use in my projex].
+width & height for text is way too buggy in PJS, so it won't appear in ski.js, :).
+@Samwise
+here's a basic demo, :). unless you use `curve`, it should work the exact same as PJS.
+`_*https://www.khanacademy.org/cs/-/5099165982179328*_`
+@HS [i don't think you mind me callin' you that]
+i've never used the KA extension to format code, but if it appears as clean code to you that follows generally accepted standards, it sounds good to me, :D!
+
+welcome Liftoff, :D! glad to have you with us, ;p. if you could read the advisory 'bove if you haven't already, it would be greatly appreciated, :).
+
+@Samwise
+would you be willin' to learn? ski.js is built to match PJS near exactly an' it's a lot easier than it looks, :).
+@ALL
+welcome to team ninjaz, :D! glad to have every one of you on the team, :).
+a few notes 'fore we begin the first round.
+while i cannot mandate anythin' for this team, i _strongly encourage_ that we all follow the standards below.
+```
+1. every project must be in the web environment. [if you are used to PJS, you will use ski.js, the canvas API, or whatever canvas library you wish to use as long as you can satisfy the requirement below]
+2. every project must utilize ES6+ syntax if JS is used. [ES6+ might sound dauntin', but it doesn't make codin' more complex, only easier]
+3. all code will be run through a beautifier 'fore it is submitted. super simple, super easy an' saves pointz.
+```
+i would be more than happy to help those who might need help with this transition, :D.
+
+lmk if you have any questions or concerns, :).
+
+@TML & Samwise
+is it possible for y'all to create an acc on GitHub? it makes for much easier collaborations an' would keep our team chat thread hidden from others, ;p.
+is CoC still a competitive competition if 42/59 [>70%] of the applicantz get selected? i think not, so i'd vote against an extra two roundz.
+@Polar
+just double checkin', but you do realize that Liftoff isn't on your team...
+i just ran a test an' looks to be a problem in your code. not sure where or what you think the problem is, but it seems to work as intended on my end.
+
+it needs to be `args[1]`. basically it checks for the 3 rgb values from the string an' adds the last value `args[1]` as the alpha value. would run if called like this:
+`fill(color(10, 20, 30), 40)`
+ouch, this looks rough.
+
+The Money Lord.
+lol, it's the image i chose not the code that makes you happy, xD.
+yessir, :D!
+this oughtta be fun.
+```
+1. HSstudent16
+2. Mojo1000
+3. Captain Longtreader
+4. Lemon Games
+5. Jake K.
+6. Liftoff
+6. TDJ
+8. CoraL
+9. YokieBob
+10. Electric Dolphin
+11. TheLegoMango
+12. 21262
+```
+@Liam
+did Polar an' Paperwad message y'all directly? didn't see it in the general chat over there [not here].
+you could add `;-;` at any point in your code so you work until you're satisfied [which may be what ski does for ski.js, Web Workers, an' WebGL].
+
+good point. i'll name the next one *greatest game KA has ever seen* an' pull a reverse psych trick, xD.
+
+been fixed for a while, ;p.
+
+oh boy.
+i'm into riggin' figurez that punch for me. not so much punchin' myself.
+i'd work in ski.js as it might not be the _exact_ same (arcs & ellipses are a lil' different).
+nope, not _yet_. still don't know why but it _should_ be fixed by the end of tomorrow.
+yup, :D!
+eh, not much i can do. it originally said "look an' i promise you'll regret it".
+
+why thank you.
+ay, i'm unbanned. what can i say?
+lookin' for your snarky comment?
+it's in my bio. was there 'fore he posted as he questioned the captain's decisions in the CoC chat thread, smh.
+i'm the beginner, =P. lol, this was 'fore i realized that there were only five roundz so i thought i'd be left with one round where i had to pick a noob.
+
+webpages won't be made an' if they are, i'd be the one to do it. web devs are less helpful as the comp goes on as everyone has to collab together as CoraL stated in her application, ;p.
+
+you're good.
+
+to note, i will be *strongly encouragin*' [_ahem_ mandatin' _ahem_] the use of ski.js, ES6+ syntax, an' the web environment in every project team ninjaz makes. comfort zone eliminated. don't tell anyone else yet. let's get settled in first.
+@Samwise
+the point was that there wasn't any trash talkin', =P.
+
+it took the moderators to be 24 hours overdue for me to pull out the capitals, so you probably won't be able to, =P.
+
+@CBF
+i'll keep it in mind, ;p.
+@SMV
+chill. it doesn't rlly matter, =P. CBF can think however he likes. you gotta respect a dude who started the greatest comp on the site.
+
+@CBF
+```
+but there's a big difference between confidence and arrogance
+you hearin' this?
+``` - _Nate_ *NF*
+i think yk what i mean.
+yup.
+
+*sigh*. yes, i s'ppose so.
+
+eye color: brown
+hair color: dark brown
+skin color: ever so slightly darker than a Caucasian's
+hey guys, :D! so glad y'all are here to win CoC with me, :).
+@Paperwad
+Liam said, "Can everyone start to create another list of 12 people?", so i assume it's a new list.
+captain present. homepage will be made soon, so Liam doesn't get spammed.
+@Liam
+three not two? just double checkin' not disagreein'.
+@CBF
+i understand how a draft works an' the costs an' benefits of pickin' certain peepz.
+
+imho, no reason to pick peepz ik i won't get which would defeat the point of listin' 12 applicants as our pix, =P.
+
+understood, but xacer won't work well in collabs an' i hold an ambivalence toward Akbaba's abilities if you needed an additional justification.
+'cuz i'm an overacheiver, =P.
+
+DR probs won't get picked first by anyone but Astro, but i don't think he will.
+
+that's my guess.
+@CBF
+i am skeptical of xacer's an' Akbaba's activity levels.
+NL an' i don't get along [more on my part than his].
+WalkWorthy will be taken by Levi first if i recall the draft order correctly. if not, he will be taken by others first.
+yup, =P.
+
+riggin' a character allows me to move its limbs. i would need the full body of the ninja.
+
+shoot, i forgot he had WCC as well. i'll switch Samwise with Ace for a safer bet. Samwise had been pretty solid last CoC. i don't expect to get snaked for any of my pix in the first two rounds, but we'll see. i think if anyone decides to snake you or DR, that would be a huge surprise an' loss for them. i need another [or backup] graphix dev, but i'm also tempted to take Chase earlier.
+
+FF isn't on my list since ik that Henry already has him on his.
+
+Liftoff won't be higher as web devs won't help unless the whole team is for web devs which won't happen due to the limited talent. TDJ an' Lemon could rlly switch places, but i think TDJ might be more prized by other captains, so Lemon would be second.
+```
+1. SMV
+2. Dominic R.
+3. Samwise
+4. Chase L.
+5. TDJ
+6. Ace Rodgers
+7. Lemon Games
+8. Captain Longtreader
+9. Mojo1000
+10. YokieBob
+11. Liftoff
+12. CanonRouge24
+```
+
+@Henry
+nice to see you too, =P.
+the bio, =P. last year i was on Team Neutrons, =P.
+
+would be nice, but thinkin' 'bout it, i wouldn't be satisfied with myself if i didn't rig the ninja.
+
+bro, no way. tell 'em that i am a pro at playin' that thin'. whenever they need to use it, i'll show up an' won't charge a penny.
+
+edit: redid my list, so we'll see how this turns out. cannot believe FF is second on Henry's list right after xacer.
+it's a copy of last year's, xD.
+
+i'll think on it, -.-.
+yuss, finally, :DDD!
+
+i promised Liam at least 'til the end of CoC, so there's that. not postin' on pretty much any project besides CoC or to praise another user's work. after CoC, we'll have to see.
+
+honestly, you should be higher [i might go back an' edit], but i was rushin' the list so the last 6 or so are in no particular order.
+probs won't. new subpage will come out soon instead, ;p.
+ofc.
+ah, you an' me both. waited 29 days for this. fully prepped an' ready.
+nah, we need a team name. i'm thinkin' *legendz*.
+
+sounds good to me, ;p.
+i take that _back_.
+
+no reason to bemoan the past.
+
+now to work on that new subpage with the new fav font...
+thanks, :D. jit too, =P.
+i am not back. i am front.
+
+lol, you have no clue how much effort it took to get here, but it was well worth the wait, =P.
+i just said i wasn't.
+
+:D
+
+me too, :).
+
+yessir.
+a penny more an' a day early, ;p.
+
+feels so good to be in this thread.
+
+*edit*: suggestion that all captains/judges of CoC downvote all judge/captain threadz like last year
+anyone know how american football is played?
+@SMV
+those users have nowhere to go. there's no site with KA's content. Python 3.0 was slower on the backend not frontend so we'll never truly see the impact but KA will. if KA improves or learners on every other section of KA except the KACP are able to excel better than they could 'fore (or even just one section), then it's worth it. the issue is that KA has just gone downhill. very few badges [hundreds less iirc]. no more backgrounds. crazy buggy discussion platform. all of these *hurt* learners. KA wants to die. that's their mission.
+
+the very definition of bandwagon. someone hasn't been on KA recently:
+_"KA has an impeccable track record of sticking to their word, and delivering the right content at the right time."_ - G. Tarun approx. 2 months ago.
+if you wanna see me one-up you (the comment in your code), i recreated noise here. crazy fast ngl. need to make it WebGL though...
+
+`_*https://www.khanacademy.org/cs/-/6686879353716736*_`
+hey there, :D!
+fixed, =P.
+great, :D!
+you sure did, :D!
+pretty much, :D! not quite as active, but still active.
+it should still work. KA only broke notifs from t&t i think which is why i didn't see this right away lol.
+
+decent. just picked it up again. got a lighted, textured cube an' image filters for the latest version of ski.js, :D! (hopefully the last for a while...)
+correct me if i'm wrong, but i think a Maclaurin series would do the trick for improvin' the efficiency, potentially greatly. you gave me one when i was computin' `noise` iirc. i could explain further if i just rambled lol.
+summon lightnin', send fiery orbs, shoot blasts of magic, an' whack peepz with their staff (they'll actually be decent against swordsmen).
+
+they won't be animated i don't think. i'll transform the still graphic instead.
+
+xD, i have no clue why they do. `#.toString(2)` works better...
+
+nope. if you make a call to the API for this comment elsewhere (like viewin' it from Astro's project), then the issue will be fixed until you post again. i had to use Astro's project as i couldn't see your post.
+1.) ik just forgot to change the comment. thanks tho, :).
+
+2.) that's how the `main` function is defined in C which is what GLSL is based on. the `main` function looks like this in C.
+```
+int main () {
+    //main code
+    return 0;
+}
+```
+3.) what's the difference when adjustin' resolution?
+
+4.) do you know why some programmers use `void` as the parameter? was it needed to patch an ol' version of GLSL?
+lol, just churnin' out dumb memez lol.
+it's gotten worse, but it's out of our hands unless we hire a private investigator or report Y to the authorities in some other fashion but i don't think we'll ever get enough to dox Y on our own.
+
+the situation hasn't entirely resolved itself, but we're currently stuck between a rock an' a hard place with no progress over the past few days. at this point, i can't do much else other than sit an' watch.
+
+i won't mention names for reasons i'm sure you will understand, :).
+
+i was approached by a user, i'll call him X, a lil' bit ago that there was an urgent situation regardin' bots. a user who you know, i'll call him Y, had been generatin' bots over a prolonged period of time. 1 million bots. X had created his own bots, but not for the malicious purposes that Y had an' shared his bot gen script with me. they were quite similar to that of Y, if not better. sent most of what we knew to KA (what i've said here. there's more but i can't discuss that here.) as well as the developments that have occurred over the past week or so to get 'em to stop the creation of bots entirely. KA did what KA does best. i'm sure you have an idea what that would be.
+
+if you want to know more, i've added info on my GitHub bio (github . com / thelegendski).
+
+i've resumed development on all collabs (an' added another one to the list, smh), so there should be progress soon, :D.
+ofc not. i just have this thin' against jQuery. it's terrible in so many different respects.
+
+first, developers are too reliant on it. 
+second, it doesn't actually make life easier by a wide margin.
+third, it's inefficient an' massive.
+fourth, the creator is now a part of KA's dev team who have proven themselves worthy of another outage.
+@Astro
+how did you read my mind 4 hours 'fore i posted, o.O?
+true.
+
+me neither. might do some research, :).
+yessir.
+hoorah! now to stop him from reappearin'...
+your parents don't rule the world.
+hmm, the magic part might be a stretch. there are two sides in a great war. one focuses on innovation, the other on magic. we follow a character on the magic side which is clingin' to the ol' traditions. he wishes to avenge those who innovate for...well, just to keep the mood light for stealin' a pineapple, xD.
+
+well, we're still decidin' on what it's goin' to be, so i haven't made much.
+this thread will be deleted in 5 minutes. 
+
+i'm goin' to log into FF's account an' delete it.
+thanks, :D!
+thanks?
+yay, :D!
+hmm, not rlly, :p.
+@HSstudent16
+xD
+
+@YokieBob
+it's not. a less skilled programmer who i'm not fond of. if you care to know who it is, i posted on one of the spin-offs with my accurate suspicions.
+@DR
+i'll sum it up for you.
+
+WKoA has refused to comply with the ToS that he agreed to. this caused quite a conflict with the Guardians an' still does.
+
+a lil' over a week ago, i was quite unhappy with CL (i think you saw) for the poor effort that he continually puts into his projects. the thread got out of hand an' i deleted it. in that thread, WKoA popped up an' i left a rather snarky comment for him. i had originally left a much harsher comment in the Khancorrenza "trash" thread, but it was hidden for whatever reason an' consequently deleted.
+
+it ought to be noted that he took rather drastic measures when he wasn't banned by postin' a highly controversial flag an' intentionally targetin' the "liberal" population of this site. he has noted that his sole goal is to eradicate the site of LGBTQIA+ programs.
+
+in the Khantober thread which has been deleted due to spam, i had attempted to post another snarky comment to a user who had been banned comparin' him to WKoA. the attempt never followed through, but a project with my post in the comments remained. WKoA found the post an' decided to leave a comment of his own. he alerted the Guardians of my "rude" behavior (who acknowledged his alert), but over the past 3 days no action has been taken. i've been harassed since.
+
+let me know when you see this an' respond as you see fit. this project may be deleted at any time in the near future as you are aware of the situation which should be sufficient. i would prefer to leave WKoA banned if possible.
+KA already stores the project data on their end without the need of your replit. i deleted it so you'd stop poppin' up.
+
+you're startin' to sound more an' more like Drained.
+
+dude, lay off.
+
+it's an online _learnin'_ platform, but your sole goal is to discriminate against another group. LGBTQIA+ are still people. they're just like you an' me. just 'cuz you don't agree with 'em doesn't mean you get to wage war.
+
+you're stubborn an' insensible simply due to your ignorance of others an' the rules set in place by the Guardians. go make your own learnin' platform if you don't like KA.
+@DR
+eh, some peepz have. most likely due to the downvote or perhaps misguided preconceived notions.
+
+@Chester
+thanks, :D!
+ik. he's already said that he can't match me, so he'll live in peace.
+@CL
+i appreciate your response. i have decided to neglect to respond in kind as everythin' that should be said has been said (at least to you).
+
+i have the right to freedom of speech. if you don't like what i have to say, ignore it.
+
+the reason why i don't capitalize "i" is due to the stress it puts upon oneself. i see it as selfish. in addition, it makes the glorious Name of our Heavenly Father stick out a bit more, no?
+
+the choice of apostrophes is dialect.
+
+@WKoA
+quit with the trite phrases.
+i honestly just couldn't think of much else on the spot. i'd put "wonderful teammate" if this was a team comp.
+
+that makes two of us, :).
+```
+Maybe you're just like me and feel the need to stay in your rut
+'Cause if you left it, you might feel like you're no longer you
+``` - _JUST LIKE YOU_ *NF*
+thanks, :D!
+
+that's what marketin' came up with, :p.
+it _could_, but the Guardians hate that. it only creates an' sends messages in this program alone, :).
+at graphix? hardly.
+
+hmm, either reach a certain rank, find a certain person, or avenge an enemy.
+
+:D
+
+as soon as you get back, drop a post here an' i'll get to it, ;p.
+ayyy, you joined the apostrophe gan', :D!
+
+yw, :D!
+
+ty, :D!
+ayyyy yw :D xD
+
+i think we shouldn't be the ones to judge that. we would take it upon ourselves to be God an' judge others by what we _perceive_ to be their character.
+
+yessir.
+
+haha, i'm nowhere near southern, :p. i lived most of my life in Las Vegas & NJ.
+
+same, :).
+@YIVauEivoj YIVauEivoj
+the Guardians are rather indiscriminate of what they hide based on _users_. now, discrimination against the content of the program rather than the Guidelines is quite arguable, but that's for another day somewhere else.
+
+they have hidden `externals` every single time it pops up on the HL up until, well, now. they might have the weekend off, or maybe they've decided it isn't worth their time. perhaps Guardians are leavin' due to KA's executives (see KA's Glassdoor reviews) an' now they're understaffed. whatever the reason is, the outcome is the same. these projects have yet to be hidden.
+
+@HSstudent16
+i wonder if they would let wikimedia images fly...
+on another thought, i wonder what their restrictions against API calls from PJS will be.
+
+i've been told by Evan that *any* use of `externals` will be hidden from the HL, regardless of its actual use. perhaps the policy changed without notice.
+it sure is, :D! it's the one an' only legend that never finishes what he started. let's hope he finishes this.
+
+thanks lemon, :D!
+nope.
+sure thing, :D!
+there actually isn't a "canvas" method.
+
+there are two methods. Polar's stubborn method (which Henry originally used) an' the stylesheet method.
+
+Polar's method calls the font in a script, but you have to have the link to the font's file in Google's server in order to use it rather than just the name.
+
+i prefer usin' the `link` method which you normally use. 
+`<link href = 'font link here' rel = 'stylesheet'>`
+then call `textFont(fontNameInStringForm, fontSize)`
+you don't need to wrap the font name with `createFont`.
+
+you may ask, why not add a `loadFont` function? the reason is that the page doesn't load twice, so if the `draw` function isn't used an' the `text` function not made `asynchronous` (which would screw so many more things up) your font would never load an' the text would be set to the default `sans-serif`.
+so, this version sucks. go to the one here for a _much_ better version.
+
+`_*https://www.khanacademy.org/cs/-/4791341272317952*_`
+
+if you have any troubles, link the program an' i'll help out, ;p.
+collisions by technical definition is to check whether two object intersect.
+
+physics is the behavior that should follow a collision.
+heyo, :D!
+
+i think either Liftoff or Leviathan invented the method. i've used it for the mountaintop homepage an' trava, an' i must tell you that it's a pain to deal with, hence thumbnail.js.
+
+anyways, here's how it works. 
+```
+1.) grab your base 64 image data. 
+2.) open the *Network* tab in your browser's console
+3.) you should see a request sent that begins with your project ID. *right-click* on it.
+4.) under the *Copy* menu, select *Copy as fetch*
+5.) go to the *Console* tab. 
+6.) *paste* the data
+7.) there should be a long string containin' the base 64 image data (under the "image_url" key tho don't look for "image_url" as the JSON object isn't well formatted). *replace* the base 64 image data with yours (note that it only works with PNGs an' GIFs).
+8.) *press enter* to send the request
+9.) *enjoy* you hard earned thumbnail! 
+```
+once you've done it, it's pretty straightforward. just make sure that you have saved a copy of the base 64 image data in case you need to make changes to the webpage after release, :).
+the most important part is that you can use `import` in the `module`, but not with Some Name's method (no offense meant to Some Name).
+we were talkin' bout portin' scripts from GitHub to KA. if you wish to use ES6+ classes in the KA HTML environment, you can simply assign the `type` attribute to `module` an' not use the brackets, :).
+ah, you have my understandin'.
+huh, that's odd.
+thanks, :).
+
+ah, thanks for the tip!
+
+there isn't? hmm...ig i'll just loop backwards then. is there a reason why `.forEach` is the only forwards loopin' method that does not produce the glitch?
+JavaScript is built on C++ which is built on C, at least that's what i've read. online sources don't give a very clear result.
+alrighty then. now i've gotta find some newz.
+well, anyone can find through the API that the project was created on August 20th, but i'm not sure if that's the exact date or not.
+i went through some of your code an' will continue to further make it efficient in the future. you can easily manipulate arrays like so (tho in the web environment, it's much easier).
+```
+//copy arrays
+Array.prototype.copy = function(){
+    return this.concat();
+};
+var a = [1, 2, 3];
+var b = a;
+b.push(4);
+println(a);
+println(b);
+
+//check if two arrays are equal to each other
+Array.prototype.equals = function(arr){
+    if(this.length === arr.length){return this.every(function(item, index){return item === arr[index];});}
+};
+var a = [1, 2, 3], b = [2, 2, 3], c = [2, 2, 3];
+println(a.equals(b));
+```
+yeah, fixed, :D! thanks for the help, :D!
+
+now, nearly thrice as fast, o.o. still think `async` might be faster...i'll have to try.
+
+ah, that's why. thanks for lettin' me know, :D!
+then the legend outdid himself AND HSStudent16.
+`_*https://www.khanacademy.org/cs/-/5725226885758976*_`
+
+messy code go brr.
+huh, that's odd...
+`get` only causes lag due to the crappy PJS library.
+MS Edge, the router doesn't exactly send a message, it does this weird thing that sends me to the "Hmm...the connection was reset." page.
+ah, a lack of understandability. the same reason lawyers an' CPAs have job security, lol. GitHub helps with that a lot if you're addin' you're own scripts or plug-ins. you can find me on GitHub @thelegendski. Vexcess is on there too.
+`_*https[colon]//github[dot]com/thelegendski*_`
+
+sweet music to my ears. this heat wave probs makes the walk miserable, :(.
+
+my pop says he felt a callin' from God to become more self-sufficient an' have financial freedom (aka no debt) in Jan. of 2020. i wish we knew why we haven't found home. we thought a couple years back it would take us 1 months to get to our next home. now it's been 25.5 months...ig it's a miracle in itself that we have relatives who will take us in.
+
+sure thing. just make sure yk when to leave, ;p.
+```
+some days, i just want to leave the negativity in my head.
+i just want relief from my stress.
+``` - _My Stress_ *NF*
+
+yup. that's what we've said for 2+ years. trustin' in people is hard enough. trustin' God is so much harder.
+@CompoundMaster
+let me know if i overcomplicated it for you, :).
+`_*https://www.khanacademy.org/cs/-/6684461454901248*_`
+i second this motion.
+well, that's what they claimed. no one's sure.
+
+haha, that just shows you how desperate i am to hide from certain stalkers.
+yup, :D! mostly 'cuz i'm figurin' out which pathinfindin' algorithm to use.
+yup, Polar's right. it means downloadable content, usually for games to mean content that needs to be purchased separate from the game itself.
+that's the canvas api. not me, =/.
+haha, thanks, :D!
+we'll now diagnose this issue as marci syndrome, =P.
+
+no worries at all, ;p.
+
+the fact that i'm willin' to put that in my bio or what Lemon said?
+if i do get an outdated library, i scream an' jump up an' down lol.
+
+that reminds me, i plan on makin' a portfolio in HTML for the next challenge. my "language" to learn is CSS logic an' advanced selectors. anythin' specific you want in there?
+so far:
+a.) thank the peepz who've helped me out. Quinn Hardbrook especially for lookin' like a fool to prove my points.
+b.) a list of 20 fun facts but 2 weekz after the trend lol.
+c.) some rap, perhaps?
+d.) list of employees at ski co.
+e.) allow users to post in the t&t any questions they want to ask my manager.
+it does, but you have the Guardians an' KA tryin' to destroy itself.
+
+tomorrow, bright an' early...the only thing i'm missin' is a briefcase an' NF, =P.
+2.) i hope so.
+6.) at least you bothered to learn OOP. unlike ski who took 4 months to finally realize that OOP wasn't for people who want to overcomplicate code.
+7.) i think i can, =P.
+8.) Major Mono Display, Grenze Gotisch, Cormorant Garamond, Staatliches, Varela Round, Patua One, Josefin Sans, Ubuntu, Unica One, Inconsolata. to name a few, =P.
+9.) NF = fire
+12.) at least our restricted environment doesn't cause as much lag, =P.
+13.) stop being Dominic
+16.) i ask NP, "why did you use `rect` over `curveVertex`?". classic NP response, "I did that because I'm terrible at `curveVertex`. It's so much easier to use math than to bother with tricky stuff like that."
+
+nope, the real reason everyone loves minecraft is that they used Steve, xD.
+i did a test to see if anyone read my bio, an' one person responded within an hour, o.O.
+@tokajothepumi
+i like to at least set reasonable goals.
+
+@Polar
+this is more a certification of blindness if you will.
+
+@VEXCESS
+whoops! i got sidetracked an' didn't finish my post. i meant within the next 24 hours.
+so, i ran the project at the maximum possible speed that `setInterval` would go, an' i got this.
+`_*https://www.khanacademy.org/profile/themischeviouspachyderm/projects*_`
+
+lucky for me, i had the ingenious idea of lookin' at the network tab in my browser's console. here's the good news an' the bad news.
+good news: so, it is doin' as i said above where it's sendin' multiple requests to KA, but not for the reason i thought. whenever KA tries to create a new webpage, it errors out as the script runs over it to an extent. the only issue is that the webpage is still saved. so, KA tries to continuously create new webpages until smth clicks on their end.
+bad news: 
+a.) i now have an alt filled with 20+ programs of a singular project.
+b.) i only saw 4 projects error out, but as you can see, there are way, way, way more. took a good 20 seconds to save the project.
+c.) someone could use it to boost their project on the HL by simply creatin' a ridiculous amount of spin-offs.
+
+edit: nevermind, i just tried with an alt an' 120 spin-offs didn't move it on the HL at all.
+yup!
+
+a few ways to do it.
+a.) go online an' find a PNG to base 64 converter (there are tons out there). i even know one on KA if you want the link.
+b.) if you want to copy a KA project to base 64 data, you'll need to use some `canvas` element methods. here's an idea of how one would do it in PJS.
+```
+//top of code.
+var externals, canvas = externals.canvas;
+//end of code.
+//you'll need the browser's console as println is a lot more resource intensive an' will crash your browser.
+debug(canvas.toDataURL());
+```
+
+just remember that your file shouldn't exceed 750kb. otherwise, KA won't take it.
+i believe you once said that you're a master of overengineerin' or smth of the sort. i must be your apprentice.
+
+'cuz accessin' `canvas` is much more fun. who doesn't want to create an HTML image element in PJS without HTML? found a hybrid. the legitimate reason as to why is that i can use the same method for wikimedia images, so that means i could create a function for both.
+
+edit: on second thought, yours is much easier to incorporate elsewhere.
+
+edit (2x): works wonderfully. thanks!
+more like:
+```
+nf.constructor("const img = new Image(); img.src = 'https://www.khanacademy.org/cs/-/123456789/987654321.png'; img.crossOrigin = 'Anonymous'; return img;")();
+```
+no, don't you dare.
+yw, :D!
+haha, at least i'll get third place, ;p. GW probs beat me to second, o.O.
+a.) ah, the downfall of Bob. or is it NP?
+b.) ah, alright.
+c.) i guess we all have our forms of enjoyment.
+actually, he learned it from VEXCESS, but the trick has been 'round for quite some time, :).
+insult? i'd say i'm merely observin' the world 'round me. tell me how i'm wrong for this particular circumstance. don't give me a bogus excuse or say how you're right in smth you can't prove. own up to your actions.
+just as a note, it's near impossible to get Liftoff to give someone a 7. even if JS gave them a 10, the _max_ score anyone on the team Liftoff judged would be 8.5 which is unfair regardless of whose team he's judgin'.
+tutol's collisions were much different (an' parhaps easier) as they were circle-rect collisions which relied on trig rather than determinin' the angle.
+sounds good, :D! let me know when you finish, ;p.
+yup, :D!
+ignorance is bliss.
+true, but two animations might be a bit much, =P.
+
+issue i thought we might have is that it focuses on "I" which isn't much of a team motto. i'll go ask in the team thread what everyone thinks.
+_
+Coding is Magic Challenge
+
+Coding is magical, and your goal for this challenge is to bring some magic to the hotlist. Maybe make a magically themed game, or experiment with a new concept. However you interpret it, let's make some magic!
+
+Deadline: 4/4/22
+_
+you can work on the first challenge (or any challenge besides the final challenge) at any point 'fore the deadline of that challenge, =).
+[*redacted*]
+some peepz vote for no reason at all, *shrug*.
+*cackles*
+
+ah...which challenge would that be for?
+true, but after further thought, Terratrice could claim the same, =/.
+245 is better.
+
+b.) ik. that's what NP told me for CAPTIVE, so i wouldn't question The Great One (that's his new name). the words did fly off the screen, but judges will knock points off if they have to wait forever.
+a.) vertically, you want to bring the buttons up some to give it padding. that would mean movin' the text up as well as you have a lot of empty space on top an' crammed everythin' to the bottom of the screen.
+i'll code up a pizza if there's progress involved, =P.
+
+smth that just came to mind an' is entirely irrelevant, _never_ use `arc`s in PJS. the built-in function create vertices for each degree along the arc which could easily prove harmful to performance.
+chants _"we demand progress! we demand progress!"_.
+why not, =P?
+it accomplishes the same feat, an' usin' `jshint` is your choice.
+the silent e would make the i in chamomile into a long i, but i could be wrong.
+true. his attempt is more complicated, but it seems to work. i mean, i don't have another person to try it out with, so i can't say for certain.
+i believe i posted the link on my sub page, =P. just pointin' out a small inaccuracy.
+huh. that doesn't make sense, but the Guardians don't either.
+haha, i just realized you want "Inactive" when i posted, so i thought best not to ask a question i thought i already knew the answer to, =P. if you want to join, you're more than welcome, :D!
+it shouldn't lag. how many windows an' tabs do you have open?
+ah, well Argon said he didn't entirely mind. here's the project if you ever get back on, ;p. 
+
+`_*https://www.khanacademy.org/cs/-/6068030036557824*_`
+yeah...i'll ask for a 19th century musket an' bayonet an' see what happens next.
+
+edit: updated.
+thanks!
+
+understood, =). could i be notified when this policy changes, if it does?
+wait, they have access to multiplayer games? live or local (as in do you have physically have to have someone next to you, or is it someone else on the web?)?
+yeah, :D!
+
+haha.
+yup, works like it should! which is not good, lol.
+well, it semi-works. i haven't gotten 'round to actually drawin' the image yet, but here's the test run:
+`_*https://www.khanacademy.org/cs/-/6730863254487040*_`
+i got stuck on somethin' rather simple, lol. i can't manage to get `e.data` to a higher scope.
+
+edit: got it to run the image at least. still bein' blocked by CSP. wonder if i can store it on their end with a fake URL...
+
+edit edit: after three attempts, i admit defeat. this is impossible. unless you know how to store the base 64 data on KA's sandbox domain so that it can be retrieved, it's not possible.
+@VXS. actually, if you set the third argument of `nf` to `-1`, `nf` won't return a decimal point, =).
+NP is a genius, =P. no doubt there.
+
+yw, :D!
+have you listened to _Remember This_?
+
+thanks, :D!
+
+very.
+ah, as it should, =). i actually borrowed it from one of my school's learnin' platforms, lol.
+me too.
+really? what part of the player movement?
+nope, >=(. here's the link (not that it has anythin' useful atm):
+`_*https://www.khanacademy.org/cs/-/5317708780453888*_`
+that last one sounds nice, =P. if you could make the platformer mechanics, i'd make the graphics and backgrounds for the different levels.
+how?
+i'm not sure i understand.
+hmm, i have a WIP at the moment that will be released for CoC round 1 called valor that is an FPS. i had to rush it in 4 days, so we might do another FPS based on valor (titled honor?) that would be much better. i've also had a knack for battle simulations, so we could do an FPS where you're in the middle of a battle?
+
+we pretty much only align from 1-3 A.M., but that should work, :D!
+
+edit: if you're up for a big project, we could try an RPG. that would be interestin', and i have an idea on how the general functionality would work.
+there we go, :D! now, i just have to contact National Geographic for the sightin' of a new hybrid species of canine and cervidae, =P.
+i picked 90% of it up in a day. it isn't hard at all, so i can do most anythin' with it (or teach you if you'd like). do you know if input elements in HTML can have their height set to `auto`?
+woohoo, :D! i'm not sure what kind of game (or graphic, i haven't tried to make a graphic before) you'd want to make, but i'd love to try, =).
+add a total of fifty to the fur color, and change the background to `background(245);`
+haha, no worries.
+yours doesn't either, e.g. the bigger the burden, the better the life.
+done with your logo! there have been some minor changes in placement and animation, =P. 
+`_*https://www.khanacademy.org/cs/-/5794070247030784*_`
+thanks!
+ah, that is working for me. the error i had gotten was `__env__.size is not a function`.
+i was tring to make 3D here:
+`_*https://www.khanacademy.org/cs/-/5840950930751488*_`
+
+i knew you had worked with Unity before, and WebGL is made by Unity so you might have a some idea as to the answers.
+a.) in the program linked, i'm drawin' all of the coordinates on lines 62 to 98. they _should_ draw an octahedron, but they don't. i know that an octahedron has 12 vertices, but i have no clue what those other 4 vertices would be.
+b.) how would one do collisions in 3D? would you have any idea as to the more ambiguous math from your experience.
+ah, okay, :p.
+
+do they live in America?
+
+why do you have to make them so faded? the just blend in like ghosts do! jk
+lol, yes and no. yes, we have a basic premise. no, we have no real characters. my best shot is below, but i'm not the greatest in the creativity department, :p.
+
+your name is ____ (jake? or something gender-neutral like charlie?). you wake up one morning in your small quaint town of Tutol. (note all proper nouns that are not names were generated by my random word generator. `_*https://www.khanacademy.org/cs/-/5123081716596736*_`) as you walk outside a neighbor stops and tells you about the horrifying news. the precious cottonball (something silly, it was the first thing it thought up of) that your great-great-grandfather had prized had been stolen from the local museum. (perhaps this is all a cutscene and the cutscene ends here?) you have to go talk to Bob (he'll look like a character graphic one of my friend's made.) to learn that he lost his lucky coin (penny?) in the garden nearby. you go into the garden and find the lucky coin which you give to Bob. Bob then gives you a book to give to the librarian in the library (most likely in a separate world map). the librarian gives you a coin that you spend at a local breakfast stop for a donut. you give the donut to Winston who gives you a taco. the taco is given to the mayor who is starving after his house flooded due to some squirrels triggering his fire alarm. the mayor gives you a key to an old room in the library that you open to find a pair of glasses on the floor. you bring the pair of glasses to an old man (not too far from Bob) who gives you a key to go to the upper floor in the breakfast shop. you go up to find the prized cottonball waiting in the middle of the hallway. the game ends when you take the cottonball back to its rightful place in the museum. that transitions to the end scene which says "you may have found the cottonball. but who stole it?" i was thinking that it could be the squirrels, Bob, or the mayor. i would need to write all of this dialogue out, but i think this is a good start.
+I don't believe I do, but I'll make sure to let you know if that issue should arise.
+After looking back at old content, I have only been on KA for two years and of those only six were spent programming.
+alright. may the best programmer win.
+no, been working on collisions. gettin' it now.
+will take a look after your tool is made.
+Nevermind, I just figured it out.
+i'll listen to them. thanks for the suggestions! did you mean O'Brien, the one from AGT?
+You can call it KT.
+What is the use for this? Actually, a better question would be what the use is for a fountain of strawberries?
+found the exact date. it was when Chester released Little Cube, so it would have been oct. 2 2018.
+The game is more about how many times you play as you find the tricks behind each level. The best tip is to constantly run in circles.
+
+Decreased Level 9's time. I've added Level 7 and  level 8 (meant for health regen).
+I've tried for about an hour, but I'm not sure how to make a transition between levels. It seems like it will have to be a separate function that is called on line 402 or so rather than in the draw function. If you have any questions on my messy code, feel free to ask.
+May want to slow down the acceleration then, xD.
+That sounds like a good idea. Have you tried your hand at pixel art before?
+Ah, alright. Hmm, I'll see what I can do.
+Do you mind detailing what time zone you are in as well as a time & date that you would be active?
+Ah, alright. Thanks!
+Ah, I'm getting close to finished. I'll let you know when it is done.
+Here's the link. It used to be a sub page I did for someone else, so it is all 100% of my code. I'm working on a place to encourage people to join and sub tell them why to sub and why to join and lastly who the members are.
+
+`_*https://www.khanacademy.org/cs/-/5848889403064320*_`
+Tree trunks changed.
+As for the defender, he seems to lack some basic knowledge and creates rather poor quality programs. His game reiterates different functions for collisions instead of directly checking collisions for each object.
+
+Thank you! Fixed the sudden pop-up of text with a quick animation. Anything else?
+Sorry, busy with another project as well. I know Daniel T. I don't mind if you ask him, it is the defender that I inquired of.
+Most certainly, :p.
+Thanks, Gray Wolf!
+Uh, I'm not sure what you need help with, but I'm decently sure the month code is mine, so are you looking for help in creating a phone or at least its OS?
+https://www.khanacademy.org/computer-programming/rig-attempt/6056405948907520
+
+What do you think? The OOP and the functions and the graphic. Couldn't have done better myself, :p. 
+
+`_*https://www.khanacademy.org/cs/-/6056405948907520*_`
+Please elaborate, I'm not entirely sure what you mean.
+Wow, thanks Murray! That will definitely help.
+Ah, understood. Do you have a price for the game in mind or a platform to release it on?
+Alright, I do have a couple of suggestions.
+
+1.) Trees need to have a spawn variable, so we can add levels with more difficulty as the plot progresses.
+
+2.) I would suggest making the bullets the same color, so they might be distinguishable.
+
+3.) They should have spurts (every 250 frames or so) in which they spray a certain amount of seeds and bullets per say 1 seed and 3 to 5 bullets based on difficulty. Seeds should have a chance of dying as well.
+Spawning is automatic, so there is a timer that goes off. Summoning is the ability to create an enemy while the timer has not gone off for that enemy.
+Ah, alright. Well, have a good day!
+Thanks!
+Yes, you posted first! Here's mine. It was pretty rushed and the quality isn't there, but here we go.
+https://www.khanacademy.org/computer-programming/battle-sim/6187485146333184
+Use sin/cos to scale the images.
+Hop? What do you mean by not reflected in gameplay? If they hop, won't it be in the game play or do you mean using sin/cos to move their y up and down?
+I'm going to look at some other projects while you tinker. This is going to be a bit.
+Ah, okay. Well, I'll think of something. The hard part is getting the badge on the outside down. After that it's a little too easy. Adidas's logo is just a quad and Nike's a bezier. Perhaps something that I could add some screen shaking, particles, and animation too. That might be worthy of 10+ votes. (I had found out that if you use a logo/brand someone is familiar with, then they usually vote up more.)
+
+Really? I didn't realize I was one of the first, :p. My original name was Washoe (on Sy's account) and before that, I don't have the liberty to list those until circumstances change, ;p.
+Alright.
+@Try & Catch I should be already using that.
+I'll begin working again @ 3:00, but I have school right now.
+Wow, I changed 3 lines of code and it looks (if I do say so myself) pretty decent. What do you think?
+Pretty sure you know who he is, Arnakt Fen? I was reading through his old posts, but I gave up when I started feeling overly nostalgic.
+
+Do you think KACP will ever be what it was before?
+Either that or I come up with a better pointer.
+Well, right now it is placed based on the width and height of the rect, so maybe some presets, but then a manual way to position the direction rect if necessary?
+Sorry for being so late, what do you think?
+It would be much easier if you made the trees in this format rather than having so many variables within the function. 
+
+``
+var graphic = function(x,y,s,r){
+pushMatrix();
+translate(x,y);
+scale(s);
+rotate(r);
+//Graphic Here
+popMatrix();
+};
+Also, if I do come back we should redo the speech bubbles, because they don't really look like they fit in with the rest of the set.
+Well, I have a few songs that could help if you're interested granted you may not have access to YouTube.
+Probably splash damage weapons and melee weapons if possible.
+Definitely. Ah, okay.
+Alright, here's the link! Have fun with the graphics, ;p.
+https://www.khanacademy.org/computer-programming/person-template/5740252559409152
+Yup, have a good day!
+
+Oh, sorry for spamming you Mojo1000.
+Yup!
+Added!
+Absolutely, that happened to me when a terrible gradient was on the first row, but then I changed it to a better program which stopped people from voting.
+Thanks!
+Thanks!
+Yeah, my donut made it on the HL, o.o. I had a program I didn't want on there just an hour ago, and then now the donut. Maybe this is a hint that I'm finally getting noticed...
+Not fakes, but giant scams meant to corrupt you. KA may be the only safe place you can hide.
+1: Ah, I understand.
+3: ...maybe?
+1: I was talking about the lag. If there is too much lag, then we should load the images.
+Does the feather I added work?
+1: Uh, that would be too hard. He used a negative rect (one that uses - height, width, radius). A triangle doesn't look good, I've tried it on a different project.
+2: I meant the triangle being so pointed. I made it a bit more red, so it should be better now.
+So like GoofLand or SillyLand? Where everything is ridiculous with no real point, and random pickelz popping up everywhere?
+Thanks! I didn't expect anyone to see this, :o. I'm a little lazy, but I'll work on it for the fact someone voted it up for no reason.
+Hmm...well, I guess we'll agree to disagree. Captain seats as in the transparent pilot-transparent ellipses I used on the space station and the comb.
+Oh, I think I'll just downsize the stroke weight and get rid of the extra lines.
+
+Yes, the ammunition shot will be different based on turret stroke weight in this case.
+Yes, there are hidden scams, >:).
+Done with the cursor and removed the password. Working on the medals now.
+I was thinking a total of 9 ships in a certain format and a whole bunch of other stuff, but I think it can be finished by tomorrow at noon.
+Ah, that makes sense. I'll definitely put it to use.
+Me too, can't deny it.
+Are you Candle?
+They remade all the movies, and I'm here waiting for them to realize that wasn't too smart.
+Actually, why are the eyes off? Lines 192-193.
+Also, let's move the chat over to the animation, so we don't get banned.
+.
+I have an idea, but am I in?
+The Gravos ship had the rock and different colors instead of a recreation. I thought this could be used for the Insectoid ship. And we use the same color scheme.
