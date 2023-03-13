@@ -1,0 +1,1493 @@
+kaid: kaid_266891459920003908397632
+
+no replys
+::::::::::::::::::::::::::::
+---- QUESTION ----
+• DATE: 12/22/2022, 12:07:25 PM
+When does joining start/close? If ski's captain, but b4nned until 10 Jan, who'll make the thread for people to sign up under him?
+• DATE: 11/18/2022, 4:31:09 PM
+Honestly quite flattered, mate, but why don't you make it a spinoff?
+::::::::::::::::::::::::::::
+---- COMMENT ----
+• DATE: 3/9/2023, 9:43:56 PM
+Lol, page two... You guys with Hindi vs Tamil with 247 letters, xD... ;-;
+• DATE: 3/7/2023, 8:03:46 AM
+Just letting yk...
+
+_ice to meet you #FirstKhantuber:_
+Could we have an extra day to work on the project for this week? I did most of what I needed to do, but the person I'm working with hasn't had power and hasn't worked been able to work on our project for 4 days now.
+
+_Me:_
+I won't extend the formal deadline, but I'll accept your project late with no penalty :)
+• DATE: 3/6/2023, 11:56:05 AM
+- What is `l` and why is it there lol
+- `b.split("")` is entirely unnecessary
+- `random` doesn't work outside of here which is why I used `Math.random()` :p
+- And `let` > `var` B)
+
+And that is why mine (https://www.khanacademy.org/cs/i/5672689696292864, for the random future stalkers) is better =P
+• DATE: 3/5/2023, 2:44:27 PM
+What changed from v8.3 to v8.9? Did you change the default image mode to centre, among other things?
+• DATE: 3/4/2023, 10:44:31 PM
+Whoa, that epic, smooth, minimalist art style is phenomenal! o.o
+• DATE: 3/3/2023, 9:50:11 PM
+mr grammer, how on Earth did you manage to misspell "shield" as "sheild" _This. Many. Times?!_
+
+I think that comment, "It is entertaining to call out the grammar of those who call out others," was your most teasable comment xD
+• DATE: 3/3/2023, 9:41:27 PM
+I know I'm late, but you literally copied someone else's code, changed a few colours, and then added ellipses onto the right eye. I do not at _all_ believe this deserves 27 votes (1/3rd of the original), but I am not going to flag it. However, the next time you _conveniently_ forget to make a spinoff, you'll most certainly get flagged, so _please_ give due credit; putting a link at the top _does not count_ as such. If you can find the time to copy and paste into a new program, surely you're capable of finding the juicy blue button at the bottom-right of the program titled "Spin-off"? 
+
+Remember: don't code for votes. Code for yourself. Code to improve. Oki? Good luck :)
+• DATE: 2/28/2023, 4:10:09 PM
+Biscuits aren't pastries, tho, they're literally American cookies (which aren't pastries) 'cept with a different [_ahem_ the _-correct-_ name] :P
+
+(Other than that, totally accurate; I definitely walk around wearing a monocle xD
+And a top hat xD
+...But tea is wonderful, lol :d
+Nothing beats a proper cup of steaming hot Earl Grey in the morning =P)
+• DATE: 2/28/2023, 1:55:21 PM
+*Sub-thread 2 > CURRENT THREAD; SUB HERE*
+
+Place a full-stop here (".") to resub!
+
+Please vote up to top for convenience :)
+
+_Do not post anything here if you're not me. You will be flagged, as it will spam a lot of people.
+
+(...'Lot' is still me being cocky, but hey... Whatever xD)_
+• DATE: 2/27/2023, 5:47:02 PM
+That pixel art is pretty freakin' sweet :o
+So's the rigging :D
+It could use a 'lil colour tho, the background's an easy fix for that, maybe make it blue instead of grey?
+It'd be better with a 'lil more juicing, as Longtreader said. Also a menu page and the like would help :p
+
+Noice job, mr bread × mr maple syrup × NIKO × Akbaba :D
+• DATE: 2/27/2023, 5:06:08 PM
+Well heyo :D
+I'm bored
+(_I actually have enough time rn to be bored, my goodness!_ :oooo)
+So, _ofc,_ when one is bored, one must go and annoy a mr savage ninja c:
+How are ya?
+How's life?
+Hmu on GH if it sucks and you don't wanna say here (as per usual :d)
+
+Also, absolutely love the marketing going on here, lol
+The fact there's a page designated to why it's better than the others, my gosh xDDD
+• DATE: 2/27/2023, 11:43:38 AM
+You're the infamous Vexcess!
+I think, at least...
+Right?
+• DATE: 2/27/2023, 11:41:00 AM
+Random, lol. "sweaty child" xD
+Chill
+Emo >:p
+• DATE: 2/26/2023, 3:07:53 PM
+Aw, why thank you c:
+Graphics lord × logic legend = :D
+• DATE: 2/25/2023, 5:52:50 PM
+Holy crap this is way better lol
+_Finallyyyyy_ released this version, eh? :D
+Yay! :DD
+• DATE: 2/22/2023, 9:25:31 PM
+OooOo
+Hullo Mr Canadian Maple Syrup! :D
+
+Idk why I'm here, but I'm too lazy to actually work on smthn for my team for CoC, so yeah ig this is what I do now... =p
+
+This is an awesome graphic :D
+Although, you drew out _every, single_ vertex? I could never have enough patience to do that... That's why I use loops _inside_ of `beginShape`/`endShape` =D
+
+Who's your favourite HP character? It's been so long since I've read it, maybe I'll restart... :p
+• DATE: 2/21/2023, 12:13:26 PM
+test
+• DATE: 2/16/2023, 6:31:08 PM
+Mansion is the best ngl :D
+• DATE: 2/14/2023, 7:45:37 PM
+Oh, if you're using the bricks like this, on line 771, change the `let rndm = 80 + random (80)` to `let rndm = 70 + random (45)` because it looks _awful_ atm. I'm not gonna say anything else rn b'cuz you're clearly not done :)
+• DATE: 2/12/2023, 1:06:32 PM
+'tis no longer January :p
+...But I am still hyped :D
+• DATE: 2/12/2023, 1:01:56 PM
+Yes
+Graphic
+I be amazed
+:ooo
+• DATE: 2/12/2023, 9:17:34 AM
+This will probs definitely be the best program in CoC 2023, lol. You're no doubt the best member of team ninjaz :D
+• DATE: 2/9/2023, 4:32:12 PM
+Yeah, life sucks sometimes
+Like lollipops
+Both sweet and sucky at the same time
+
+(...If it's currently sucky, it'll _have_ to stop sucking b'cuz you'll eventually be left with the weird stick thingy that you _can't_ suck so you'll have to get another lolly to suck but then things are sweet again :p)
+
+So moral: life sucks like a lollipop but it'll get better and sweeter again :)
+• DATE: 2/7/2023, 9:53:37 PM
+Ooh! Ooh! _Oooooh!_ If the words after the ellipsis is either "pro gong player" or "mr savage ninja", you have officially made my day :DDDDD
+Also, I got a pic of the gong XD
+• DATE: 2/7/2023, 9:06:37 PM
+Ah, this explains the sudden spawning of people onto my programs, _lol._
+• DATE: 2/6/2023, 6:54:11 PM
+Coolio.
+Very...
+_Aesthetic_ ;p
+• DATE: 2/6/2023, 6:49:51 PM
+You should've made it stop at 99% and keep loading
+• DATE: 2/5/2023, 8:13:42 AM
+This is so aesthetically pleasing to look at, great job :)))
+• DATE: 2/4/2023, 7:57:50 PM
+*For ski and I*:
+
+_Thread 1 - closes at 99 comments_
+• DATE: 2/4/2023, 9:23:09 AM
+This looks so much better than that one, lol, nice! :D
+• DATE: 2/3/2023, 5:23:19 PM
+Lol, I saw you getting a bit interrogated by the people on the CoC webpage and now I'm super curious as to how you judge :P
+
+Can you (if you have the time), score this? For no reason, really, but it'd certainly satiate my curiosity XD 
+
+https://www.khanacademy.org/cs/i/5033281913667584
+• DATE: 2/2/2023, 5:38:37 PM
+Hey, this hit a 100, congrats! :D
+• DATE: 2/2/2023, 5:08:06 PM
+Oh dang
+Even though I saw this earlier, I'm gonna say it again, you're amazing at coming up with lyrics o.o
+I hope things are better now... GH to talk (as always ;)) if ya wanna <3
+• DATE: 2/1/2023, 5:45:59 AM
+I am clearly not a judge, but I _can_ see your comment with the scores. Not Timothy's or IA's, though. Although, yours didn't come in the notifs (I may or may not have subbed to this, lol); I wonder why...
+• DATE: 1/31/2023, 9:51:44 AM
+Dieser Projekt es so schön! :D
+Reminds me of the Parthenon =P
+• DATE: 1/31/2023, 5:49:51 AM
+Lookin' good, ofc ;)
+Maybe make the sun a less hard-hitting shade? It's bright red rn, maybe something like `rgb (199, 84, 84)`?
+• DATE: 1/30/2023, 7:01:10 PM
+:O
+:OO
+:OOO
+This.
+Is freaking awesome. 
+:O
+...Well, we certainly know the winner this round O.O
+
+Also.
+Contrary to popular opinion...
+I actually love spiders :P
+• DATE: 1/30/2023, 5:15:13 PM
+Hihihihiii
+
+You must be tired of all that fantastic ski-coding goin'  on so I'll just be here to give you company (...and possibly end up distracting you in which case just don't answer my annoying butt :P)
+
+To make you feel a 'lil better, some good news, you've regained your nickname, mr-savage-ninja-legendary-pro-gong-player-elsa! 
+(...Oki, whilst that would have absolutely not made you feel better, comedic relief, at least, _amirite?_ Ig you'd have been coding for like an hour and a half, so have some hot cocoa or smthn and don't overload yourself, mate >;P)
+• DATE: 1/30/2023, 4:34:19 PM
+Yay! It's finally out! :DDD
+Looks great :))
+Maybe make the colours a 'lil darker? They're a tad bit over-powering :P
+Awesome job!
+• DATE: 1/30/2023, 12:36:38 PM
+Whoa, this is epic! O.O
+`vote ++;`
+• DATE: 1/28/2023, 5:03:19 PM
+Are we friends? ^-^
+• DATE: 1/27/2023, 4:56:05 PM
+Apparently its name is Sarah and it's not feeling well because it's turning into a zombie, XD
+And then when I asked if it's a girl... No response, lol.
+This is super cool, though :D
+• DATE: 1/27/2023, 10:00:52 AM
+Heya, Arfy! 
+Lovely havin' you on our team :D
+• DATE: 1/27/2023, 9:42:23 AM
+Yes, raisin (_ahem,_ pexy, if you will), _pleaseeeeee_ join our team in CoC. It'll be _epic!_ And we'll have a _super_ stacked team! We need ya! :DDDD
+
+Currently, the team consists of:
+Me (S. M. V.)
+ski
+HSstudent16
+Liftoff
+(...and the two people who'll get booted out.)
+
+:p
+_derp_
+(I shall never forget >:P)
+
+_(pls join i beg u for the sake of virtual tea drinkers, plsssssss)_
+• DATE: 1/26/2023, 4:31:06 PM
+'tis empty?
+• DATE: 1/25/2023, 4:30:48 PM
+Oh noes! 
+It looks like you have a mistake in your code!
+Line two: the boolean value is incorrect! 
+...Change it to true ;)
+• DATE: 1/25/2023, 12:31:50 PM
+Ah, right, completely forgot, so two hours later:
+Sub, please? ^.^
+https://www.khanacademy.org/computer-programming/version-20/5153518035451904
+
+Oh, yeah, and I'm gonna completely revamp the subpage at some point, so we shall see :P
+
+Edit: Thanks for the 10th 1000 Kelvin I'd have if they still existed :))
+Also for breaking the voting system again lolll
+• DATE: 1/24/2023, 3:42:05 PM
+Much bouncyyy :o
+
+(2nd one's my favourite =p)
+• DATE: 1/23/2023, 3:54:35 PM
+*CREATIVE CHALLENGE THREAD*
+
+Submit your entries here!
+
+Submit entries in the format of:
+_Name
+Team
+Link_
+
+Good luck! :D
+
+_Please vote this up to 3rd from the top_ :)
+
+*Entries will be accepted until midnight, 6 Feb GMT*.
+• DATE: 1/22/2023, 1:55:13 PM
+Masking, huh...
+Does this help at all? =P
+https://www.khanacademy.org/computer-programming/masking-tutorial/5465998447132672
+As a start, perhaps?
+• DATE: 1/20/2023, 4:29:00 PM
+Aw
+Mini cactus :o
+• DATE: 1/18/2023, 7:27:32 PM
+This looks fantastic :D
+• DATE: 1/18/2023, 12:25:51 PM
+Huh, how'd you get the dragon logo to look exactly the same as mine? The webpage looks great, ofc, :D
+Although, its fire colour is rather off. Maybe just keep it the same colour as its body? Or at least not a gradient? =P
+• DATE: 1/17/2023, 9:46:29 PM
+Re-subalalaika =D
+• DATE: 1/13/2023, 11:06:02 PM
+Happy early birthday, Raisin [pexy? lol]! :DDD
+Hmm, how old are you now, grandpa XD
+16 or 17's my guess =P
+
+Good luck with your final GSCE! What subject?
+
+Enjoy some Earl Grey in the meanwhile
+#virtualteadrinkers
+
+Oh, and you're already a star =)
+
+signed,
+:p
+_derp_
+• DATE: 1/13/2023, 4:58:04 PM
+_A savage ninja!
+And `POSTERIZE`!
+Two of my favourite things!_
+
+Fantastic job :DDD
+
+I'll let you smart guys -Mr Italics, Sprout, _bread_- do your thing with efficiency and whatnot, meanwhile, I'll just revel in the savage-ninja-iness of the image the one and only, legendary mr savage ninja chose :D
+• DATE: 1/12/2023, 5:34:58 PM
+Ah, interesting.
+May I ask why we _want_ a beginner?
+"2 graphic dev, 3 game devs, 1 beginner"
+
+And why no other web devs? 
+You'd said everybody might be going out of their comfort zone (or something along those lines) earlier on GH, so if there were more webpages to be made, perhaps another person decent at that instead of a beginner?
+
+Sorry, I must be very annoying right now (and honestly in general, eh, mr savage ninja) to be questioning your decisions. Trust ya enough to at least _hope_ you know what you're doing, just curious as to the reasoning behind it =P
+• DATE: 1/11/2023, 5:52:13 PM
+**stalky noises intensify**
+I wonder what this'll be...
+• DATE: 1/10/2023, 3:43:22 PM
+*CLOSED*
+----------------
+*WINTER CHALLENGE ENTRIES*
+
+Please submit your entries here!
+If you do not submit them in this thread, do not expect them to be judged unless you have a valid reason as to why. Makes makin' sure all entries are accounted for easier on me =)
+
+Submit entries in the format of:
+_Name
+Team
+Link_
+
+Once again, good luck! :D
+
+_Please vote this up to 3rd from the top_ :)
+
+*Entries will be accepted until midnight, 23 Jan GMT*.
+• DATE: 1/10/2023, 5:39:04 AM
+*Homepage Challenge Scores*
+
+*Entries*:
+_TDJ
+Hydrus
+https://www.khanacademy.org/computer-programming/team-hydrus-homepage-wcc-2023/5098540895879168
+
+GoodDayEveryBody
+Pruina
+https://www.khanacademy.org/computer-programming/pruina-top-secret-headquarters/4871308415909888
+
+sakura
+Umbra
+https://www.khanacademy.org/computer-programming/-team-umbra-homepage-/4906946179678208
+
+Eryn
+Umbra
+https://www.khanacademy.org/computer-programming/wip-team-umbra-homepage/5704988952674304
+
+RedSus
+Tellus
+https://www.khanacademy.org/computer-programming/team-tellus-webpagepossibly/6062845610999808
+
+Reflex
+Hydrus
+https://www.khanacademy.org/computer-programming/hydrus-team-homepage/4784940587991040
+
+Captain_Pockets
+Umbra
+https://www.khanacademy.org/computer-programming/team-umbra-homepage-wcc-entry/4882317495025664
+
+HSstudent16
+Ignes
+https://www.khanacademy.org/cs/i/6101041694687232
+
+sugar
+Pruina
+ https://khanacademy.org/cs/i/6611647825494016
+
+Dominic R.
+Ignes
+https://www.khanacademy.org/cs/-/4996077086621696
+
+Darthenschmirtz
+Umbra
+https://www.khanacademy.org/computer-programming/umbra-team-hompage/5852286517035008
+
+sgh07
+Hydrus
+https://www.khanacademy.org/computer-programming/team-hydrus-homepage-wcc-2023/4879321151356928
+
+MJW55
+Tellus
+https://www.khanacademy.org/computer-programming/top-secret-do-not-look-until-release/6192141323255808
+
+Adriana
+Pruina
+https://www.khanacademy.org/computer-programming/team-prunia-wcc/6166318788689920
+
+Horizon
+Ignes
+https://www.khanacademy.org/computer-programming/potential-team-ignes-homepage/4720646403964928
+
+ice to meet you
+Umbra
+https://www.khanacademy.org/computer-programming/team-umbra-homepage-wip/4926153877405696
+
+YokieBob
+Tellus
+https://www.khanacademy.org/computer-programming/homepage/6652893268852736
+
+CylenceScythe
+Ignes
+https://www.khanacademy.org/computer-programming/rushed-team-ignes-homepage-entry/5998671132409856
+
+HB_the_Pencil
+Caela
+https://www.khanacademy.org/computer-programming/team-caela-homepage/6370753310408704
+_
+
+*Please post scores in the following format*:
+_Name
+Team
+Score_
+
+Thanks!
+
+_Edit: Please vote to top for convenience_ =)
+• DATE: 1/9/2023, 4:17:56 PM
+Hello! I've subbed, of course, quite a while back, in fact. 
+
+It appears as though you know Astro's main. 
+May I coax a tangible answer out of you as to what it is? _Pleaseee?_ UwU :D XD 
+(...
+...But really, please please _pleasssssseee?_ ^-^)
+
+...
+Anyways, I see you're doing CoC! :D
+• DATE: 1/8/2023, 10:01:15 AM
+Subbed =)
+• DATE: 1/7/2023, 10:19:55 AM
+Ah, are you resizing Horizon's avatars so it looks better on the webpages?
+
+If so, I've some links to resized ones already if you like =)
+• DATE: 1/5/2023, 9:07:59 PM
+Lol, what _isn't_ a lie tho, really...
+The _cake_ most certainly is
+...
+Anyways.
+Hope you're better now =)
+• DATE: 1/5/2023, 8:44:46 PM
+Kansas, huh? Foreign packaging, lol.
+
+"Only one of them can win" sounds _strongly_ like what got ski roasted by Liam K XD
+• DATE: 1/5/2023, 8:17:22 PM
+_Hello, Barnacle..._
+*Hark, a stalker*! (Who also happens to be the host! :o)
+Top secret? Oooh =P
+• DATE: 1/5/2023, 7:46:37 PM
+Whoaaa! This is awesome! :D
+Vote++;
+• DATE: 1/4/2023, 8:45:49 PM
+Ooh, fighting for 2nd on the HL >:D
+Voted up =)
+• DATE: 1/3/2023, 10:49:56 AM
+Sub?
+https://www.khanacademy.org/computer-programming/version-20/5153518035451904
+• DATE: 1/2/2023, 4:01:11 PM
+Hello there
+• DATE: 1/2/2023, 3:06:15 PM
+Ayyee the man's alive
+And not procrastinating
+_'Tis a miracle!_
+:oooooo
+
+Missed ya, Rocket :D
+Who's it for?
+You also seem to be rather fond of "gloopy inky heart" things, lol
+• DATE: 1/2/2023, 11:14:01 AM
+- *CLOSED* -
+-----------------
+*HOMEPAGE CHALLENGE ENTRIES*
+
+Please submit your entries here!
+If you do not submit them in this thread, do not expect them to be judged unless you have a valid reason as to why. Makes makin' sure all entries are accounted for easier on me =)
+
+Submit entries in the format of:
+_Name
+Team
+Link_
+
+Once again, good luck! :D
+
+_Edit: Please vote this up to 3rd from the top... Let's see if we can keep the current challenge's entry thread up there at all times_ :)
+
+*Entries will be accepted until midnight, 9 Jan GMT*.
+
+Edit: _Screw the bugs_ >=(
+• DATE: 1/2/2023, 8:20:42 AM
+Hi! I'm not entirely sure if this information got relayed, so I'm going to send it over, just in case. Sorry if it's a repeat =)
+
+_ski:_
+"my description:
+ski is the only returnin' CoC captain an' beat the rest of KA as the winner of CoC's first round last year. there's only one legend.
+
+ski is lookin' for those who are willin' to grind day in an' day out an' possess great talent an' skill. those who aren't afraid to lose an' wish to learn more than win. ski believes cooperation an' unity are crucial to success.
+
+my vote:
+recreational recreations an' nightmares & dreams."
+
+_Also..._
+He's going to be annoyed by that capital 'S' in his name on the leaderboard XD
+• DATE: 1/1/2023, 9:02:16 PM
+*Umbra Chat Thread*
+For Umbra members only.
+_Temporary; further discussion will occur in homepages once released._
+
+- *CLOSES AT < 99 COMMENTS* -
+(...Yeah, you must follow this because stuff gets automatically fl4gged at 100...)
+
+Once it reaches 98, Eryn, tell me in a separate T&T and I'll make another thread =)
+• DATE: 1/1/2023, 9:02:07 PM
+*Pruina Chat Thread*
+For Pruina members only.
+_Temporary; further discussion will occur in homepages once released._
+• DATE: 1/1/2023, 9:01:55 PM
+*Tellus Chat Thread*
+For Tellus members only.
+_Temporary; further discussion will occur in homepages once released._
+• DATE: 1/1/2023, 9:01:41 PM
+*Caela Chat Thread*
+For Caela members only.
+_Temporary; further discussion will occur in homepages once released._
+• DATE: 1/1/2023, 9:01:28 PM
+*Ignes Chat Thread*
+For Ignes members only.
+_Temporary; further discussion will occur in homepages once released._
+• DATE: 1/1/2023, 9:01:19 PM
+*Hydrus Chat Thread*
+For Hydrus members only.
+_Temporary; further discussion will occur in homepages once released._
+• DATE: 1/1/2023, 8:18:26 PM
+You replaced the trees! :D
+Although, you should probably take off cool guy coding's name saying he made 'em, XD
+
+Also, on line 138, could you replace it with `ellipse (random (100, 180) + random(25)*sin(frameCount*random(5)), random (200, 20), rndm, rndm);`?  Sorry XP
+• DATE: 1/1/2023, 3:11:12 PM
+**aggressively spam-clicks to watch sword go _boing**_
+Lookin' good! 
+The tree trunks are rather disproportionate, though. And inefficiently done.
+=/
+
+Here, replace the inside of the tree function with:
+```
+    pushMatrix();
+    scale(s/80);
+    translate(x, y);
+    
+    noStroke();
+    
+    for (var i = 0; i < 30; i+= 10) 
+    {
+        fill (0 + i*3, 0, 0);
+        rect (100 + i, 140, i, 208);
+    }
+    
+    for (var i = 0; i < 100; i++) 
+    {
+        var rndm = random(20, 80);
+        fill (0, 100 + i*0.8, 0);
+        ellipse (random (100, 180)+random(5)*sin(frameCount*random(5)), random (200, 20), rndm, rndm);
+    }
+    
+    popMatrix();
+```
+and then add `randomSeed(1);` to the draw function and tell me what ya think... =P
+• DATE: 1/1/2023, 1:26:06 PM
+**stalky noises commence**
+_Hello, there..._
+Is this the collab you and DR are doing? =P
+Looks cool :D
+(Random thought... Ya know how the dirt blocks' lines look like they say RM? What if you change the vertexes [lines 296-309] to smthn looking like your logo? Instead of RM, maybe DR x LG? Idk if that makes sense, but... :p)
+• DATE: 12/29/2022, 5:56:43 PM
+_The good stuff:_
+Not bad! The nav-bar opening is nice, as are the page fade-in animations =)
+
+_Critiques (sorry, but had to be done XP):_
+- Why are the images completely unrelated to the content? 
+(Ex: trees for internet, volcano for airplanes, snow for slinkies, beach for microwaves, another volcano for biscuits, grass for robots, and a galaxy for computers)
+- On the nav-bar, the words only show up if you hover _directly_ over them. It's honestly very awkward and not very user-friendly.
+- The fonts. 'Nuff said. They're... Not good, to say the least.
+- On the learning page, whilst hovering over them, they become half transparent and that also looks very awkward. It's also a little confusing, as I expected to be taken to another page if I click it (which is what one would think with a hover animation. Or perhaps I'm just an idiot... v(0-0)v)
+• DATE: 12/26/2022, 3:01:52 PM
+As Timothy said, excellent job running this! Judging was great and well-organised, and all the entries were epic =)
+Great job to all the teams, and congratulations to team Capravem!
+_(...And if you need a judge next year..._ ;D)
+• DATE: 12/25/2022, 7:37:11 PM
+Cool game! :D
+• DATE: 12/23/2022, 1:53:26 PM
+```translate (200, 170);
+scale (1.8);```
+• DATE: 12/23/2022, 1:51:50 PM
+```translate (210, 169);
+scale (2.2);```
+• DATE: 12/23/2022, 1:49:51 PM
+```translate (210, 125);
+scale (2.4);```
+• DATE: 12/23/2022, 1:47:36 PM
+```translate (210, 123);
+scale (2.2);```
+• DATE: 12/23/2022, 1:45:48 PM
+```
+translate (200, 109);
+scale (2.5);```
+• DATE: 12/22/2022, 6:02:01 PM
+This looks really nice! My skin is a bit more tan, maybe `rgb(217, 140, 102);`, so the face's stroke would be `rgb(207, 130, 91);` perhaps =P
+The [my? lol] hair looks amazing! Ya nailed the colour :D
+(...
+...I also look way more chaotic and would not be caught dead in a dress [black coat and jeans/black leggings ftw!] but if I were to go all fancy, yeah, I'd look like that o.o
+Also, the dress colour is fantastic)
+• DATE: 12/22/2022, 4:05:52 PM
+Whooo! Can't wait :D
+• DATE: 12/21/2022, 4:14:22 PM
+Whoaaa, this is gonna be one _epic_ collab o.o
+• DATE: 12/20/2022, 9:10:34 PM
+...
+**cries**
+_Am I not your friend?_
+(And yes, ik this was 4 months ago, lol. Did I know you then? Idk =P)
+...
+My brain can still not comprehend why _five years,_ though! You're either _way_ older than I thought or some magical mysterious guy working in an intelligence agency XD
+...
+Why'd you put it all in a draw function, btw?
+• DATE: 12/20/2022, 5:38:01 PM
+Subbed =)
+• DATE: 12/20/2022, 12:53:17 PM
+Very nice! :D
+• DATE: 12/18/2022, 7:25:02 PM
+Ooooh!
+Looks very promising... >:D
+
+(accidentally voted up, didn't realise it was a WIP, sorry! XP)
+• DATE: 12/17/2022, 8:16:23 AM
+Congratulations! You're the winner for Ignes! :D
+These look awesome!
+(Also, as a side note, tysm for putting the entries in a very organised way in the thread, lol.
+No spam! Yay! <3)
+Another note:
+On the individual programs, could you possibly scale them up a bit? Like, `scale(1.5);` and then with the necessary translation. Thanks!
+• DATE: 12/17/2022, 8:13:05 AM
+Hi! 
+Sorry, I'm a bit of a moron, lol.
+You've won for Caela! Amazing job! And for Pruina!
+But... As the colours don't contrast with the background, could you make the `background (0, 0);`? Don't worry, you don't need to change anything about the avatars... They're looking great! I'm going to change the background of the images whilst inserting them into the page so they contrast a bit, enough to see well. Idk if this makes any sense, and I'm really sorry for the confusion (wow, I'm a horrible host lol), but could you set the background as that for all the avatars? 
+uwu
+• DATE: 12/16/2022, 7:43:39 PM
+Looks nice! :D
+I'd recommend adding `overflow-x: hidden;` into the body tag in the CSS styling ;)
+(eyyy I'm on the friends list
+and
+eyyyy I'm on there, high! =D)
+
+**angry cough**
+_How dare ye not mention the brilliant nicknaming of Cardstock on your page?_
+**scoffs**
+_index card boiiii_ >:DDDDD
+• DATE: 12/15/2022, 11:59:07 AM
+Looks awesome! :D
+• DATE: 12/14/2022, 6:25:52 PM
+Well...
+Here are my thoughts:
+[link redacted]
+• DATE: 12/12/2022, 3:40:15 PM
+I hope you still get notifs; check the spinoffs 'cuz I don't wanna join you in the b4n area but I'd love more info on this bloody _tyrannical_ ruling.
+• DATE: 12/12/2022, 10:56:52 AM
+*New thread*
+
+_Same rules apply as 1st thread._
+
+...
+Note: If you join this thread, be prepared for a _lot_ of notifications XP
+
+...
+*A quick disclaimer for fl@g-happy people*
+_Technically, this is not violating any rules._
+
+They are as follows:
+
+"Fl@g as abuse
+disrespectful or offensive, an advertisement
+
+Fl@g as a question
+Should be in “Questions”
+
+Fl@g as not helpful
+Low quality, not about the video topic, soliciting votes or seeking badges, a homework question, repeatedly making the same post
+
+Fl@g as about the site
+A question about Khan Academy (e.g. “What software does Sal use?”), a post about badges, a technical problem with the site, a request for videos or features"
+
+_Although certain parts of this thread go off-topic, it clearly does not violate anything above._
+
+Furthermore, in the guidelines it says:
+"...Social groups or clubs, or projects that generate social chats, and other posts not related to coding, in the discussion thread..."
+
+_This is regarding the project getting hidden on the HL. This is -not- on the HL. No problem there!
+Neither the guidelines nor fl@gs explicitly state anything to do with off-topic discussion *threads* so it can all be left up to viewer interpretation, making it somewhat easy to argue oneself out of a possible mess..._ >;D
+• DATE: 12/11/2022, 8:33:20 PM
+I would appreciate some credit as you used my subpage as a base for yours, then decided to make a template on one with much of the same code/style...
+• DATE: 12/6/2022, 9:55:58 PM
+Smart way to get characters XD
+
+...
+...Made one though... :P
+• DATE: 12/6/2022, 4:09:35 PM
+The size is fine, nice job! :D
+• DATE: 12/5/2022, 6:53:35 PM
+Awesome game! :D 
+Vote ++;
+(...Lol, only thing is, your game is gonna overtake my animation at the top 'o the list for sure XD)
+• DATE: 12/5/2022, 2:19:19 PM
+Is filler text lorem ipsum?
+
+(Def not stalking for CoC, _definitely_ not, most certainly... O.O
+But are you making the page for it this year? :P)
+• DATE: 12/5/2022, 10:13:12 AM
+Sub? It'd make my day :D
+
+https://www.khanacademy.org/computer-programming/version-20/5153518035451904
+• DATE: 12/4/2022, 3:27:20 PM
+¡Muy bonito! :D
+• DATE: 12/3/2022, 6:06:29 PM
+Subbed! :D
+• DATE: 12/3/2022, 2:35:02 PM
+_8 months later:_
+
+(Here's a notif, so you're not 'ever so slightly disappointed' [from flash lol]! :D)
+
+But these are hilarious XD XD
+
+...
+PJS vs HTML
+SQL > ;-;
+
+- PJS is fun but useless
+- HTML is _so_ rewarding with CSS
+- SQL is boring ngl
+
+...
+_Dying goats?!_ XD XD
+
+...
+Wait, have you stalked me whilst trying to find out where I'm from? o.O
+
+...
+oooOooohhhh trash talk contests are the best!
+(...Had one with ski once... Great, ngl **smirks**)
+• DATE: 12/1/2022, 8:11:51 PM
+**gasps**
+Yessssss! _Cardstock!_ Yesssss! >:DDDDDDDD
+I shall accomplish my goal! YEsSsSsSssSSSssssSsSs
+
+**smirks**
+Why, _thank you_ B)
+My nicknames _are_ rather lovely if I _do_ say so myself >;D
+• DATE: 11/30/2022, 8:42:18 PM
+Whoo, looks great! :D
+:o the KACP shall bow toward my amazingggg nicknames XD XD
+(bonus pts for putting them in the [epic] intro though lol)
+
+And.
+For the 2nd time...
+**deep breath**
+**squeals**
+_Bunnyyyyyyyyyyyyyyyyyyyyyyyy!_ :DDDDDDDDD
+• DATE: 11/28/2022, 9:03:03 PM
+Your graphics were awesome, I hope to see you again sometime :)
+
+Farewell, and I wish you tons of luck in all your endeavours. We'll be eagerly awaiting your return.
+• DATE: 11/28/2022, 9:44:09 AM
+*AVATAR CONTEST THREAD*
+
+Please submit your entries here! :D
+_pls pls pls pls we need them pls pls pls I beg you pls_ XD
+
+_Please vote up for convenience =)_
+
+Edit: Also, can you tell me in the T&T if you plan to make an avatar?
+
+Edit (num 2): Oh, and can you centre the avatar on the canvas? =P
+
+Everybody, these are looking _amazing._ Fantastic job!
+• DATE: 11/28/2022, 9:43:01 AM
+*NEWS THREAD*
+
+I recommend you subscribe to this (comment a full-stop ["."] under this thread) to get notified of results, dates, and anything else important.
+
+_Please keep at top for convenience_ =)
+
+*Woah, why did this go from 39 votes to 2*? And the Join Thread? And... _Dang,_ o.o, near everything, tbh.
+_Another bug, I presume...
+Unless somebody is bot-downvoting..._
+• DATE: 11/28/2022, 9:41:57 AM
+*JOINING IS NOW CLOSED*
+________________________
+*JOIN THREAD*
+
+Please answer the questions above and post them here to get added =)
+
+_Please vote up for convenience._
+
+Edit: Love how around half of you guys are with me and like 'yessss Cardstock >:DDD' and the other half is like 'heck no!' And the other, like, 5% are just confused XD XD
+Ace Rogers is my friend, dw, and he's hosting this. I'm trying to annoy him by getting the KACP to call him Cardstock >:D
+
+_NOTE: I may not be able to give you your first choice of teams. If you desperately want to be on one team and find yourself elsewhere, don't hesitate to make your case! :D_
+• DATE: 11/25/2022, 11:11:54 PM
+Okay. We need a 'teams' page. It was a little confusing to read this, and when I'm converting this to a webpage (adding the main content rn), I think it's pretty much necessary to have all the information complete XP
+
+Just give me these and I'll fill in the rest. 
+- How many teams are there? 
+- What are their names? 
+- Are we really doing this avatar contest? 
+- What is our fallback if we don't get entries? 
+
+We need all these planned out before going ahead. On your subpage, maybe, could you post an announcement for avatars? Idk. We need entries. 
+Furthermore, depending on how many people join, 12 judges seem... More than a little extra. If you changed the number because of me or smthn, I'm totally okay with not judging. Even TCW, with 53 participants has only 5 judges; 4 alternating. So, it might not be feasible to have 12. We've also got to factor in the dreaded inactivity... o.o
+
+Atop this, I have one more question. Are the points by team or individual members?
+
+Edit: ACTUALLY, you know what we should do?! Along with the homepage challenge, make it a homepage AND avatar challenge! That'd be two birds with one stone, so to say! :D
+We should give 'em team names and then make 'em come up with an avatar for them. But we should allow avatar submissions early. Or just keep them separate... Actually, I think I know what to do >:)
+But would you rather I reroute them to your page for the avatar contest or have entries in mine? I think it might be best to do a combination of the two; if you get entries (you said you'd only gotten one, hence why I'm asking here as well XP), could you send them to me, so they're all in one area, or vice versa?
+
+I'm sorry, it's extremely late here, I have no idea if anything I said made sense, I'll check back next in a coherent manner...
+• DATE: 11/25/2022, 6:38:27 PM
+Oh, random, and about 5 days late (judging this rn, actually, for TCW), but about the grey colour thing, you could save the colour as a variable and when trying to find the colour just use the variable instead.
+
+```
+var g = color (r, g, b [< fill these with the rgb colour value]);
+
+[loads of code to otherwise inefficiently search through]
+
+fill (g);
+[shape code & whatever]
+```
+• DATE: 11/21/2022, 4:21:38 PM
+Oh, bronte, we'll miss you a ton! But... Life comes before, right? 
+Don't worry at all about disappointing us, we fickle human beings will only be all the more elated when you come back, XD! 
+I hope whatever happened gets resolved soon :)
+
+You're awesome, hope to see ya soon <3
+(And if you ever wanna talk about the sad plight of humanity/life/whatever, I'm hereeeee! :D)
+• DATE: 11/21/2022, 4:12:54 PM
+Awesome graphics and smooth interactions; fantastic job! :D
+
+Also...
+...
+_brainz_
+**nyomnyomnyom**
+• DATE: 11/21/2022, 4:09:16 PM
+This is amazing! :O
+Awesome work ethic for actually finishing it, too, despite the time it took o.o
+
+(can't vote up yet 'cuz there have been too many requests to the page, but you can bet on one from me! :D)
+• DATE: 11/21/2022, 7:29:18 AM
+This is actually pretty awesome! I might use it, along with the other one, for an animated intro or something. Thanks! :D
+• DATE: 11/19/2022, 9:41:22 PM
+What the _heck,_ how does that work? And why did I literally get myself willingly rick-rolled? XD
+...
+(**stalky noises intensify**)
+([Nah, I was goin' to the Narnia rpg and happened upon this wonderfully click-bait-able title, in case you were wondering how I found this XD])
+• DATE: 11/19/2022, 9:16:41 AM
+I've _no_ idea how I haven't subbed yet XP
+Subbed, lookin' forward to some amazing programs from ya! :D
+• DATE: 11/18/2022, 11:04:08 PM
+Oh, this is stunning! C'est _tres_ bien! Et... Parlez vous francais? 
+...Anyways, absolutely love it; amazing job! 
+My favourite part is honestly probably the balcony's railings and the tree's leaves, as well as pretty much the intricacy. Although, for the future, it would probably be more efficient to put the background building in a loop :P 
+Awesome job, again!
+
+The lyrics, though, they got me in a twist.
+
+(Edit: Just realised I'm supposed to be judging this XD... O.O)
+• DATE: 11/18/2022, 4:47:20 PM
+(I'm kinda bored so I'm gonna respond to all these lol)
+
+1. Mine is black or purple :P
+2. I've never read that, lemme add it to my list!
+3. Mine is Iron Man =D
+4. I really don't know what my favourite programmes are, hehe
+5. I love writing, but I also like maths XD
+6. ...Accurate...
+7. _Dang!_ That's a lot!
+8. _Four pages?!_ But swords are amazing!
+9. 300 pages is amazing o.o
+10. I'm not allowed to play video games ;-;
+11. Mine are Believer or Boulevard of Broken Dreams.
+12. I love graphics too!
+13. :O I love Runty already! XD XD
+
+_For the love of Camelot!_
+
+Uhhh kinda random, but are you a guy or a girl, if you don't mind my asking?
+• DATE: 11/17/2022, 7:10:32 PM
+My subpage!
+
+https://www.khanacademy.org/computer-programming/version-20/5153518035451904
+• DATE: 11/14/2022, 10:46:49 AM
+Wowowowowow you _finally_ released something, omg, I can't believe you haven't procrastinated that much wowowowow XD XD
+
+Anyways, this looks pretty sweet, and purple's my favourite colour so bonus pts there XP
+• DATE: 11/13/2022, 10:49:30 AM
+_Tutorial Requests:_
+
+If you have any tutorial requests, ask here, and I'll try to make one!
+
+Please vote up for convenience =)
+
+_No chat threads, only requests (and responses) allowed here :P_
+• DATE: 11/10/2022, 10:15:14 PM
+Ah, very nice job!
+The lantern and glow are super sweet, as are the special effects =)
+• DATE: 11/10/2022, 6:35:08 PM
+Here, is it working?
+
+Edit: Apparently not, lol
+• DATE: 11/8/2022, 4:21:53 PM
+Subbed!
+Archery? Whoa, cool!
+And viola's sweet :P
+Prefer cello, myself, though, lol. 8 instruments is a lot!
+• DATE: 11/8/2022, 2:43:52 PM
+Very nice! One of the best homepages for sure!
+• DATE: 11/8/2022, 8:50:58 AM
+Very nice! =D
+(why beginner tho, you two? XD
+
+Also, I personally love the colour scheme. Although, if I may ask, why brown for a team with a whale?)
+• DATE: 11/8/2022, 8:21:45 AM
+AAAAAAAAAAAAAAAAA
+So _this_ is the thingy you've been working on, eh? XD
+It is almost terrifyingly realistic.
+Although...
+_Who is it?_
+• DATE: 11/7/2022, 9:24:22 PM
+Whoa, whoa, whoa. How have I not voted this up yet?!
+
+This is absolutely, amazingly, stunningly, jaw-dropping. I know I'm certainly late to the party; by half a year, lol, but I'm still gonna give a full description of the awesomeness:
+
+- The textures in the clothing are fantastic. The trousers' shading is super realistic, and the jacket... **chef's kiss**
+- The background is also awesome!
+- I love the hazy feel behind the words
+- The way the words curve and the placing and everything is perfectly done.
+- _The logo. The webs. The shoes. The hands. Everything!_ Un-be-lie-vable o.o
+
+You could earn some big bucks doing this for a video game company or something :P
+
+Once again, amazing job!
+• DATE: 11/7/2022, 5:56:22 PM
+1 - Oki
+2 - Me, too, along with black and dark purple.
+3 - I watched all the movies, but haven't read the books XP
+4 - I <3 Legolas!
+5 - Marvel is the best! The MCU is amazing, definitely watch the movies.
+6 - Iron Man. Dr Strange.
+7 - **memories**
+8 - **memories intensify**
+9 - Never watched it
+10 - _...You don't say?_
+11 - Me, too. I don't have any pets though :[
+12 - **googles** AHHHH they're so cute!
+13 - Me, too! Favourite book? Other than LOTR.
+14 - I'd like to read 'em!
+15 - Me, too. For both.
+16 - Do you release them afterwards?
+17 - Me, too!
+18 - I, too, am blank yrs XD
+19 - Hi, blank blank!
+20 - You're not kidding
+21 - The US, I presume. "@AmericanGuard"
+22 - I like chocolate.
+23 - Yum, brainz are good XD
+24 - Cool!
+25 - Mine is autumn.
+
+Also...
+"556 in the T&T"
+
+Edit (a month later, for no reason whatsoever, lol): Why does this have 4 votes? o.O
+• DATE: 11/6/2022, 3:00:39 PM
+*OLD > PLEASE RESUB IN THE NEW ONE*
+
+_Sub-thread:_
+
+Put a "." in here to sub!
+
+Please vote up for convenience :)
+
+_Do not post anything here unless you are me. You will be flagged, as it will spam a lot of people.
+ 
+(...I suppose 'lot' is me being cocky, but hey, whatever XD)_
+• DATE: 11/4/2022, 9:25:48 PM
+Hi! I can't see _any_ of the comments here, presumably because of the KA bug. I'm not sure if you all can see them here either, so here's me checkin' in.
+
+_'Ello there, I exist!_
+• DATE: 11/4/2022, 7:37:01 PM
+Alright! Hmm... I think for autumn, it might look better in the day ('cuz the colours might get affected), but we can do whatever ya like =)
+• DATE: 11/4/2022, 2:56:12 PM
+Wow, that's good! =D
+
+I do have one comment though- for the sake of efficiency, instead of coding out every single vertex, it might be easier to use a for loop, especially for the more intricate parts :P
+
+(You probably don't want to change all this hard work atm, but maybe for next time...? Idk.)
+• DATE: 11/3/2022, 9:03:04 PM
+Yeah :[
+
+So was I XD
+
+Idrc even if you do, lol
+
+For a nickname?
+HmMmmMMMmmm...
+How about...
+Cardstock?
+'Cuz an Ace is a playing card! XD
+
+Me, too!
+
+Thanks, and also thanks for not voting up! It _is_ a WIP, after all, and it gets very annoying when those are voted up =(
+• DATE: 11/3/2022, 8:47:42 PM
+Oops, now in the T&T because this bug is REALLY, _REALLLYYY_ annoying.
+
+Eh, idk, it looks strong! And big!
+
+Ah, figured XP
+
+Hi there!
+If you keep calling me that tho...
+...I will be forced to come up with an annoying nickname for you XD
+(actually, even if you don't, I probably will, lol)
+
+Huh? No! May I ask what led to that conclusion?
+We're actually doing a collab. We ended up kinda... Flexing to each other, in a way, and he asked for some more info on some things, so yea, I kinda overloaded ig.
+• DATE: 11/3/2022, 6:06:31 PM
+(I can see the comment now, idk what's up with that. But I can't see your comment on the project [but I can in my notifs] :P)
+
+Btw, why did you change your pfp?! Bring back the robot! XD Jk, jk, you do you.
+
+Smiling Monstrous Velociraptors
+Smirking Monkey Vultures
+Stupendous Mooing Vaquitas
+...Orrrrr my initials.
+Idk.
+You decide XD
+
+Yeah, I was thinking that too!
+
+I personally prefer autumn and the left side. But it's up to you =)
+
+I'll work on mine on my own program and in the end, we can add 'em together.
+• DATE: 10/31/2022, 5:37:15 AM
+Awesome job! Love the colour scheme <3
+• DATE: 10/30/2022, 8:47:21 PM
+Sub, if you feel so inclined!
+
+https://www.khanacademy.org/computer-programming/my-subpage/6104697482559488
+
+_Please vote up for convenience! =)_
+
+Random question (as usual XP):
+Well, the original one I had might not be a good idea to post on here, so idk. This one's a bit more lighthearted compared to my other ones, haha
+
+What's the most random thing you've heard someone say?
+
+(_Please do not answer as a comment here. Last time, a lot of people answered and a lot of people got spammed and got annoyed..._)
+• DATE: 10/29/2022, 5:44:47 PM
+Nice! I think this is my favourite of the 4 =)
+• DATE: 10/29/2022, 1:28:19 PM
+Oooohhhh, this is amazing! Superb job! I love the colour scheme and all the little details + glow are fantastic <3
+
+(Hehe my level of surprise at being mentioned in a 'lil special bracket is honestly a bit startling, lol
+But good to know I won't have to wait forever before releasing mine! XD)
+
+Hey, was this what you asked about in my masking tutorial?
+• DATE: 10/28/2022, 3:58:57 PM
+Hey, jsyk, you posted this in Khantober under Sunday's thread but your username says Saturday, so you might want to move the link to the right thread...
+
+Anyways, this is pretty cool, nice job =)
+• DATE: 10/28/2022, 10:53:03 AM
+Oop, I forgot to comment on this earlier :P
+
+Actually, that's a lie.
+
+This is jaw-dropping.
+I'm speechless.
+...And said lack of speech is why I didn't comment XD
+
+_Phenomenal_ job, you two! =D
+• DATE: 10/24/2022, 1:51:36 PM
+W-Wh- You good?
+Sounds like _someone's_ hungry!
+• DATE: 10/23/2022, 8:04:09 AM
+_Rebirth,_ maybe, or how about _Core?_
+...or _Ping-Pong Ball of Destruction_ works too, lol
+
+You're really good at raymarching =)
+• DATE: 10/22/2022, 2:50:21 PM
+Ya know what? I'm so bored rn. I'm gonna respond to all of this XD
+
+1. Well, you're 16 now, right? I'm 13 but turning 14 soon :P
+2. I did this one before!
+3. Kewl :)
+4. You seem like one =D 
+I'm not. I've literally been told off for being too rational, actually. Needless to say, that was kinda embarrassing XD
+5. I <3 piano! (more exclamation pts, but they were deleted) I play the keyboard! (By ear though, but I can quite literally play anything :P)
+6. Cool! =D
+7. Got a haircut or smthn?
+8. All yours are good =D
+9. Lucky (though that point had been previously established lol)
+10. Me, too :|
+11. Nahhh, cricket is! =D
+12. Me, too!
+13. WAIT WHAT?! But-but-but...
+Your profile name is silverleaf12! Ranger's Apprentice?! In either case, I love both series =)
+14. That's a lot O.O
+15. Pretty good? I'm sure you're fantastic if you _code_ art this well! I love drawing too, animals, mostly =D
+16. You were, like, 5-6 inches taller than me then, how tall are you now?
+17. Yes! It's so peaceful =)
+18. Wow, that sounds quite cramped!
+19. Never watched it :|
+20. Cool! I can remember numbers and music, but not really words :P
+21. **sighs with you**
+22. Mine is probably Imagine Dragons =)
+23. I used to be _good_ at spelling.
+24. Same here, dude :P
+25. You seem calm
+26. Yes! Human psychology is intriguing!
+27. No, you won't.
+28. Same :P
+29. ...HOW?!
+30. Monkeys
+31. **smirks**
+32. **gasps** _You don't say?!_
+33. THAT. Was the best fact. Smart.
+34. That's fairly evident :)
+35. What?! How?! Why?!
+36. Good at mimicking accents?
+37. Oki, bye then XD
+• DATE: 10/21/2022, 6:04:27 PM
+_Awwwwwww!_ <3
+
+'Lil kitty!
+It's _perfect!_
+• DATE: 10/21/2022, 5:29:19 PM
+Thanks, dude =)
+
+So a circle guy with eyes
+Should I make multiple characters with different skin/hair/eye colours? 
+(Cuz RPG, so players can choose their own characters)
+
+And it's not that bad for midnight XD
+I probably shouldn't be on here at 5 AM many days myself, though XD
+
+I'll do the characters first (before the scenery) so you can work on the animations
+• DATE: 10/21/2022, 11:25:40 AM
+2 of the best graphic makers here makin' a collab together- Can't wait to see how it turns out! =D
+
+Good luck!
+
+(-not voting up cuz WIP-)
+• DATE: 10/20/2022, 8:53:41 PM
+Sweet! =D 
+<3 the animations, and I actually really like the title 'cuz the colours are rusty (the colour scheme, lol, not meaning unpractised) and it's in a rustic fashion
+
+Hmm, song recommendations, eh?
+Dunno why but _Boulevard of Broken Dreams_ by Green Day is looping through my head rn
+So...
+Yeah.
+Idk.
+• DATE: 10/20/2022, 1:40:58 PM
+Aww, that's a sweet message =)
+
+Thanks for the cookie, btw! (^-^)-🍪
+Here's some chocolate for you, cuz _someone_ at 'em all XD 🍫
+• DATE: 10/19/2022, 3:53:53 PM
+Sorry, @TCL :P
+
+*Paradox + cool stuff thread*
+
+_Please vote up for convenience_ =)
+• DATE: 10/17/2022, 5:53:15 PM
+Cool logo, awesome animation =D
+
+"Tenacious"
+My, my, big words, eh? XD
+• DATE: 10/16/2022, 12:54:09 PM
+Sub, if you feel so inclined:
+
+https://www.khanacademy.org/computer-programming/my-subpage/6104697482559488
+
+_Please vote up for convenience_ :)
+
+Hmm...
+Random question! (Or _thought_, I suppose, is more like it, lol...)
+
+What was there before everything?
+Nothing, right?
+That means _nothing_ existed.
+'Nothing' _can't_ exist, though.
+So wouldn't that make 'nothing' a paradox?
+
+...
+Also, I'm thinking of making a self-portrait, what do you guys think?
+
+Actually, out of curiosity, what do you guys think I look like?
+
+Edit: Whooooo I'm exactly 60% of the way to my goallllll! =D
+...
+Now 97%!
+102%! =D
+• DATE: 10/11/2022, 9:08:18 PM
+Dude, this is awesome, the lighting, posture, and colours are _perfectttt_, and the drawing-like feel really adds to it :O
+• DATE: 10/9/2022, 6:58:23 PM
+Sub, if you feel so inclined:
+
+https://www.khanacademy.org/computer-programming/my-subpage/6104697482559488
+
+_Please vote up for convenience!_
+
+EDIT: You know what? I'm just _really_ bored. So I'm gonna ask a random question and see what you guys think.
+
+So...
+Hmm...
+
+If tomatoes are fruits, is ketchup a smoothie?
+• DATE: 10/7/2022, 5:13:57 PM
+**to the tune**
+
+This is gonna make me cry
+Hopefully not say goodbyeeeee
+And are we still up for the collabbbbb?
+• DATE: 10/7/2022, 5:09:06 PM
+WOAH. This. Is. _Awesome!_ 
+
+The colours and perfect contrast between the yellow and blue are amazing, and the textures are crazy good O.O
+• DATE: 10/3/2022, 6:20:38 PM
+Very nice! :D
+• DATE: 10/2/2022, 9:53:50 AM
+So, I finally got the comments working! And I made a subpage! YAY! =D
+
+...
+Wait for it...
+
+Sub to me if ya want!
+https://www.khanacademy.org/computer-programming/my-subpage/6104697482559488
+
+Ohhhhmygoodnessthatfeltamazinggggglol
+
+Please vote up for convenience :)
+• DATE: 9/29/2022, 4:39:00 PM
+This looks so fun!
+
+May I join on a Sunday?
+• DATE: 9/17/2022, 7:44:25 PM
+I think it might be more of a primitive response. Ya know? When fish are feeling threatened, they contort their body into a c-shape, which automatically propels them up. Fish all the way down in the sea don't seem to have this ability; only surface-level fish. So if they do it, they automatically go into the air cuz that's how their body works. And like @ski and @brønte said, they might be able to find out the temperature or pressure change. Also, the fact they won't be able to breathe... 
+
+IDK. Just a theory. Like humans getting goosebumps, just a flight-or-fight response.
+
+What if dogs bring us back sticks cuz they think we like throwing them?
+
+Do you like MBTI? I'm an INTJ :D
+• DATE: 9/9/2022, 5:50:02 PM
+Put a "." in here to sub!
+
+Please vote up for convenience :)
+
+_Do not post anything in the chat unless you are me. You will be flagged, as it will spam a lot of people._
+::::::::::::::::::::::::::::
+---- ANSWER ----
+• DATE: 3/13/2023, 11:31:46 AM
+I will re-release it in a new program.
+It will only get complete in one week or so.
+• DATE: 3/12/2023, 4:51:06 PM
+Apologies, I will go and check right now :)
+• DATE: 3/10/2023, 5:02:29 PM
+It is incomplete; still a WIP :)
+• DATE: 3/7/2023, 8:01:21 AM
+I won't extend the formal deadline, but I'll accept your project late with no penalty :)
+• DATE: 3/4/2023, 11:03:22 AM
+Make multiple for-loops :p
+• DATE: 3/1/2023, 11:46:20 AM
+The skill level really is pointless at this point, tbh, xD
+But sure, I'll change it once I get the time if you want :)
+• DATE: 2/12/2023, 9:09:50 AM
+Yeah, they're not active. Sure, you can join! Mind if I put you in Caela? They really need active members, smh.
+• DATE: 2/7/2023, 10:27:07 PM
+Hmm, depending on how good it is, lol... I'd like to say perhaps 5 or so, though. I'm not sure how much the other judges know SQL; therefore, idk how they'll judge it. But I'll weigh them if they seem unfair (as ik some SQL) =)
+The point of this challenge is to learn and if the result demonstrates that, the scores will reflect it :)
+• DATE: 2/7/2023, 7:08:25 PM
+Mate, you just got extra points for creativity from me :D
+Definitely, go ahead =D
+• DATE: 2/2/2023, 10:02:28 AM
+Oki, that should be fine :D
+• DATE: 2/1/2023, 10:06:08 AM
+Yeah, definitely use other stuff, lol. There's only so much you can learn here, XD
+• DATE: 2/1/2023, 5:29:34 AM
+You submitted an entry for the Winter Challenge? I cannot see an entry of yours on the thread on my side; neither can Ace Rogers or the other judges. As to the Creative Challenge, judging has not yet commenced :)
+• DATE: 1/31/2023, 3:44:05 PM
+As long as it's "little", sure :D
+• DATE: 1/27/2023, 1:06:15 PM
+They should be released in the next few hours; I'm very sorry for the delay!
+• DATE: 1/26/2023, 5:55:11 PM
+It is for Clash of Code :D
+• DATE: 1/26/2023, 5:54:31 PM
+In all honesty, there are very few things on KA showing how to make graphics, lol. I haven't even completed the courses, XD
+But...
+It's just like dragging shapes and vertices to form a shape, which makes a better shape, a better graphic. Throw in some loops and noise, et voila! You can also learn tons by observing the graphics of the legends: Daniel T, NitOwl, Green Ghost... :D
+• DATE: 1/25/2023, 3:59:45 PM
+You can only submit one entry, but I suppose if your collab partner submits the collab and you submit the solo project, it's fine :))
+• DATE: 1/23/2023, 4:43:23 PM
+Yeah, sorry. Looks like you saw the post before I updated it, heh.
+...I'm tired, lol... XP
+• DATE: 1/14/2023, 7:26:36 PM
+Do the challenges and get active again! :D
+(Or, if not, I suppose you can just pretend none of this exists and go back into the ready hole of inactivity, lol.)
+• DATE: 1/13/2023, 10:20:43 PM
+All the entry threads are going to be here because of my horrific memory with stuff like this... Spam should help me remember, lol.
+• DATE: 1/13/2023, 5:36:01 AM
+Yeah, you can =)
+• DATE: 1/12/2023, 1:45:40 PM
+There is a thread in the T&T in which you can submit your program by sending me its link.
+• DATE: 1/12/2023, 12:38:00 PM
+As many as you can; the goal is to garner points for your team, so you need to participate in individual challenges to gain points. Whether or not that means _all_ of them  is up to you.
+• DATE: 1/11/2023, 7:55:51 PM
+I mean, for example, if you watch Frozen and copy Elsa, line for line, then yeah, most likely. But if you watch Frozen and just get _inspiration_ for a program, then probably not, unless it's clearly a poor rip-off.
+• DATE: 1/11/2023, 3:56:24 PM
+Nope! Helping and learning from others should never take away points :D
+• DATE: 1/10/2023, 11:37:05 AM
+(Sorry to disappoint, this isn't Cardboard here, XD
+[...B'cuz he doesn't get notifs from this page, ofc])
+
+Anyways, no, sorry, the teams are already finalised.
+• DATE: 1/10/2023, 5:29:44 AM
+Edit it as much as you like =)
+The deadline is only so we have everything accounted for and don't go searching, but you can still edit it really as much as you need.
+• DATE: 1/9/2023, 7:30:41 PM
+You should do whatever season it is where you are. So, if you're in the northern hemisphere, winter, but if you're in the southern hemisphere, summer =P
+• DATE: 1/5/2023, 5:50:23 AM
+It would deduct points (for originality and creativity).
+• DATE: 1/3/2023, 3:45:46 PM
+It's Latin.
+
+Sure, why not. It's just Latin, lol. Or do you mean the one where you're scrambling the letters...?
+• DATE: 1/3/2023, 12:36:57 PM
+You should find it first up in recents in the tips and thanks =)
+• DATE: 1/2/2023, 3:52:05 PM
+Ah, I meant _unnecessary_ lines, sorry. You definitely would not lose points =)
+• DATE: 1/2/2023, 2:57:42 PM
+It's too late, sorry.
+• DATE: 1/1/2023, 8:59:32 PM
+Ah, thank you! I shall create team threads right away. 
+
+Although, notif spam... o.o, 50 people! We shall see =P
+• DATE: 1/1/2023, 7:15:03 PM
+It's a scene in a collab but unfinished; still a WIP. So I'd prefer it if you didn't vote =)
+• DATE: 12/31/2022, 6:43:42 PM
+It has not begun yet; it will start on the 2nd of January =)
+• DATE: 12/25/2022, 6:06:55 PM
+Using the distributive property, we can go from 
+(fx + g)(hx + j) 
+to 
+(fh)x² + (fj + gh)x + gj
+
+1. fx ⋅ hx = fhx².
+2. fx ⋅ j = fjx.
+3. g ⋅ hx = ghx.
+4. g ⋅ j = gj.
+At this point, we have all four... Segments, with lack of a better word... Of our expression written:
+fhx² + fjx + ghx + gj
+From here, we can factor out the x.
+(fh)x² + (fj + gh)x + gj
+Now, at the beginning of the video, we had the variables a and b. Let's replace the fj and gh with them.
+a = fj
+b = gh
+Therefore, a ⋅ b will be equal to fj ⋅ gh, which we could then rewrite as fhgj, also equal to (fh)(gj).
+Now, let's refer back to the first, unfactored expression we had:
+fhx² + fjx + ghx + gj
+Now that we have (fh)(gj), when looking back at the previous expression, we can see it is the first coefficient (fh) times the constant term (gj).
+So, 
+a [aka fj] + b [aka gh] = middle term [fj + gh]
+Using the commutative property of multiplication, we can reorder the fjgh to see that
+a [aka fj] ⋅ b [aka gh] = first coefficient ⋅ constant term
+And this is why it all works out in the end.
+
+Hope this helps!
+(actually, I hope it's _coherent_ in the first place, lol XD)
+• DATE: 12/17/2022, 3:16:44 PM
+The competition starts on 2 Jan, but you can begin working on the challenges early =)
+However, the thread to submit entries will only be opened on the day of the challenges' start.
+• DATE: 12/17/2022, 1:02:23 PM
+As long as > 50% of the submitted project is new, yep! :D
+• DATE: 12/16/2022, 3:51:01 PM
+No, these are just in-competition points; ones that I made up. The team with the most points at the end wins =)
+_However,_ you _do_ gain energy points by actively being on KA and coding as well! :D
+• DATE: 12/16/2022, 1:28:59 PM
+Nope, it stands for Processing JavaScript, the highly inefficient (albeit great starting point) language KA uses. It's significantly different from Java Script and not used much in real life.
+• DATE: 12/15/2022, 4:04:32 PM
+Hi! It's a coding contest, just in KA Programming. Please refer here for more info:
+https://www.khanacademy.org/computer-programming/wcc-2023/5317909013905408
+• DATE: 12/14/2022, 2:02:12 PM
+I'm hosting a contest; these are the participants.
+• DATE: 12/13/2022, 5:20:06 AM
+Uh... Uh... o.o
+There probably _is_ a process, but idk what it is, lol.
+(why is that so funny XD)
+• DATE: 12/12/2022, 5:51:05 PM
+Ah, sorry, I didn't see this. It's mostly how they rated themselves, and I'm at least _somewhat_ trying to give everyone the teams they ask for, and that's kinda just how it ended up...
+• DATE: 12/11/2022, 3:35:14 PM
+Sure! =)
+• DATE: 12/9/2022, 7:34:29 PM
+Sure, but don't credit me. I got it from TDJ's subpage, and he'd gotten it from King, iirc.
+• DATE: 12/7/2022, 3:42:41 PM
+It specifies the render mode and makes it 2-dimensional (which is also default, but it must be specified whilst using `createGraphics`).
+• DATE: 12/6/2022, 8:17:55 PM
+Sure, you can do it on PJS if ya like! :D
+• DATE: 12/6/2022, 11:21:23 AM
+The basic HTML takes only, like, 30 minutes; HTML is a very simple language. Adding in the actual content, as opposed to lorem ipsum; let's say an hour. The CSS? Another hour. Let's throw in another half an hour for learning and double-checking; etc. So maybe 3 hours total. But I've been told I'm a fast coder, so idk.
+• DATE: 12/6/2022, 9:53:48 AM
+Yeah, I did. Eh, just some simple rhyming and turning mental ranting into something... Not-so-ranty lol.
+• DATE: 12/6/2022, 9:50:04 AM
+Well, that's first! :O
+Thanks! =D
+• DATE: 12/5/2022, 6:49:12 PM
+Oh! Well... I've 6 collabs racked up atm and a few other people asked me... But maybe if/when it lets up, sure =)
+• DATE: 12/4/2022, 1:08:54 PM
+Yeah, they're fine =)
+(thing is, I've gotta use the thumbnails to insert them here, so I can't really animate them, the reason for that rule XP)
+• DATE: 12/3/2022, 3:30:46 PM
+No, it doesn't ('cuz not everyone is making an avatar and as I hadn't officially listed it with the challenges it wouldn't be fair). Good question! :D
+• DATE: 12/2/2022, 10:52:15 PM
+Okay, I'll remove you =)
+(Ya know, though, you don't need to participate in all of the challenges XP
+Lemme know if you change your mind)
+• DATE: 12/2/2022, 6:04:09 PM
+As long as the majority of the design is yours, you're allowed.
+• DATE: 12/2/2022, 3:49:43 PM
+We've got some entries for all of them now! :D
+• DATE: 12/2/2022, 9:14:35 AM
+Sure! But the contest starts on January 1st, after the holidays (at least in my country), just fyi.
+• DATE: 12/1/2022, 8:07:39 PM
+Of the code? Not really, but perhaps as a tie-breaker =P
+(Hmm... Kinda like the ends justify the means, lol!)
+• DATE: 12/1/2022, 11:11:16 AM
+Hmm... Is Caela okay instead? I'm currently trying to even out the teams =P
+• DATE: 12/1/2022, 9:53:45 AM
+The avatars are due by December 15th.
+• DATE: 12/1/2022, 8:36:23 AM
+Sorry, atm, I'm tryin' to even out the teams... But if anything changes, I'll move him.
+• DATE: 11/30/2022, 9:13:24 PM
+Sorry, the judges' positions are full.
+• DATE: 11/30/2022, 7:08:14 PM
+Ya know, it doesn't _have_ to be white coloured... Light blue, blue, really anything can work if you _want_ it to... =P
+• DATE: 11/30/2022, 6:25:05 PM
+*Official Answer*
+
+You will see a join thread in the Tips and Thanks area. You are currently in the Questions section.
+• DATE: 11/30/2022, 6:23:12 PM
+You're _on_ the question tab rn, m8! But you are supposed to join in the Tips and Thanks, not the questions tab.
+• DATE: 11/30/2022, 5:18:04 PM
+All, if you can! :DDDDDD
+I've none for Caela or Pruina iirc, so it'd be a life-saver! =D
+• DATE: 11/29/2022, 9:42:31 PM
+1. Just contests made by the community. There are official contests that you can check out in the 'Contests' tab on the browse projects page.
+
+2. Yes; each person is to create their own project.
+
+3. Yep!
+
+4. That's right.
+
+5. Yep! Why not.
+
+[Oki]
+• DATE: 11/29/2022, 4:54:59 PM
+There is a thread at the top of the T&T. Answer the questions on the Join page of the webpage and I'll add you! :D
+• DATE: 11/29/2022, 4:53:55 PM
+Well, this is probably just me, but I learned HTML and CSS in a day. I had no school and was _super_ bored, so I watched all the KA videos on x2 speed and raced through the challenges, XD
+This is my 2nd webpage, so as you can see, imo, making something like this is not hard and very fast to learn =)
+• DATE: 11/29/2022, 1:48:39 PM
+To insert into an HTML program, you've gotta use this:
+
+```
+<img src="https://www.khanacademy.org/computer-programming/i/[REPLACE-WITH-PROGRAM-ID]/latest.png">
+```
+• DATE: 11/29/2022, 12:54:59 PM
+Added =)
+• DATE: 11/29/2022, 12:40:44 PM
+Yep, you're on Umbra =)
+• DATE: 11/23/2022, 9:08:34 PM
+You simply forgot to define variable t.
+Just add
+```var t = 0.01;```to the start, and it'll work like a charm :)
+
+The thing is, I saw how you defined all the variables outside, in the 'variables' section, but that won't work, because the map is inside a named function, so the global variables don't have a scope inside 'em.
+• DATE: 11/21/2022, 6:35:39 PM
+Oki! So, you don't want the mountain to move?
+• DATE: 11/21/2022, 3:48:53 PM
+It's my logo; yes, I made it for fun, and no, it's not an actual logo.
+• DATE: 11/13/2022, 5:19:52 PM
+Oh, there was a bug in KA. Dw, you weren't hidden or something =P
+• DATE: 10/27/2022, 4:42:17 PM
+Not with the hotlist, but my project list is completely screwed up on my profile.
+• DATE: 10/26/2022, 12:41:52 PM
+I have literally no idea-
+I started in June 2022, so I haven't been around that long to know what the 'old thing' was, though v(0-0)v
