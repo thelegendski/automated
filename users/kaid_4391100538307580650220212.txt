@@ -1,6 +1,2435 @@
 kaid: kaid_4391100538307580650220212
 
-no replys
+---- REPLY ----
+• DATE: 3/11/2023, 9:02:46 PM
+And `/cs` doesn't work in HTML
+• DATE: 3/11/2023, 11:07:51 AM
+Did it work?
+• DATE: 3/10/2023, 9:07:54 PM
+$['tampering', '0','fixed comment?']$
+• DATE: 3/10/2023, 11:46:37 AM
+$["Astro", 3, "astronomers"]$
+• DATE: 3/10/2023, 11:45:06 AM
+Ello _=D_
+I was just about to say you should go ahead and start. 
+
+If you guys don't want to make one universal block then you guys can make separate block pieces for corners and such.
+• DATE: 3/10/2023, 11:42:26 AM
+Isn't it easier to shoot straight and add sin/cos to give the bullet a curve?
+• DATE: 3/8/2023, 4:43:07 PM
+Alr thanks _=D_
+
+@akbaba
+Nope. I mean real puzzles like super quick mini-games/challenges for the player. 
+
+@DR
+Thanks _=D_
+• DATE: 3/7/2023, 8:26:51 PM
+Yep. 
+
+Here's what we still need:
+
+Player movement (_Astro_)
+
+Enemy AI (_YokieBob + Astro_) - Shooting bullets toward the player in an arc manner. I'll meet you on your program for more info.
+
+Graphics (_Nico and Aqua_) - You two can decide on any theme, after all this is a team collab so I'd like to see what you two can come up with. You two together will be making blocks and the background skyline. Astro will be making the player. 
+
+Map development (_DR_) - Your task is to take YokieBobs physics and turn it into a generable bitmap map with camera movement. 
+
+Puzzles (_Chase + Akbaba_) - I want you both to come up with 1-2 different puzzles. These can be anything. Once again make anything you'd like.
+
+
+Also, how many of you guys will be active during the weekend?
+• DATE: 3/7/2023, 8:10:15 PM
+So sorry. I was busy the last 4 days. I've created a new chat thread with a better plan of our final project
+• DATE: 3/3/2023, 5:34:40 PM
+* _Boom_ *
+
+Mr maple syrup has spawned.
+• DATE: 3/2/2023, 8:41:11 AM
+_O.o_
+What about a worn down dead cyberpunk kinda theme?
+• DATE: 3/2/2023, 8:22:36 AM
+Hello, We are making a platformer with a normal dude with movement inspired by angry birds and a project that still has a really fuzzy direction. Art style - flat art.
+• DATE: 3/1/2023, 8:56:29 PM
+@Akbaba
+By stickiness I mean the player can hang onto walls. I vision wall climbing and such with this feature. Maybe this could be a reward the player earns instead?
+
+The tasks will be more specific once we get the foundation down by the end of this week.
+• DATE: 3/1/2023, 8:48:24 PM
+`{
+    names: "Astro, Chase, Aqua217",
+    captain: "Astro",
+    link: "https://www.khanacademy.org/computer-programming/round-3-group-1/4936956673048576"
+},`
+• DATE: 3/1/2023, 3:32:14 PM
+@Niko 
+A rigged character. Let me see if I can find an example
+
+@Chase
+yea. You wanna make program?
+• DATE: 3/1/2023, 2:10:23 PM
+Yep. Forget stickiness. That's me and Chase's job.
+• DATE: 3/1/2023, 1:58:20 PM
+Nope. The collisions are circle to rect so the player can look normal.
+• DATE: 3/1/2023, 1:14:36 PM
+Nah. Just make a normal graphic. The platformer will have circle-Rect physics. It's not medieval themed.
+• DATE: 3/1/2023, 11:48:37 AM
+And my comment didn't go through. 
+
+Ok...
+
+1. Aqua will be here shortly
+2. Here's the groups with tasks that should be done by Friday:
+
+Astro, Chase => Player movement (launcher)
+DR, YokieBob, Akbaba => platformer physics (circle-rect)
+Nico, Aqua => Player graphic (Short chubby dude with a beard, flat art style)
+• DATE: 3/1/2023, 11:15:38 AM
+Yep. Aqua was inactive for the last 5 days. I just got her response. It'll be in by the end of today.
+
+Sorry for taking so long
+• DATE: 3/1/2023, 10:08:02 AM
+@Aqua 
+Forget the menu _=p_
+It's already really late. I'll add the diver and submit it in the next couple hours.
+
+Could you report to the final collab chat thread?
+https://www.khanacademy.org/computer-programming/final-project/4565656077123584
+• DATE: 3/1/2023, 8:12:13 AM
+I'm not sure about aqua's activity. Let's give it some time. 
+
+Anyway I've got an idea which involves some of our past projects as well _=p_
+
+1. platformer type map 
+2. No movement. You know how in angry birds you shoot birds at objects? Well, instead of moving with arrow keys, you'll launch yourself from block to block. You stick/grab onto to the blocks you land on. 
+3. You fight enemies by flying into them. 
+4. Once you get to the end of the level you play a mini-game/puzzles which reward the player with something.
+
+Along with time we can add sidequests like collecting things or something
+• DATE: 2/28/2023, 8:23:33 AM
+morning _=D_
+• DATE: 2/27/2023, 8:42:45 PM
+Alr. So Liam said we go big or we go home. We can recreate something like hollow knight and die or make something original
+• DATE: 2/27/2023, 8:17:12 PM
+That's perfect _=D_
+
+I'm working on the graphic's rn on a different program, and the rest of the code should be relatively easy. I'll work on it tomorrow as well and submit it late.
+• DATE: 2/27/2023, 8:14:34 PM
+Hello. Alright here's the plan. 
+
+Based on last round big groups of collabs tend to be really hard to mange and people tend to be left out. (Credit to DR for the observation)
+
+So I've decided the best method is to work in pairs. I need your opinions on this:
+
+`Mon - Tues: Game plan & groups with assigned tasks
+Wed - Fri: Finish the tasks each pair was responsible for
+Weekend: Put everything together
+Mon-Wed: Split up and sort out & finish our next top priorities. 
+Wed - Fri: Finish the game
+Weekend: Juicing, Level/Map design, clean up
+Monday: Release`
+• DATE: 2/27/2023, 5:53:32 PM
+Correction. Maple Syrup is part of a different collab _=p_
+• DATE: 2/27/2023, 5:04:28 PM
+Let's the name it a theme:
+
+'Into the deep'
+or 
+'Into the depth'
+
+I like the second one more
+• DATE: 2/27/2023, 4:06:47 PM
+@Chase
+Page transtitions
+
+@aqua
+diver graphic & menu (mainly the diver graphic)
+
+Once your done post the link to the program below. I'm gonna get this done by the end of today.
+• DATE: 2/27/2023, 4:04:33 PM
+Ello _=D_
+
+No idea. Let's let the rest of the team pour in as we come up with ideas. I'm creating a timeline based on activity rn so we don't do the same thing as last round.
+• DATE: 2/27/2023, 4:00:22 PM
+Team, report here for the final project:
+https://www.khanacademy.org/cs/i/4565656077123584
+• DATE: 2/27/2023, 3:47:12 PM
+@YokieBob
+Go ahead and try it. 
+
+@DR
+Don't push yourself. It was just a suggestion.
+• DATE: 2/26/2023, 4:41:13 PM
+Ok.....
+
+@aqua
+diver => side view, swimming, separate parts (legs and body) for rigging. 
+An example can be seen in the graphic reference at the top of the code.
+ 
+Just try to finish the diver and the possible menu design (second reference) by the deadline. I understand life comes first.
+
+@Chase
+I've seen some people hardcode a transition _=p_
+• DATE: 2/25/2023, 4:14:13 PM
+I see....
+
+Nice _=D_
+
+Ok. Maybe:
+1. Text 'Natureopolis' on the left of the nav bar like a logo
+2. Or center the buttons
+3. Or make the nav bar bend _=p_
+Just some random ideas.
+• DATE: 2/25/2023, 3:45:21 PM
+@Chase
+Any kind works _=D_
+Just something to transition from the menu to the game. Could you make it a function?
+• DATE: 2/24/2023, 10:49:16 PM
+Yikes! I posts something 3 days ago but it seems it didn't go through. New plan:
+
+@aqua - Graphics
+- Diver
+- Coarl?
+- Cave  entrance
+
+@Chase
+Page transitions
+and something I can't remember, rn.
+
+My timezone is EST.
+• DATE: 2/21/2023, 3:30:43 PM
+@DR
+Decent _=p_
+aqua can't make graphics till Friday. Otherwise, we've got all the physics. Working on the gameplay rn.
+
+@Niko
+I know _lol_
+• DATE: 2/21/2023, 3:19:23 PM
+Np _=D_
+
+Just checking up on your group's collab. I wouldn't call that stalking _=p_
+• DATE: 2/20/2023, 11:02:39 AM
+Same here
+
+I guess if we're both free today, we can wipe out a huge portion of the core mechanics?
+• DATE: 2/18/2023, 12:09:50 PM
+Lets aim for a sci-fi type of cartoonish graphics. Something like Space-X's flight suits _=p_
+
+As for graphics rn I suggest starting with coral. Different types of coral in size and color?
+
+
+As for the character, I'll be rigging it later.
+• DATE: 2/18/2023, 12:05:26 PM
+Explaining time _=D_
+
+After Team Henry disbanded each team is allowed a seventh member. So instead of looking for a new one YokieBob's coming back _=D_
+• DATE: 2/17/2023, 10:33:41 PM
+_lol_
+No offense taken. Why would I be mad? 
+I was just curious on the score I was giving and wanted to know what I could do better next time to improve _=D_
+• DATE: 2/17/2023, 7:17:35 PM
+@Chase 
+It doesn't matter what the height and width is. I'll be catching every graphic as an image so they can be rescaled to fit our needs. (This method is one of the key reasons some game devs like me and Liam can run programs at max framerate)
+• DATE: 2/17/2023, 4:48:15 PM
+Ah, I've finished both circle and line collisions as well as circle physics. Still gotta do line physics. 
+
+@To-do
+We can just divide and conquer
+
+Also love that bio _=D_
+• DATE: 2/17/2023, 4:27:16 PM
+Ah, bullets randomly also generate throughout the map. I added it after people were complaining that the game was too hard to make movement slightly easier.
+• DATE: 2/17/2023, 4:25:43 PM
+Huh, I thought I saw a seven avg yesterday. Oh well. I just have two questions:
+
+Efficiency (3) => The codes been optimized to an insane degree and runs at each computer's max framerate. May I know why the score's so low?
+Cleanliness (4) => Another place I'm confused about. The code's indented and neatly placed in IIFE's. How can I make it cleaner?
+
+Thanks _=D_
+• DATE: 2/17/2023, 1:49:50 PM
+Actually, yesterday, Liam allowed every team to pick a seventh member. We were is just looking for a new member, so you coming back is perfect _=D_
+
+Currently, we're in round 3 (2 groups). The other collab group needs more help. Could you report to the collab thread in the program below:
+https://www.khanacademy.org/cs/i/6242670720892928
+• DATE: 2/16/2023, 7:28:22 PM
+@aqua
+The whole game plan should be done in about 30-ish minutes.
+• DATE: 2/16/2023, 7:15:50 PM
+Thank you _=D_
+Loading all the comments is pretty annoying.
+• DATE: 2/16/2023, 7:14:32 PM
+I've posted some image references in the comments in the code of this program. Is that a good theme we should aim for?
+• DATE: 2/16/2023, 7:07:08 PM
+Nice. I might make a different character design later to fit the theme. 
+
+I'm almost done with the plan and to-do list
+• DATE: 2/16/2023, 5:56:43 PM
+The flickering is a result of the gradient loop being run several times a second. 
+
+I'll touch up to movement later when I finish the collisions.
+• DATE: 2/16/2023, 5:52:41 PM
+Thanks _=D_
+
+There shouldn't be any invisible enemies...
+• DATE: 2/16/2023, 5:28:15 PM
+Alright,
+Thanks for letting know  _=D_
+• DATE: 2/16/2023, 5:22:34 PM
+I'm completely free today _=D_
+I'll get to work.
+• DATE: 2/16/2023, 6:33:41 AM
+Thanks _=D_
+• DATE: 2/16/2023, 6:30:41 AM
+Thanks _=D_
+• DATE: 2/15/2023, 6:44:39 PM
+Yep. We could move threads _=p_
+Right now I just click on your profile and use the discussion for quick access.
+• DATE: 2/15/2023, 6:34:58 PM
+Alr _=D_
+Wait. Do I pick a seventh member to even out the teams or do the rest of the teams remain at 6?
+• DATE: 2/15/2023, 6:31:45 PM
+I think they could just stay below the ocean. Or they could start at the top and the rest of the game's underwater?
+• DATE: 2/15/2023, 5:26:02 PM
+Yep. Seems good. The only thing we might want to postpone till later if we have time is the gear upgrades. Also, the lights might ruin the whole fantasy vibe but only time will tell.
+
+Are the custom collisions going to be lines & circles or curves.
+• DATE: 2/15/2023, 5:21:49 PM
+Thanks _=D_
+• DATE: 2/15/2023, 5:21:38 PM
+It's the legendary Circleler _=p_
+
+Thanks _=D_
+• DATE: 2/15/2023, 5:21:31 PM
+Nope. If people legitimately get stuck, It doesn't hurt to help _=D_
+• DATE: 2/15/2023, 3:33:16 PM
+Yessir _=D_
+• DATE: 2/15/2023, 2:58:04 PM
+Thanks _=D_
+• DATE: 2/15/2023, 2:47:43 PM
+Yep. I'll create a full layout of the plans by Friday.
+• DATE: 2/15/2023, 2:46:16 PM
+Thanks _=D_
+
+Really? Broke the system again _=p_
+• DATE: 2/15/2023, 2:12:26 PM
+I believe we decided on the it was the explorer idea
+• DATE: 2/15/2023, 12:17:11 PM
+Yeah. I thought so. For now, we could start with the player movement.
+• DATE: 2/15/2023, 11:47:48 AM
+Thanks _=D_
+• DATE: 2/15/2023, 11:47:34 AM
+Well...
+
+Are collisions going to be blocked like a platformer or free-handed/custom?
+• DATE: 2/15/2023, 11:22:35 AM
+No problem _=D_
+• DATE: 2/15/2023, 11:07:19 AM
+Thanks _=D_
+• DATE: 2/15/2023, 11:07:13 AM
+Thanks _=D_
+• DATE: 2/15/2023, 11:07:05 AM
+Everything including the maps and enminey types and counts are randomly generated at the start of the game for more variety.
+• DATE: 2/15/2023, 9:23:57 AM
+Yeah. An explorer-type game with the objective to find something sounds cool _=D_
+
+The graphics could be fantasy-type. I've posted a example of what I mean in the code.
+• DATE: 2/15/2023, 8:23:18 AM
+Thanks _=D_
+• DATE: 2/15/2023, 8:23:08 AM
+Thanks _=D_
+• DATE: 2/15/2023, 8:22:59 AM
+Yep _=D_
+
+Both don't exist so it doesn't matter _=p_
+• DATE: 2/15/2023, 6:36:41 AM
+Shoot bullets to push yourself in the opposite direction.
+• DATE: 2/14/2023, 9:32:35 PM
+Thanks _=D_
+
+Alright. I'll implement that later today, when I get the chance. For now, I've just commented it out.
+• DATE: 2/14/2023, 9:10:53 PM
+I missed that. Thanks for pointing it out!
+
+Thanks _=D_
+• DATE: 2/14/2023, 8:45:57 PM
+Let's stick with the Ocean. Now, what should we make...
+
+I'll look for some inspiration.
+• DATE: 2/14/2023, 8:44:35 PM
+Me and DR's entry:
+https://www.khanacademy.org/cs/i/5710788212080640
+• DATE: 2/14/2023, 8:36:54 PM
+hmmm....Too long
+
+I used dist to only move/shoot if the players in range. Does it still lag? I get a solid 55-60 on my Chromebook.
+• DATE: 2/14/2023, 8:22:49 PM
+Thanks _=D_
+
+Is it?
+• DATE: 2/14/2023, 8:16:30 PM
+Noice _=D_
+• DATE: 2/14/2023, 8:12:00 PM
+Thanks _=D_
+
+Check the Chat thread
+• DATE: 2/14/2023, 8:07:49 PM
+Thanks _=D_
+• DATE: 2/14/2023, 8:06:43 PM
+`
+{
+names:"Astro, Dominic",
+captain:"Astro",
+link:"https://www.khanacademy.org/cs/i/5710788212080640"
+},
+`
+• DATE: 2/14/2023, 8:04:46 PM
+Terrible time, but here's a collab by me and DR for CoC:
+https://www.khanacademy.org/cs/i/5710788212080640
+• DATE: 2/14/2023, 7:52:29 PM
+I forgot this existed _=p_
+
+I got an invitation, but you seem to have deleted the repo.
+• DATE: 2/14/2023, 7:12:47 PM
+A quick google search should give you an idea of the games. 
+
+Ah. Alright. So a new idea it is. We'd need something creative. Maybe ocean/Science related?
+• DATE: 2/14/2023, 7:00:38 PM
+Chase wants to make something new and original. I was thinking of something similar to Dome Keeper or Cookie's must die. 
+
+Do you have any ideas?
+• DATE: 2/14/2023, 6:55:15 PM
+hello _=D_
+
+There's an optional theme of Cycles of Science, but I don't think we need to follow it...
+• DATE: 2/14/2023, 3:52:36 PM
+We'll wait for aqua before we decide _=p_
+
+I do but the last time disc was used for CoC last year there was a lot of negative attraction. I rather stay on KA to avoid that this year.
+• DATE: 2/14/2023, 3:31:16 PM
+Ello,
+
+I was thinking of making something similar to Dome Keeper or Cookie's must die with an ocean theme but trying to make something new sounds like a fun idea _=D_
+• DATE: 2/14/2023, 1:16:18 PM
+Group one members can go here:
+https://www.khanacademy.org/cs/i/4936956673048576
+
+Based on the last round I suggest getting an idea by the end of tomorrow and starting the project early.
+• DATE: 2/14/2023, 1:10:43 PM
+I don't mind taking Fer Fer if no other team still needs additional members _=D_
+• DATE: 2/14/2023, 11:18:08 AM
+`
+{
+    names: "Aqua217, Niko",
+    captain: "Astro",
+    link: "https://www.khanacademy.org/cs/i/5440329138618368"
+}
+`
+• DATE: 2/14/2023, 9:08:40 AM
+@Chase
+What? It's a good thing you submitted it. It was due yesterday. Don't unsubmit it. 
+
+Aqua's entry should be accepted if she submits it soon, and Me and DR's entry will get a late penalty.
+• DATE: 2/14/2023, 8:58:49 AM
+Yep _=D_
+Are you in the new team chat thread?
+
+I beg to differ _=p_
+• DATE: 2/14/2023, 8:56:18 AM
+For round 3 we have 2 ways we can split the team as we have 4 logic devs and 2 graphic devs. We can keep the two logic pairs with the addition of a graphic dev or both teams can work with new people.
+
+So:
+_Option 1_
+Astro - DR - Aqua
+Chase - Akbaba - Nico
+
+_Option 2_
+Astro - Chase - Aqua
+DR - Akbaba - Nico
+
+I prefer option 2. Opinions?
+• DATE: 2/14/2023, 8:51:30 AM
+Nope. The deadline has not been extended. 
+
+@aqua
+Your entry's not in the entry thread:
+https://www.khanacademy.org/computer-programming/clash-of-code-2023/6672599819534336?qa_expand_key=ag5zfmtoYW4tYWNhZGVteXJBCxIIVXNlckRhdGEiHmthaWRfMTAwNzQ0NDQxMTU0Mjk1NjE5NDA3ODg1NAwLEghGZWVkYmFjaxiAgJOewNOKCAw&qa_expand_type=reply
+
+Me and DR's entry will be in by the end of the day.
+• DATE: 2/14/2023, 7:22:00 AM
+Yea. I'm going to finish this today and submit it as late. A late project's better than an incomplete one
+
+I did not do most of the work _=p_
+• DATE: 2/13/2023, 4:55:07 PM
+No problem _=D_
+Wasn't the top greyscale and the reflection in color or was it just me?
+• DATE: 2/13/2023, 3:57:52 PM
+Yea. If it works for you then they hide the program _=(_
+You'll have to move the code over to a new project.
+• DATE: 2/13/2023, 3:52:21 PM
+This link doesn't work:
+https://www.khanacademy.org/computer-programming/spin-off-of-vertex-drawer-tool-v2/4987371368267776
+• DATE: 2/13/2023, 3:41:10 PM
+Alright Team,
+Due date for round 2 submissions is today at midnight user timezone. We've only got a couple hours left. Status report?
+
+Once your done working on your entry could you submit it in the submissions thread on the CoC homepage? You can find it under the recent thread.
+• DATE: 2/13/2023, 3:38:11 PM
+_=D_
+
+And you've posted a broken link...
+_lol_
+• DATE: 2/13/2023, 3:28:24 PM
+_lol_
+Hopefully, she will. I suggest adding the real link at the top of the program.
+
+Definitely gonna make her laugh.
+• DATE: 2/13/2023, 3:25:55 PM
+What? Really?
+• DATE: 2/12/2023, 4:52:52 PM
+Just in general.
+• DATE: 2/12/2023, 4:26:20 PM
+@Liam
+Alr.
+
+YokieBob just had to drop out this Friday and I replaced him with Niko so currently, I have zero inactive members. 
+
+Depending on how many people are inactive I would suggest rebuilding the team and finding substitutes.
+• DATE: 2/12/2023, 3:46:27 PM
+@Liam
+Instead of mountain time midnight can it be user time midnight for the entry deadline? I'm sure every team would appreciate the slight pushback like last round.
+• DATE: 2/12/2023, 2:25:19 PM
+_Lol_
+Yep. I'm looking at a possible 5-6 graphics in the collection, all in a similar style. 
+
+Then I could the high-quality graphics and put them all together into a game.
+• DATE: 2/12/2023, 1:54:55 PM
+Yessir _=D_
+This is gonna to join my soon-to-be collection of one-word graphics.
+• DATE: 2/12/2023, 11:06:04 AM
+Hello. I was just about to say you should start your idea and Niko will pop in and help on Monday.
+
+Looking good so far _=D_
+• DATE: 2/10/2023, 6:29:00 PM
+I'd say our group is about 50% done. Sadly YokieBob had to drop out today so aqua and Niko will have ~3 days to make something.
+• DATE: 2/10/2023, 3:39:59 PM
+Yes. You still have till midnight your time on Monday to work on your project.
+• DATE: 2/10/2023, 3:10:12 PM
+@Nico
+You'll be in a collab with aqua. You two have till Monday to make a project. Sorry for the short notice. I suggest you team up and make a graphic or you can finish what YokieBob started.
+
+You can find the thread here:
+https://www.khanacademy.org/cs/i/6116521973956608
+• DATE: 2/10/2023, 11:15:06 AM
+So I need to find a replacement?
+
+Hope you get better soon _=D_
+• DATE: 2/10/2023, 10:41:01 AM
+No problem _=D_
+• DATE: 2/9/2023, 9:10:33 AM
+No. It's not a real question. So it doesn't need to be in the questions. And there's no need to flag anyone for putting it in the wrong place.
+• DATE: 2/9/2023, 9:06:21 AM
+Nope. Still six. TDJ's inactive
+• DATE: 2/9/2023, 6:40:43 AM
+@Aqua
+That's actually really smart. No one's ever done that before. 
+
+@YokieBob
+Aqua wants you to make/finsh all the levels. For each level, Aqua wants to design it's very own unique background.
+• DATE: 2/8/2023, 9:56:21 AM
+Bullets coming from the player going to the mouse. (_Normal_) 
+Yes.
+• DATE: 2/8/2023, 8:06:19 AM
+No problem _=D_
+• DATE: 2/7/2023, 9:49:26 PM
+If possible could you finish the task I gave you above by tomorrow? We're kinda behind on time.
+
+I've 'found' a method that should work for the physics. I'll start the graphics till then.
+• DATE: 2/7/2023, 9:20:23 PM
+Update:
+Since you represent the team, you should definitely join the rest of us in the captain's thread. I'm sure you know how to find it _=p_
+
+(_has 0 votes_)
+• DATE: 2/7/2023, 9:17:16 PM
+Oh....That makes alot more sense. Night time here. I've got a solution that might work which I'll tell you about tomorrow.
+• DATE: 2/7/2023, 7:31:56 PM
+I've got a question from the current captain of Team Levi (Lemon).
+
+He wants to know if he should be in this thread since he's a captain now...
+• DATE: 2/7/2023, 7:30:00 PM
+Hold up let me ask _=D_
+• DATE: 2/7/2023, 5:25:36 PM
+Which loopy circle SVG? They're all loopy and circle-ly. Make it a different color so I can see it _lol_
+• DATE: 2/7/2023, 3:53:19 PM
+Yeah. That's how it works on other programming platforms and communities. They might fix it. Threads with over a 100 comments take forever to open.
+• DATE: 2/7/2023, 1:58:02 PM
+1. New system. Pretty annoying. Tickets have already been filed. _lol_
+2. Forgot to say this. If your teammates inactive let me know as soon as possible _=D_
+• DATE: 2/7/2023, 1:56:41 PM
+If they wanted they could've loaded the most recent comments like GitHub. But their starting at the top _=p_
+• DATE: 2/7/2023, 12:24:53 PM
+Yeah, what @YokieBob said. 
+
+And you can ask questions. There's no rule against it _=D_
+• DATE: 2/6/2023, 5:03:49 PM
+Actually...
+I didn't take into account the physics. So I'll work on that. Could you add player bullets (with knock back), and a map function with block collisions. Stuff you did last round.
+
+Edit: Feel free to use es6 by disabling jshint _=D_
+• DATE: 2/4/2023, 12:46:07 PM
+Dreams and Nightmares is a great theme which was really popular last year for CoC
+
+It'd be cool if you guys manage to do something with that _=D_
+• DATE: 2/3/2023, 9:03:46 PM
+* oof * _lol_
+But...that's the thing I like the most about Agent X. He's unique. Probably the most known and popular judge on KA _=p_
+• DATE: 2/3/2023, 6:11:13 PM
+@Agent
+That was a nice collab. Reminds me of the good days. What would you give it? 9/10?
+
+_lol_
+• DATE: 2/3/2023, 5:23:55 PM
+What would you rate the 'stick with it' collab that was never finished?
+• DATE: 2/3/2023, 3:54:46 PM
+I'm pretty sure you're part of the judging for round 1 according to the list...so yes?
+
+https://www.khanacademy.org/cs/i/5200922808729600
+• DATE: 2/3/2023, 3:15:06 PM
+Some sort of complex landscape. Show us your perspective of utopia _=D_
+• DATE: 2/2/2023, 8:42:57 PM
+Yep _=D_
+• DATE: 2/2/2023, 8:42:06 PM
+In short => dis-c@rd
+
+Long story behind the real reason it's called khancord.
+• DATE: 2/2/2023, 8:27:30 PM
+Yea. I saw. Khancord's a great place _=D_
+• DATE: 2/2/2023, 8:17:11 PM
+Ello,
+Just checking in. I obviously can't help you guys but if you have any questions about the challenge let me know _=D_
+• DATE: 2/2/2023, 8:16:06 PM
+Ello,
+Just checking in. I obviously can't help you guys but if you have any questions about the challenge let me know _=D_
+
+Also I kinda expected, that you'd like to work in a HTML environment. You might've seen this already but I created a graphic canvas library that works exactly the same as PJS, last week. If you'd like to use it I can export it into GitHub and run it through jsdelivr:
+https://www.khanacademy.org/cs/i/5637981507731456
+• DATE: 2/2/2023, 1:09:26 PM
+Nope. But some of the judges aren't in the new thread...
+• DATE: 2/1/2023, 3:57:09 PM
+Still broken. I suggest you just post your scores here. At least this thread still works _=p_
+
+@IA
+Not visible
+
+@Liam
+I can see yours _=D_
+• DATE: 1/31/2023, 6:38:50 PM
+Nice _=D_
+What's the purpose of the first script tag with the messy code? Is it a library?
+• DATE: 1/31/2023, 6:24:29 PM
+Nice _=D_
+Maybe do something about that black background. A fog/fade out or dark shade of grey would look nice instead of the pure black?
+• DATE: 1/31/2023, 3:52:28 PM
+Ah, alright then. 
+
+@Chase & Akbaba 
+You guys will be working with the Recreational Recreations theme _=D_
+• DATE: 1/31/2023, 3:44:35 PM
+Ello _=D_
+
+Yikes! Team, I may has missed a important step in the paring round...
+It seems I'm supposed to assign each team a theme to work on. Each pair must work on a different theme. However, I don't want to force you to work on a certain theme you don't want to work on. So I'll let you guys pick:
+
+1 Contrast
+2 Into the Deep
+3 Recreational Recreations
+
+Me and DR have already decided to work on Into the Deep. The rest is up to you.
+• DATE: 1/31/2023, 8:52:30 AM
+I can argue _lol_
+
+It'll be the best game KA's seen in 2023 _=D_
+• DATE: 1/31/2023, 6:37:03 AM
+@YokieBob
+Nope. I don't see it either. I suggest you submit it and let the judges know, so they don't deduce late points.
+• DATE: 1/30/2023, 9:37:04 PM
+Yep, new threads been created. @Everyone please report to the new thread 
+
+As Akbaba said I suggest each pair moves to it own separate thread allowing them to discuss their projects privately without intervening with other collabs. Once each team started the collab they can post their WIP in the main team thread.
+• DATE: 1/30/2023, 8:36:17 PM
+`
+{
+    names: 'Astro',
+    captain: 'Astro',
+    link: "https://www.khanacademy.org/cs/logo/6140455259783168"
+},
+`
+• DATE: 1/30/2023, 3:22:13 PM
+@Akbaba
+Looks great _=D_
+Maybe a menu?
+
+@Everyone
+You've got about ~10 hours left to submit your entries. Please submit them as soon as possible. 
+
+I'm sure you've all already seen the post  but the next challenge has started,
+
+Unless someone would like to change them we'll stick to the current pairings:
+_Astro => DR
+Aqua => Yokiebob
+Akbaba => Chase_
+
+This challenge requires us to follow one of the 3 themes (_See Liam's post on the CoC homepage_).
+• DATE: 1/30/2023, 7:26:00 AM
+We only have 6 members. TDJ's inactive. 
+
+He'll be submitting everything he's got done for this challenge, as Chase didn't have a lot of time to make anything
+• DATE: 1/30/2023, 7:23:56 AM
+Team, deadline updates:
+
+It's due by Midnight today your time. Once your done (or even if it's a WIP), please submit it in the submission thread which can be found here:
+https://www.khanacademy.org/computer-programming/clash-of-code-2023/6672599819534336?qa_expand_key=ag5zfmtoYW4tYWNhZGVteXJACxIIVXNlckRhdGEiHWthaWRfMTYwNjUzMDc5NDYzOTkyMDg1MDkwNDI4DAsSCEZlZWRiYWNrGICAk6S29vsIDA&qa_expand_type=comment
+
+We currently have 0 submissions.
+• DATE: 1/29/2023, 11:42:32 AM
+Yea. That would work _=D_
+• DATE: 1/27/2023, 6:36:18 AM
+Tectonic Horizon comes in to check the hotlist every week or so. But he doesn't make content anymore _=(_
+• DATE: 1/26/2023, 9:10:17 PM
+Or you can just throw it into the planet's draw loop _=p_
+I've never actually tried that before. 
+
+I don't see any lag rn but add this to kill KA's Loop protector:
+
+`// Credit to Daniel (@dkareh)
+(function() {return this;})().LoopProtector.prototype.leave = function() {};`
+• DATE: 1/26/2023, 8:57:14 PM
+Ahhhhh!
+
+@aqua
+I know why this didn't work:
+_
+return Math.pow(c.x - c2.x,2) + Math.pow(c.y - c2.y,2) <= Math.pow(c.r + c2.r,2);
+_
+
+Your pushing:
+`
+planets.push(new Planet());
+`
+into an array but calling `Planet.x,planet.y` in mine or YokieBobs function.  Run it through a loop.
+
+It's nighttime here so I've got to go. If @YokieBob's still active he can help and show you how to do it, or I'll try to do it tomorrow _=D_
+• DATE: 1/26/2023, 8:20:16 PM
+@YokieBob
+As aqua said, if you can finish it, to can restart _=D_
+
+_____
+So aqua and YokieBob seem to be a good pair and Chase gets to work with one of his inspirations. This worked out better than I expected _=D_
+• DATE: 1/26/2023, 7:19:47 PM
+Team, four days left for our individual entries _=D_
+
+_____
+For the next challenge, I was thinking of pairing peeps graphic & logic devs.
+
+Something like this:
+
+_Astro => DR
+Aqua => Yokiebob
+Akbaba => Chase_
+What do you think?
+• DATE: 1/26/2023, 5:37:04 PM
+@ski
+you weren't the only one around back then who's in this thread rn_=p_
+
+_me
+Mojo
+Cowboy
+ice (granted, he was gone for quite some time)_
+
+
+He's so good _=D_
+• DATE: 1/26/2023, 4:55:31 PM
+That collides with TCW _=p_
+
+But I'm sure TDJ won't mind
+• DATE: 1/26/2023, 4:06:48 PM
+I wouldn't consider it March. It always ends by the end of Feb or maybe a week into March, like this year.
+• DATE: 1/26/2023, 3:29:58 PM
+* cough *
+
+List:
+_CoC: Jan-Feb
+Primavera: March-June
+TCO: June-July
+Khantober: October
+TCW: Nov-Dec_
+
+and i've had the honor to lead or participate in each competition in the past on various occasions with this account and my main.
+• DATE: 1/26/2023, 6:39:32 AM
+@ski
+We're talking about all 'the greatest' KA devs.
+
+@Mojo
+There are so many amazing devs. Many undervoted devs too. As I said earlier the list would go on forever _=p_
+• DATE: 1/25/2023, 9:25:20 PM
+_lol_ Your 100 hundred lines are still impressive. I have about 600... It'll cross the 1K mark in a day or two. 
+
+Alright, TDJ will submit his entry for this challenge. Since TDJ won't be active for next round though Chase is still part of the team. That way TDJ and Chase get to contribute to team _=D_
+• DATE: 1/25/2023, 7:56:57 PM
+That's strange. I don't see any immediate issues. I'll look into it tomorrow when I have time. 
+
+I guess you can start graphics till then?
+• DATE: 1/25/2023, 3:37:43 PM
+Oh boy. . .
+
+And I assume my team can't submit 7 entries.
+• DATE: 1/25/2023, 3:16:19 PM
+There's a lot of empty space...
+
+Yep. I just realize you should add `rectMode(CORNER)` to the logo
+• DATE: 1/25/2023, 3:14:18 PM
+There are so many amazing coders _=D_
+Your forgetting so many, but the list would go on forever _=p_
+• DATE: 1/25/2023, 3:10:48 PM
+@Cowboy
+
+Let's say hypothetically a team members says he's going inactive and then decides to create an entry...
+
+https://www.khanacademy.org/cs/i/5869299453706240
+• DATE: 1/25/2023, 1:42:41 PM
+@Akbaba
+Sounds like alot of fun _=D_
+
+@YokieBob
+As long as you can finish/submit a decent entry by Monday I don't mind you restarting. 
+
+It's looking great so far _=D_
+• DATE: 1/25/2023, 1:39:24 PM
+Yep. This thread was only temporary till each team created a homepage.
+• DATE: 1/23/2023, 2:30:10 PM
+No problem _=D_
+Let me know if you need anything else _=D_
+• DATE: 1/23/2023, 11:21:57 AM
+I'm doing well. Got picked as a captain and school grades are amazing _=D_
+You?
+
+It sure has.
+• DATE: 1/23/2023, 11:12:49 AM
+Well, I need ideas for a game I need to finish by next week for CoC round one. I'm just trying random things out. 
+
+CoC homepage:
+https://www.khanacademy.org/cs/CoC-2023/6672599819534336
+• DATE: 1/23/2023, 10:40:52 AM
+1 hour ago _=p_
+• DATE: 1/22/2023, 9:16:01 PM
+It's currently the individual challenge. Everyone's got till the 30th to make a program that showcases their skills.
+• DATE: 1/22/2023, 9:12:53 PM
+Ello _=D_
+Welcome to the team!
+
+I just created our team logo & intro. Links above. Any feedback?
+• DATE: 1/22/2023, 9:08:44 PM
+Alright then, welcome to Team Astronomers _=D_
+
+You can find the team thread here:
+[link removed]
+• DATE: 1/22/2023, 8:17:55 PM
+@IA
+_What if_ I code my whole project with 8 space indentation? Will you deduct points? _lol_
+• DATE: 1/22/2023, 8:11:05 PM
+@TDJ
+No problem _=D_
+Life's always top priority. Thanks for letting me know. 
+
+@Team
+Here's our team logo/intro. I was going to add an astronaut looking at the ship, but it seems like overkill:
+https://www.khanacademy.org/cs/i/6068861418127360
+
+Feedback? I'm sure there's some way to improve this. To me, it feels really bland.
+• DATE: 1/22/2023, 7:12:15 PM
+Hey. Sorry, it took so long. I had exams this week. Finally finished your checkpoint system:
+https://www.khanacademy.org/cs/i/4832975401566208
+
+Let me know if you have any more questions or you want to know how the system works _=D_
+I should be free for the next month.
+• DATE: 1/22/2023, 5:18:14 PM
+@Chase
+You willing to join a team?
+• DATE: 1/21/2023, 10:35:59 PM
+I have been enlightened _=D_
+
+_lol_
+• DATE: 1/21/2023, 9:14:31 PM
+As custom to past drafts, the deadline's never been pushed back. The inactive member just wasted the team's time and the replacement just has to compensate for it...
+
+But CBF might change it this year. Who knows?
+• DATE: 1/21/2023, 7:50:30 PM
+Trying to buy my team?
+
+Like I said you've got to wait it out. My patience has led me to have a fully active team... _For now_
+• DATE: 1/21/2023, 2:40:27 PM
+@Akbaba
+Can't wait to see what you make _=D_
+
+I think I'll decrease the brightness slightly for the logo otherwise that's a nice shade of blue.
+• DATE: 1/20/2023, 3:05:03 PM
+Yep. And a intro.
+
+@Akbaba
+Each individual member has 10 days left (Till the 30th) to make whatever they want to showcase their best skills (preferably a game). Do you think you can submit a decent entry by then?
+• DATE: 1/20/2023, 2:10:10 PM
+We already have a logo in progress. It'll be done by monday.
+• DATE: 1/20/2023, 9:25:34 AM
+Hmmm....in that case I can replace Akbaba. He's reported to the thread once after four days of inactivity and he's yet to start his entry. No comments in three days...
+
+@ski
+You need to chill. The team doesn't need to grind every day. If they've started and actively report to the thread then you shouldn't kick them. Just my opinion _=D_
+• DATE: 1/20/2023, 6:30:04 AM
+Idea numero uno is much wow _=D_
+Sounds like it could become a really cool game if you get the blobs working correctly. 
+
+@YokieBob
+Maybe turn the game into a puzzle? Find ways to fit/move blocks to certain places to open a door to the next level?
+• DATE: 1/19/2023, 9:32:59 PM
+@John
+I see. I managed to do what DR did without the loop protector as I never used a 'loop'
+
+Time to do it in WebGL _=p_
+• DATE: 1/19/2023, 7:55:10 PM
+@John
+How many do you see here?
+https://www.khanacademy.org/cs/i/4619135934054400
+
+It'll take a while to load bigger ones.
+• DATE: 1/19/2023, 7:41:47 PM
+@DR
+yeah. I also want to know your idea _=p_
+• DATE: 1/19/2023, 7:16:56 PM
+I'm sure yours will be better though _=p_
+This was made in about ~3 days.
+• DATE: 1/19/2023, 7:13:22 PM
+I manged to get 9 with the loop protector. 11 without it. 
+
+@DR
+You might want to try ImageData _=p_
+• DATE: 1/19/2023, 7:04:35 PM
+As instructed by the founder of CoC CowboyFans, I'm here to give you an insane motivational speech to start and work on your projects. Here goes nothing:
+
+"_We the members of Team Astronomers have come together to show the world that we're better than team bob. This team isn't just about creating games and scoring points. It's about collaboration and fun. Each one of us present in this chat thread has worked really hard to get to this very occasion, so why should we give up now? We're an exceptional group of programmers prepared to help each other out and lead this team to victory. Winning won't be easy but it'll be all more fun if we try. 
+
+We'll either win or lose together but I hope we all give this competition our best shot. Just remember that the members of team astronomers have got your back_"
+
+_lol_
+But in all seriousness, if you ever need help feel free to ask. Can everyone post links to their WIP's? 
+
+Reminder: The due date for this challenge is Jan 30th. We've got about 11 days left
+• DATE: 1/19/2023, 6:51:26 PM
+_Yessir =D_
+• DATE: 1/19/2023, 3:28:15 PM
+Alright I've got Vertex, bezierVertex, and CurveVertex working _=D_
+
+*smacks forehead*
+I should've use the spread operator wayy earlier.
+• DATE: 1/18/2023, 6:15:22 PM
+I see.
+
+Well I'm done for the day. I got vertex working and was going to start berzierVertex when I realized everything that uses beginShape and endShape can be combined so different arrays don't work. I have to make everything work in one array meaning everything needs to have a 'type' so endshape can detect which command I called.
+• DATE: 1/18/2023, 12:24:45 PM
+Yep. Nobody wanted Akbaba or Aqua _(Can you believe that?)_ and I manged to get my hands on TDJ early _=p_
+
+But Paperwad's more stacked.
+• DATE: 1/18/2023, 12:17:10 PM
+here
+• DATE: 1/17/2023, 8:24:20 PM
+Ello. Just poping in _=p_
+
+If you want it to work faster just go to js-Deliver and give it your repo link again. 
+
+Also, add a specific version, instead of using `@latest`. It'll help update your files a lot quicker.
+• DATE: 1/17/2023, 6:45:03 PM
+Alright. I'll let you know if a member goes inactive _=D_
+
+Nope. Not that I know of. 
+Free Agents 'exists'
+• DATE: 1/17/2023, 6:39:13 PM
+@Akbaba
+No problem _=D_
+Happens to the best of us.
+• DATE: 1/17/2023, 6:14:40 PM
+I've sent Akbaba a message to join our thread.
+
+For a substitute draft in case he doesn't respond, I'm thinking of asking Nico/Niko or Lime/Light coder to join our team. Opinions?
+• DATE: 1/17/2023, 5:59:56 PM
+Yep. It's nice to see you too.
+• DATE: 1/17/2023, 5:54:47 PM
+It used to be a ski's starky _lol_
+
+`dat = () => {
+  return 'dat'
+}`
+
+_=O_
+• DATE: 1/17/2023, 4:17:15 PM
+Ah, that makes a lot more sense.
+
+Well, most of the captains have led other teams successfully. It all comes down to whose better _=p_
+• DATE: 1/17/2023, 4:12:50 PM
+_mango_?
+
+I wouldn't put it like that. All the captains this year are really skilled.
+• DATE: 1/17/2023, 11:10:51 AM
+_O.o_
+I'd love to know your reasons
+
+Yep. Levi's doing the same thing.
+• DATE: 1/17/2023, 10:45:07 AM
+This might _not_ be my CoC entry. 
+
+It was a test to see if I could recreate PJS in case we have to collab and YokieBob wants to use the canvas. 
+
+Even if it doesn't dock points, I'd rather recreate my own version with functions that my team could possibly need without forcing them to use es6.
+• DATE: 1/17/2023, 9:28:47 AM
+I'll do an Astronaut. I'll make the intro responsive for any canvas size. 
+
+Sounds like a cool idea. I've got two tests this Thursday and then I have all of next week to work on my project.
+
+It's been five days. I'll wait till the end of today. I've started looking for other potential people to draft.
+• DATE: 1/17/2023, 7:35:13 AM
+@Cowboy
+
+Here's a quick run-down:
+
+*Judges*:
+- _TheDark
+- Synapse
+- JLE
+- LJE
+- PK
+- Chase L.
+- Muiltverse
+- Timothy_
+
+*Names changes*:
+_Team Astro => Astronomers
+Team Paperwad => PaperNukes
+Team ski => Team Ninjaz_
+
+*Homepages and Chat Threads*:
+
+Team Levi:
+https://www.khanacademy.org/cs/i/5151245111443456
+
+Team Polar:
+_No official homepage yet. Thread remains the same_
+
+Team Henry:
+https://www.khanacademy.org/cs/i/6055142680215552
+
+Astronomers:
+https://www.khanacademy.org/cs/i/5562534333825024
+
+Team Ninjaz:
+https://www.khanacademy.org/cs/i/5403470941437952
+
+Team PaperNukes:
+https://www.khanacademy.org/cs/i/6519520659554304
+• DATE: 1/17/2023, 7:20:34 AM
+Exactly what ski said.
+• DATE: 1/16/2023, 7:30:49 PM
+Alright. Team names: 'Astronomers'
+
+Logo and intro will be out shortly. Any ideas on a style or design for the logo or intro? 
+
+Also, what are you all working on?
+• DATE: 1/16/2023, 6:16:08 PM
+It doesn't sink. It simply needs more juice. Try adding fonts and animations. Maybe a page transition? 
+
+I would help you but you're on the opposing team _=p_
+I suggest you ask your team. Levi can surely help spice up your game.
+• DATE: 1/16/2023, 2:37:50 PM
+_O.o_
+When you move your workspace cuz it's gained too much popularity, only for it to gain even more _=p_
+
+How Team Levi going? Akbaba has yet to report to our thread.
+• DATE: 1/16/2023, 2:23:32 PM
+Hmm.... An RPG or Puzzle sounds cool.
+
+I'm working on a medieval-style game that can double up as my contest entry.
+• DATE: 1/16/2023, 12:07:14 PM
+Well quality isn't a concern when your in CoC, the one competition where quality projects are guaranteed. Besides you can still do a lot while keeping traditions.
+
+Yep. If you make a list of things every browser does differently it gets pretty long.
+• DATE: 1/16/2023, 11:59:43 AM
+Nope. We can make anything. 
+
+I'll get a team name, logo, and intro by the end of the day today _=D_
+
+For CoC, I would try to aim for a game but graphics work too.
+• DATE: 1/16/2023, 11:56:42 AM
+Thanks _=D_
+
+CoC homepages for the last two years tend to be as simple as possible. They're usually one-pagers. 
+
+I see. I'll be aware of that from now on _=p_
+• DATE: 1/16/2023, 11:51:48 AM
+If you see some of my other homepages you'll see that I do use JS to insert members. 
+
+But for a simple CoC homepage it's unessacary as we know there's only six members that aren't going to change.
+• DATE: 1/16/2023, 11:49:08 AM
+Seems like Polar's going all out with a react homepage on KA _=p_
+
+2. Really? Who was the judge?
+• DATE: 1/15/2023, 8:40:16 PM
+_lol_
+I can't believe I forgot that _=(_
+
+Fixed
+• DATE: 1/15/2023, 7:56:40 PM
+It's the only comp you'll see with such simple homepages _=D_
+
+Best of luck to your team too
+
+1. That's what happens when you're used to 2 tab indents and use KA _=p_
+2. I see. I'll note that down for later. 
+3. Just a habit. It's a better coding practice for readability and accessibility.
+4. Nope
+• DATE: 1/15/2023, 7:08:11 PM
+Yeah. A portion of the score is based on cleanness _=p_
+• DATE: 1/15/2023, 7:04:43 PM
+Thanks! I've commented it out for now.
+
+Completely forgot, Added _=D_
+• DATE: 1/15/2023, 7:03:53 PM
+Akbaba seems to be inactive 
+Your team's pretty stacked too _=p_
+
+Thanks _=D_
+• DATE: 1/15/2023, 5:18:55 PM
+The only name suggestion we've got so far is astronomers by Cowboy. 
+
+Other teams are making rules, _some are questionable_ but I don't think we need any. Just:
+1. _Run your code through a code formatter. 
+2. Let the team know if your going to be inactive_
+
+Also, even though this is an individual challenge there were not rules against not helping each other _=p_
+• DATE: 1/15/2023, 5:10:42 PM
+Well heres some news:
+
+Teams will not be extended. Captains already voted and the majority doesn't want bigger teams.
+
+But if a member of a team goes inactive during any point of the competition, we draft a new member, so you could still get in. My team itself seems like it already has one inactive member who hasn't reported to the team.
+• DATE: 1/15/2023, 4:57:11 PM
+1 => 
+My bad. Terrible wording. By copying I meant similarity. I've seen several others use other devs templates of code with a similar coding style in hopes to gain popularity. Create something new and original. If you've always made platformers or dodge games then try something new. 
+
+2&3 => 
+Ah. When it comes to personal projects never focus on making only one game. If I'm working on a big game I tend to make serval smaller games in between to take breaks and try new things. 
+
+Heres a pattern I used to follow:
+_"Make two bad games (intentionally), and received feedback and learn. Then that that knowledge and put it together with your past mistakes and create a better game."_
+
+I didn't become a captain out of nowhere. We all have our struggles.
+
+ Both of you will make it to CoC and as always if you ever need help or have questions feel free to ask me _=D_
+• DATE: 1/15/2023, 10:03:05 AM
+It's been over 2 months since I've posted anything. I'm participating in CoC 2023 as a captain. Check out our homepage here:
+https://www.khanacademy.org/cs/i/5562534333825024
+
+If you've asked me a question, but I didn't respond in the last couple weeks, it most likely got lost in my notifications, or I simply forgot. Feel free to ask me the same question again _=D_
+• DATE: 1/14/2023, 8:00:25 PM
+Hello _=D_
+
+Feedback on the homepage? I put it together in ~hour.
+• DATE: 1/14/2023, 7:56:29 PM
+Yep. 
+
+Note: If you're ever unsure of something feel free to ask. You don't need to hesitate _=D_
+
+Let's move over to our temporary homepage:
+https://www.khanacademy.org/cs/i/5562534333825024
+• DATE: 1/14/2023, 6:37:16 PM
+Nope. I feel like we should have our own original name.
+
+I was saying it must be better than team bobs name.
+• DATE: 1/14/2023, 6:30:28 PM
+? Which name
+Team Bob is Red Arrow's popular team name from last year.
+• DATE: 1/14/2023, 5:13:25 PM
+I mean, he used imageData...
+• DATE: 1/14/2023, 5:11:24 PM
+I responded a coupe of hours ago but it seems the comment was simply too small. 
+
+Our team name must be better than Team Bob. Something funny, full of irony and silliness but at the same time, professional. 
+
+We also need a logo. Any ideas?
+
+I've started my project. I'm going to try something new that might not work.
+• DATE: 1/14/2023, 11:41:30 AM
+I also agree with ski. I think we should leave teams at 6 members due to the lack of activity and applications this year.
+• DATE: 1/13/2023, 8:56:07 PM
+You'll just have to wait and see.
+
+Talking with the Nickname gang(Yes. It's still alive). 
+You've been drafted _=D_
+• DATE: 1/13/2023, 7:16:20 PM
+Ah! I see...
+Looking good so far _=D_
+• DATE: 1/13/2023, 5:16:08 PM
+Present _=D_
+• DATE: 1/13/2023, 4:29:51 PM
+_O.o_
+I'm very active and ready to win both competitions.
+• DATE: 1/13/2023, 4:29:18 PM
+You can do a lot with  SQL including making games...If your not on KA.
+• DATE: 1/13/2023, 4:28:10 PM
+Astro, active and reporting for duty
+* _bows down to HS_ *
+
+@HS
+Congrats on becoming Captain. It was really close between you and DR.
+• DATE: 1/13/2023, 3:27:41 PM
+*Note: I've slightly changed my list
+• DATE: 1/13/2023, 10:51:03 AM
+Here's my list:
+- alyanna
+- NL
+- Mojo1000
+- YokieBob
+- HSstudent16
+- Captain Longtreader
+- TDJ
+- Eragon Blaze
+- Electric Dolphin
+- CoraL
+- The No Sock Guy
+- Liftoff
+
+I do look through the applications _=p_
+• DATE: 1/13/2023, 6:37:14 AM
+No problem _=D_
+
+I curious to know why your using classes but not es6
+• DATE: 1/13/2023, 6:32:25 AM
+Thanks _=D_
+Nope. No vertex tool was used
+• DATE: 1/12/2023, 9:23:28 PM
+A couple tips to getting the recognition you deserve:
+
+1. Be unique. Stop copying more popular devs in efforts to gain the popularity they earned. 
+2. Program with simple, clean colors, graphics, and transitions. If it 
+doesn't appease you then try harder.
+3. Never give up. You didn't make it to CoC this year? Work harder, always give your best and try again next year.
+• DATE: 1/12/2023, 9:15:01 PM
+When you have CoC on the line you forget everything else exists _=p_
+
+I'll finish it and everything else I've promised to others by Monday.
+• DATE: 1/12/2023, 7:42:42 PM
+Alright no prob _=D_
+
+I need to prioritize on graphic devs.
+
+[Removed]
+• DATE: 1/12/2023, 3:47:14 PM
+Is there a new drafting order or are we sticking to the same one?
+• DATE: 1/12/2023, 3:08:40 PM
+Captain reporting _=p_ 
+
+I'll get to work on a homepage. Any team name ideas?
+• DATE: 1/12/2023, 3:07:01 PM
+Won't that require us to have a bigger list? 
+12 people for three rounds doesn't really make sense.
+• DATE: 1/12/2023, 1:55:38 PM
+Yikes. Sorry, here's the list:
+
+_WalkWorthy
+Dominic R.
+Akbaba
+Mojo1000
+Jake K
+FifthStateOfMatter
+Electric Dolphin
+alyanna
+Captain Longtreader
+CoraL
+xacer
+TDJ_
+• DATE: 1/11/2023, 5:34:32 PM
+Just like I predicted I missed the first message because of CoC. I'll get to work. It should be done in a couple days. If I don't finish you know the drill _=p_
+• DATE: 1/11/2023, 4:16:38 PM
+@Cowboy
+
+Here's every user that applied:
+_
+Ace Rogers
+Akbaba
+Alexis
+AveryJ
+Caige
+Canden_JS
+CannonRouge
+Captian Longtreader
+Chase L
+ChickCoder
+ColtTheBolt12
+CoraL
+Dominic R.
+Electric Dolphin
+Eragon Blaze
+Fer Fer
+FifthStateOfMatter
+Fire Wolf
+FireBall
+Galaxy Ranger
+Horizon
+Hyrule coder
+JSCoder
+Jake K
+JustZoul
+LAZERW0LF
+Lemon Games
+Liftoff
+Lightbender
+Loco
+Mills
+Mojo1000
+NL
+Raymondarian
+S. M. V.
+Samwise
+Sugar
+TDJ
+TheDark
+TheLegoMango
+TheMoneyLord
+Titus Payton
+Virtuosa
+WalkWorthy
+WinstonWinner000
+YokieBob
+alyanna
+cool guy coding
+skylands JS
+xacer
+_
+
+If your name is not on the list please re-apply following CowboysFan232's instructions.
+• DATE: 1/11/2023, 4:09:48 PM
+I've got every user:
+_Ace Rogers
+Akbaba
+Alexis
+AveryJ
+Caige
+Canden_JS
+CannonRouge
+Captian Longtreader
+Chase L
+ChickCoder
+ColtTheBolt12
+CoraL
+Dominic R.
+Electric Dolphin
+Eragon Blaze
+Fer Fer
+FifthStateOfMatter
+Fire Wolf
+FireBall
+Galaxy Ranger
+Horizon
+Hyrule coder
+JSCoder
+Jake K
+JustZoul
+LAZERW0LF
+Lemon Games
+Liftoff
+Lightbender
+Loco
+Mills
+Mojo1000
+NL
+Raymondarian
+S. M. V.
+Samwise
+Sugar
+TDJ
+TheDark
+TheLegoMango
+TheMoneyLord
+Titus Payton
+Virtuosa
+WalkWorthy
+WinstonWinner000
+YokieBob
+alyanna
+cool guy coding
+skylands JS
+xacer_
+• DATE: 1/11/2023, 1:17:03 PM
+Is it just me or did:
+1. The join page lost about 30 upvotes
+2. The join page won't open
+2. Everything in this thread from the last two days is missing?
+The first comment I see is Paperwad's from 3 hours ago.
+
+I also didn't get a notification about any of this (_Most likely because all the comments are deleted_) so I assume Henry and Polar might have no idea about this either
+• DATE: 1/9/2023, 6:27:32 PM
+@John
+You're going around confusing people. I can assure you(>70%) that no active member on KA knows who I am.
+• DATE: 1/9/2023, 6:25:01 PM
+Hello, I've got a group of people hunting for my main ever since CoC started.
+
+Quite possibly, but I can't remember you hunting for it. I guess you can just ignore the message. 
+
+It definitely is _=D
+
+lol_
+• DATE: 1/9/2023, 3:06:08 PM
+@John
+A couple corrections:
+_"Astro said once she takes her two guesses he will go back to his main lol"_
+I said if SMV guesses my main correctly then I'll go back to my main.
+
+_"Primavera"_ - Spring in Spanish
+
+
+@Mojo
+Yea. I knew you on my main. 
+The real question is if you're active enough to join CoC.
+• DATE: 1/9/2023, 2:12:25 PM
+Mojo? Your still on KA? Glad to see you around. (_This is a alt_)
+
+Well that's what happens when you spend so much time practicing _=p_
+• DATE: 1/9/2023, 11:57:09 AM
+*_sad face_*
+• DATE: 1/9/2023, 11:06:17 AM
+Present?
+• DATE: 1/8/2023, 3:15:05 PM
+*news (My bad)
+I see. I feel like fullscreen on KA is unnecessary. 
+
+
+_lol. Never_
+jk. I'll stop once CoC starts. You can't call yourself a noob if your leading a whole team.
+• DATE: 1/8/2023, 9:24:17 AM
+@Winston
+
+It doesn't matter which version between 'best' or 'better' you use. I prefer 'better'. DR's just trying to give you a different variety of options.
+• DATE: 1/6/2023, 8:55:23 PM
+1. Exactly 
+2. What style are you going for? 
+It's not a resource intensive process. It's actually quite easy. I'll create a demo in a sec. 
+3. yep. He says he can submit an appeal after the 10th. 
+4. Np
+• DATE: 1/6/2023, 6:27:07 PM
+Makes sense. I didn't know what it was so, I put quotation marks "" but my brain wrote '' instead _lol_
+
+Yeah, I know light diffusion.
+• DATE: 1/6/2023, 5:10:30 PM
+True. 
+
+I was talking about the style of the subpage. Is there a name for the 'function' you two created or is it just  normal mapped text?
+• DATE: 1/6/2023, 4:21:59 PM
+More notes =>
+1. Looks amazing
+2. The header image of the fire takes really long to load and ruins the webpage. I suggest finding a different fire image.
+
+Maybe this image?
+https://www.khanacademy.org/cs/i/5429634774122496
+• DATE: 1/6/2023, 3:19:47 PM
+Np!
+It looks much better!
+• DATE: 1/6/2023, 1:42:10 PM
+Cool. I've built one app before.  You know which language our going to use to built them?
+
+You're running at about 40 frames right now. I'll make a spin-off and see what I can do.
+• DATE: 1/4/2023, 9:18:38 PM
+Haven't seen you in a while either. I've been part of this community for a long time and I don't plan on leaving any time soon. How's life?
+
+We'll both be releasing 3D games soon. (Mines should be out next week)
+• DATE: 1/4/2023, 9:16:08 PM
+Fantasy should look like serif if your computer doesn't support it. If it does work it should look huge and fancy. If it still doesn't work, can you tell me what kind of computer your using?
+• DATE: 1/4/2023, 6:46:41 PM
+I shall take the initiative to spice up the game. At the same time, I shall fix any bugs.
+
+Quick question:
+Are the aircraft particles supposed to go on the wings or the back?
+• DATE: 1/4/2023, 3:18:25 PM
+@Polar
+Your idea sounds interesting till you start thinking about it:
+
+`Round 1: Pairs | 6 members | 3 entries | 2 per group
+Round 2: Half of the team | 7-8 members? | 2 entries | 3-4 per group
+Round 3: Whole Team | 9-10 members? | 1 entry | 4-5 per group`
+
+So by the end we might end up with 8 or 10 members on each team. Which means there will be 40 or 50 participants (_If we have 5 captains_).
+• DATE: 1/4/2023, 11:39:59 AM
+The third option might cause more problems than solve them(My opinion). 
+
+I vote for the snake draft. It worked perfectly last year.
+• DATE: 1/4/2023, 11:35:10 AM
+Yep. That's what you get when you run Typescirpt in an environment it's not suited for. You should never use ts in a HTML file. Especially not all in one file like this. 
+
+All the code (Not by me) is meant to automatically compile ts into JS, so you don't have to use command-line. When you use it to run TypeScript on KA it's bound to have bugs. 
+
+Not sure why it does that, but I believe it might be because we can still run JS in the script tags. At least the types (Main reason to use ts) still work.
+• DATE: 1/4/2023, 11:25:35 AM
+Yep _=D_
+There's still a few rough areas, but regular TypeScript works perfectly fine.
+• DATE: 1/3/2023, 9:11:10 PM
+Hmmm.....How can I better explain this. Let's say I made an insane 3D game but it's really really laggy. Now there's two things I could do:
+
+1. Go through my code and rewrite important parts like using the "better" or "best" keypressed method. _Just do it right in the first place_
+
+2. Invite someone else to collab with me to reduce the bugs and lag. _Oh wait. I can't cuz my codes too messy_
+
+These tips by DR are here to help you improve as a programmer. As always you can read others comments and gain others opinions.
+• DATE: 1/3/2023, 9:07:07 PM
+No. Liam K.'s platformer tutorial doesn't "over OPP".
+• DATE: 1/3/2023, 8:24:03 PM
+Sorry, I was so busy with other stuff I completely forgot about this. It looks amazing. Seems like you finished the graphic. What should I get started on?
+• DATE: 1/3/2023, 7:16:20 PM
+Seems excessive. Why not use something that already exists:
+`TypeScript Compile`
+
+I used this program last year for a private project where I needed to compile ts into JS. All I had to do was find it's CDN. Can someone tell me if they can see the "Hello World" message? If so then we've got Typescript. 
+https://www.khanacademy.org/cs/i/4988936014839808
+
+I can already guarantee that something with the proposed solution above might not work correctly on KA. Till then I'll be creating my own ts compiler to work on KA.
+• DATE: 1/3/2023, 5:45:18 PM
+I've seen a couple users start a homepage. If we have nothing by the end of the challenge I can quickly whip something up.
+• DATE: 1/3/2023, 4:09:33 PM
+@DR
+I completely agree with polar. 
+
+@Polar
+TypeScript and React are amazing. 
+Have you heard of Next.js?
+• DATE: 1/3/2023, 11:56:39 AM
+To clear things up. You can use any language. Even SQL. It's just a matter of winning. . .
+• DATE: 1/3/2023, 11:38:27 AM
+#17
+
+Avoid writing excessive comments. Your code will become messier and harder to understand. Your intensions to help the user understand your code is great but they'll get more lost and usually avoid looking at code if it has a lot of comments. 
+
+Why? Just because our brains structured that way:
+_A lot of comments => important/tricky stuff => it must be hard_
+• DATE: 1/3/2023, 6:39:02 AM
+Ka only allows external scripts from the following:
+`
+*.kastatic.org
+*.khanacademy.org
+cdn.rawgit.com 
+rawgit.com 
+ajax.googleapis.com 
+cdn.jsdelivr.net 
+cdnjs.cloudflare.com
+`
+
+So you'll always need a CDN from one of the following sources above. As polar as said is most likely for security reasons.
+• DATE: 1/2/2023, 8:41:48 PM
+I see what your trying to do _>=D_
+
+Also 9 votes in 9 minutes at night. Kinda impressive.
+• DATE: 1/2/2023, 8:08:14 PM
+No problem _=D_
+I just realized I told no one about this till today...
+
+Yeah. It does. What if I make one? 
+At least we can code off-KA using tailwind and it'll still work _=p_
+• DATE: 1/2/2023, 8:05:37 PM
+@Horizon
+Well to web devs CSS is a pain. Nothing ever works right and people tend to cry alot. So programmers made libraries to make CSS easier. Now on KA(_The site that regulates everything_) most libraries don't work. So Quinn & Leaf built KA-SASS and I found a Tailwind cdn. Quinn went around telling everyone while I said nothing. Problem solved _=D_
+• DATE: 1/2/2023, 7:47:25 PM
+HTML is meh. 
+CSS is a pain. 
+Use SASS, Tailwind or some other CSS library KA allows.
+• DATE: 1/2/2023, 2:24:42 PM
+Hey Liam. I've been carryed over by SMV and ski.
+
+The very message you see above was sent to me from ski. Proof: 
+https://www.khanacademy.org/cs/i/4668801366409216
+
+I did send you all of mine and ski's info in the captain's thread and I can still see it was sent 12 days ago, but it seems like the message didn't go through?
+
+ski's info is up there ^^^
+
+Mine:
+_Astro is a full stack developer experienced in various languages who spends his time on KA helping others and coming up with project ideas he can never finish. He loves participating in competitions and works best under pressure. 
+
+Astro is in search of skillful programmers who are determined to win this competition. He wants to build a team of talented members who will aim to remain active throughout the duration competition. He believes teamwork and communication are key to leading this to team victory._
+• DATE: 1/2/2023, 10:16:24 AM
+So the homepage challenge has started...
+I won't be able to make one but I can help anyone with their program if they'd like _=D_
+• DATE: 1/1/2023, 10:01:04 PM
+Alright. You should totally make one. I can design one if you'd like _=D_
+I just realized I haven't posted anything on my subpage in over a month. I'll post your link there once you release it. 
+
+_Mmmm....Seems like I might've secured myself a strong competitor_
+
+Do you use Github or Replit?
+• DATE: 1/1/2023, 9:11:40 PM
+Present _=D_
+• DATE: 1/1/2023, 6:22:01 PM
+Yeah _=(_
+Same here! It was really fun working with you. Do you want to release this game on Monday?
+
+_O.o_
+Yeah. I am _=D_
+Are you going to join?
+• DATE: 12/31/2022, 6:43:25 PM
+It almost appears so. GR would still need to join. 
+
+They say you can "start" any challenge ahead of time and the only possible challenge we can submit this project for would be the finals if the rest of our team goes inactive. 
+
+@GR
+I'll start working on the bullets. 
+
+If I don't respond within a couple of days then the message is most likely lost in my spam and I missed it like the message you sent 10 days ago.
+• DATE: 12/31/2022, 9:27:33 AM
+Hmmm....That's strange _=(_
+They always give us up till Sunday.
+• DATE: 12/30/2022, 9:53:33 PM
+Nope. I've messier code before. It wasn't a problem =D
+
+It surely is. We have tomorrow, right? Here are a couple of things I still wanna add:
+- Infinite ground
+- Better "Learn" page with multiple scenes
+- Maybe a shop or score feature...
+
+One thing I noticed with your physic system is that it breaks when it comes to horizontal and vertical lines. It can't detect them.
+• DATE: 12/30/2022, 3:39:14 PM
+Alright _=D_
+
+I was working on a function to generate the ground with noise. I'm almost done with the explanations. Afterward, I'll polish up the game and we should be done by the end of the day.
+• DATE: 12/30/2022, 1:36:52 PM
+Here's where I'll be working:
+https://www.khanacademy.org/cs/-/5401806842150912
+• DATE: 12/30/2022, 1:15:33 PM
+Ok _=D_
+
+Sure. I'll start on the explanations about the tesla coil. I might be able to add a shop in once we're done with more important stuff.
+• DATE: 12/22/2022, 7:10:33 PM
+?. 
+
+I don't understand your question.
+• DATE: 12/20/2022, 8:49:02 PM
+Nope. Cursive looks almost like comic-sans.
+• DATE: 12/20/2022, 5:13:51 PM
+Yikes! I accidentally wrote HB instead of HS.
+• DATE: 12/20/2022, 4:57:05 PM
+@RG
+But on the other hand, replit's web servers aren't the best either_=p_
+• DATE: 12/20/2022, 4:52:16 PM
+@HS
+Yeah. Circle to quadratic curves is easily doable. 
+
+I believe they're locked onto a grid. GR's using a bitmap. Even if they're movable we can lock them onto a grid.
+• DATE: 12/20/2022, 3:30:21 PM
+Yeah. I was not aware you were in this too till 20 minutes ago. 
+
+Sure.
+• DATE: 12/20/2022, 3:29:16 PM
+Yes. 
+
+_lol
+I've figured out every type of collision HB's figured out. The only downside being my lazyness to figure out circle-line physics_
+• DATE: 12/20/2022, 3:18:03 PM
+Wait. So if DR's doing the AI, player functionality and making it multiplayer what am I supposed to do?
+• DATE: 12/20/2022, 3:16:15 PM
+Present _=D_
+• DATE: 12/19/2022, 7:42:23 PM
+I'd love to do a collab with you _=D_
+• DATE: 12/19/2022, 7:23:59 PM
+I won't be able to finish this. I'm really busy studying for exams. Feel free to submit that program! It looks great!
+• DATE: 12/19/2022, 4:27:29 PM
+I see _Songbird >=D_
+• DATE: 12/19/2022, 3:01:21 PM
+I believe ski's already told Liam, but if needed (_Highly doubt it'll be nessacary_), I'll be relaying ski's messages.
+• DATE: 12/19/2022, 1:47:16 PM
+Who are we missing?
+We've currently got _Astro, ski, Levi & Henry_
+• DATE: 12/19/2022, 7:28:35 AM
+Present
+• DATE: 12/17/2022, 10:01:11 PM
+Looks great _=D_
+
+I suggest adding some flicking animations to the sign. I've haven't tested them but this code should work:
+`if (Math.random() > 0.05) {
+    sign(144, 29, 0.4, 0.4, 7);
+}`
+Feel free to mess around
+• DATE: 12/17/2022, 3:38:07 PM
+Yesssir! _lol_
+
+If lemon doesn't make one I will. This is a very important topic in web development.
+• DATE: 12/15/2022, 8:19:22 PM
+Ok. I'll get to work. I'll be able to piece together everything we have so far over the weekend.
+
+We can just do a jetpack and skip the physics. It'll make life a lot easier.
+• DATE: 12/15/2022, 7:04:20 PM
+I'm part of the team so I can comment here right? Look great so far _=D_
+• DATE: 12/15/2022, 3:04:03 PM
+@CylenceScythe
+We only have one group project, atm. You could report here:
+https://www.khanacademy.org/cs/i/6055540282671104
+
+Or feel free to start our second one _=D_
+• DATE: 12/14/2022, 7:57:44 PM
+Hello,
+I remember this from last year. I'd love to be a captain this year. I'll have plenty of free time throughout Jan-Feb so I should be fairly active. Thanks for the offer _=D_
+
+Do you want me to report anywhere?
+• DATE: 12/13/2022, 7:23:10 PM
+_O.o_
+You found my secret workspace _=O_
+
+Hmmm....How would I explain this?
+Basically: 
+```
+try {
+_//You run your code in the try inside_
+} catch (error) {
+_// If a bug or problem in the program occurs you catch it 
+//And do what ever you want with it here. 
+//It's a debugging tool that's better than o noes_
+}
+```
+• DATE: 12/13/2022, 7:06:32 PM
+Now I'm starting to doubt everything I've learned. May I know what I said incorrectly?
+• DATE: 12/13/2022, 6:56:36 PM
+Ah. frameRate(max) runs on the max frameRate the computer can handle. For example, Chromebooks cap out at 250. It's meant to prevent crashing by staying right under the max limit. Your computer shouldn't crash with that line of code  _=p_
+
+My bad _=(_
+• DATE: 12/13/2022, 6:46:06 PM
+@VVhiteTiger
+Easily. It only takes me like 10 extra lines of code to make it 2 player. Do you want me to make it two player?
+
+@JLE2008
+The ground looks great! Not sure if we can use the background. But it's a great idea _=D_
+• DATE: 12/13/2022, 6:40:02 PM
+No problem _=D_
+I suggest you change line 20 to:
+```
+this.frameRate(max);
+```the program will only require 20-ish "iterations" to complete.
+• DATE: 12/12/2022, 8:59:20 PM
+1. The API wasn't removed. They just transitioned to GraphQL. 
+2. Or you can use Leviathan's method. A tutorial can be found here:
+https://www.khanacademy.org/cs/i/6485597312040960
+• DATE: 12/12/2022, 7:15:30 PM
+Yeah. You could make ground blocks. They can be ice, snow, or just normal grass & dirt.
+• DATE: 12/12/2022, 7:07:57 PM
+Yeah. It does _=D_
+I might go around changing the colors a bit later
+• DATE: 12/12/2022, 6:50:18 PM
+Looks amazing but sadly that won't work =(
+
+I've made a template above. Everything must fit & fill the box. Sorry if I wasted your time but this template should make work easier.
+• DATE: 12/12/2022, 6:12:56 PM
+Yes. I'd like you to follow a pattern:
+
+1. Make it the shape of a square. It doesn't need arms or legs. 
+2. Keep it simple. Just a face is enough or if you'd like to go the extra mile, add a body still inside the square.
+
+The size of the square doesn't matter. I can ajust it later.
+• DATE: 12/12/2022, 5:45:20 PM
+I can make whatever you guys want me to make. It seems like you want me to make a platformer so I'll get to work on that. . .
+
+You can design the player & block graphics. I believe it's christmas themed?
+• DATE: 12/12/2022, 3:29:43 PM
+Hello alt _=?_
+• DATE: 12/11/2022, 8:49:36 PM
+Yikes! This got lost in my spam. Could I have a link to your project? I'd love to help!
+• DATE: 12/11/2022, 8:33:31 PM
+Alright,
+I can code the game while you guys make the graphics. You two can decide what were gonna make _=D_
+• DATE: 12/10/2022, 9:38:28 PM
+Hello
+
+Any ideas for the collab?
+• DATE: 12/10/2022, 7:04:46 PM
+_O.o_
+The particle class looks great so far! 
+Here's my plan for the down hill slope:
+- The cars automatilly going downhill
+- The player controls the tesla coils spark which they have to aim at the enemies. 
+
+Or should we have the player control the car and do vice versa? What do you think?
+• DATE: 12/10/2022, 2:47:03 PM
+Made an entry thread. You can find it in the recent tab. We should turn the two groups in to one-_ish_ group. 
+
+Group 1: 
+- Astro
+- JLE2008
+- VVhiteTiger
+
+Group 2:
+- Astro (I'll solo it unless we have spare time for another collab)
+
+We can start our group collab here:
+https://www.khanacademy.org/cs/i/6055540282671104
+• DATE: 12/10/2022, 2:24:17 PM
+_O.o_
+When was the last time we have 3 hosts for one competition? This is gonna be interesting _=D_
+• DATE: 12/9/2022, 10:31:43 PM
+Alright. No problem _=D_
+• DATE: 12/9/2022, 9:40:03 PM
+Ah! Ok _=D_
+
+Template literals can contain strings.
+
+What you did is called tagged template literals. 
+Without `()` all you can do is determine the values passed.
+With `()` you can pass an argument.
+A quick search on tagged template literals should help you understand it better. 
+
+It's just another es6 feature...
+• DATE: 12/9/2022, 6:53:05 PM
+I'd call that a CEO who checks in every now and then _=p_
+
+JW (Johnathan Wintres) seems pretty active these days. Maybe you could get him to help you run the competition again?
+• DATE: 12/7/2022, 7:42:57 PM
+Me and a friend of mine has a huge project in the works off-KA and it broke. I was blamed as I used for-loops causing the program to slowdown.  I had to go through and rewrite about 50 for-loops. Then he saw my AoC code and made me rewrite those loops too (thankfully I only had 3-4). 
+
+Turns out it wasn't my fault at all. He used an eval function in a place he shouldn't have.
+
+_Side note: Always use .forEach when possible, unless your names Astro and your too lazy todo anything right_
+• DATE: 12/7/2022, 7:33:37 PM
+Oh, we're all active. Just don't know what to say....
+
+@ski
+I see you've started AoC. You'll enjoy Day-7.
+
+@Everyone
+Don't you hate when you have to rewrite every loop using .forEach even though it doesn't _really_ matter?
+• DATE: 12/7/2022, 6:12:09 PM
+Alright, we seem to be left with 3-4 active members. I'll make 2 groups:
+
+Group 1 - _Led by Astro_ :
+Group 2 - _Led by JLE2008_:
+
+Any remaining members please join either of the two collabs.
+• DATE: 12/7/2022, 8:07:10 AM
+I'm free after today so progress on this project should be a lot quicker.
+• DATE: 12/6/2022, 8:54:26 PM
+Well KA needed an update. They were so far behind everyone other tech company. 
+
+Apparently according to KA, it now build with:
+Go, GraphQL, JavaScript, React & React Native, Redux
+
+The API was the last step to a modern website. Imagine the list still said python
+• DATE: 12/6/2022, 1:57:21 PM
+_lol_
+Cowboy wanted to have the winners of the last two contests compete. What he didn't factor in was inactivity. It's probably not going to happen.
+
+Yeah. I thought it was just this thread lagging but it seems like another KA problem. I wouldn't call it a bug, more like a minor inconvenience...
+• DATE: 12/6/2022, 10:33:15 AM
+@tip
+Any project you've made counts. There's no time limit. The drafting starts a day after the contest is released (After people start signing up).
+• DATE: 12/5/2022, 10:01:34 PM
+I'm done with the Cybertruck (On the tesla coil project)
+
+I haven't done the wheels yet. We can use placeholders for now till we get the physics working. 
+
+A particle class with physics sounds cool but It'd make the game too laggy. You could start the enemy class. I'll make the "lesson" half of the tesla coil project.
+• DATE: 12/5/2022, 9:35:56 PM
+Ah yes. Captain Argon...I thought he was inactive. 
+Noah can still easily get into Coc. 
+
+1/2 as in 1-2 people...
+
+I saw. A game dev's a game dev. Even if the dev can only produce dodge games _=p_
+
+I meant Advent of Code. It's a great logic/brain challenge. 
+
+I agree with ski. You should have * two * projects that showcase your skillz. It'll make your chances of getting in wayy easier.
+• DATE: 12/5/2022, 8:53:11 PM
+C++ is a pain. Have you tried C#?
+
+Out of all the JavaScript libraries out there I only use Typescript & React. Learning all the libraries out there in my opinion is a waste of time. Processing.js is a really fun library as it requires less..._welp_ everything. It's far more simpler and easier to use than most other languages making programming simple, quick, and creative.
+• DATE: 12/5/2022, 8:11:56 PM
+I have my ways. It's pretty smart and I can tell you if you'd like _=D_
+
+My list in no particular order based on active people:
+_logic: Logix indie, ski, Noah, YokieBob, Henry, DR
+game: Astro, Paperwad, TDJ, Captain Longtreader
+Web-dev: CoraL, Astro, ski, Polar
+Graphics: SMV, Ace, bronte, Astro, Nico_
+
+Other peeps which I can't categorize or aren't really active:
+- Fireball
+- IA
+- Panda
+- Electric Dolphin
+- Ice to meet you
+- balex
+- August Berning
+
+@ski
+Have you heard of AoC?
+• DATE: 12/5/2022, 7:01:24 PM
+Two captains picking the same person 
+
+I had a crazy idea:
+italic
+_italic_
+𝘪𝘵𝘢𝘭𝘪𝘤
+_𝘪𝘵𝘢𝘭𝘪𝘤_
+
+Triple italics _=0_
+• DATE: 12/5/2022, 5:49:56 PM
+_lol_
+
+Liam subbing doesn't prove that you'll make it into the team. It's all based on the team captain's picking. Liam and Cowboy only make the final approval and interfere if two captains pick the same people they'd like on their team =(
+
+I don't think Liam's even subbed to me _=p_
+
+Captains would usually go for a solid, skilled team, which would usually look like this:
+
+_- 1/2 Logic Devs
+- 1/2 Graphic Devs
+- 2/3 Game devs
+And a Web dev_
+
+If I am a captain, I'm giving away free tips to others in this thread like ski.
+• DATE: 12/5/2022, 4:55:16 PM
+_lol_
+@Noah
+Don't fell bad, you deserved the top spot _=D_
+
+@ice
+Never said I wanted an extension. It's just how life works. 
+You've just got to come back and try again next year _=p_
+• DATE: 12/5/2022, 4:14:39 PM
+I'm gonna stay as Astro for CoC.
+
+What if I run as both _O.o_
+• DATE: 12/5/2022, 3:39:15 PM
+Yeah. I saw. I'm on the 50/50 list as expected. This accounts wayy to new predict my skill level
+• DATE: 12/5/2022, 10:33:09 AM
+_More API endpoints seem to have been wiped_
+
+At least no new bugs occurred.
+• DATE: 12/4/2022, 6:18:13 PM
+My latest project totally made for this contest:
+https://www.khanacademy.org/cs/i/4569906971983872
+
+_I was busy with life_
+• DATE: 12/3/2022, 8:59:26 PM
+@FifthState
+So true. I miss the old days when checking the hotlist and making projects was actually fun =(
+• DATE: 12/3/2022, 6:58:13 PM
+I'm pretty inactive on KA, but I can make our logo in SVG form or as a PJS graphic. 
+
+I need ideas....
+• DATE: 12/3/2022, 6:55:28 PM
+@Lemon
+Isn't it LC?
+You're so popular that you're being impersonated!
+• DATE: 12/1/2022, 7:21:39 AM
+_lol_
+We all have alts. I'm an alt >=)
+• DATE: 11/30/2022, 8:50:35 PM
+_CardStalker lol_
+• DATE: 11/30/2022, 8:40:54 PM
+No problem _=D_
+• DATE: 11/30/2022, 7:21:59 PM
+Not exactly...
+Vexcess made a great tutorial on ImageData if you'd like to learn it. 
+I luckily have a copy you can find here:
+https://www.khanacademy.org/cs/i/4835737362546688
+• DATE: 11/30/2022, 7:15:31 PM
+It was sarcasm, but your brother seriously has some skill
+
+Totally. Hard work always pays off. Just give it some time _=D_
+• DATE: 11/30/2022, 7:11:02 PM
+Np!
+
+Totally understand _=p_
+• DATE: 11/30/2022, 6:33:18 PM
+So you don't know imageData or PVectors?
+Here's what I can give you:
+
+Fire Particles with only objects:
+https://www.khanacademy.org/cs/i/3295966100
+
+With sparks:
+https://www.khanacademy.org/cs/i/5228896377438208
+• DATE: 11/29/2022, 9:02:44 PM
+I come back to this. I'm glad to see that the textures are working and the frames are consistent.
+• DATE: 11/29/2022, 8:58:24 PM
+@Lazer
+You can't access GraphQL on KA until they create public endpoints for KA users. You can still access it off KA though.
+• DATE: 11/29/2022, 1:11:23 PM
+Time to join _another_ competition. Can't guarantee activity as this is run at the same time as CoC. 
+
+1. Beginner
+2. Ignes
+3. Negative 3 years
+
+Already calling him cardstock _=p_
+• DATE: 11/28/2022, 8:59:27 PM
+_lol_
+Here's mine: ```5089890074673152```
+• DATE: 11/28/2022, 8:45:34 PM
+@Songbird?
+Yeah. I saw ski with the name pro gong player for a day. Figured you probably named ski. 
+
+It's not just opinion...
+• DATE: 11/28/2022, 8:34:17 PM
+@Songbird
+If a member of the team is inactive(After the picking or anytime during the contest) the team can draft other members from the signup list or pick any active member they'd like. Every member counts. It's just another reason the competition's so competitive.
+
+If an inactive member comes back they'll be part of the team again. They don't get kicked out _=D_
+
+Edit: SMV deleted her post
+• DATE: 11/28/2022, 8:24:48 PM
+_lol_
+I probably won't be team captain as Astro. The accounts only 4 months old and has no solid evidence of my skill level. But then Kevin did become captain last year. 
+_Maybe I could get a position with my main_....
+
+@Cardstock
+Signing up quickly won't matter. It's all based on opinion and skill. If the host (Liam & Cowboy) picks you, you're a captain otherwise you wait till you get picked into a team.
+
+@pro gong player (_I believe that's your nickname?_)
+It's the only reason most of us come back...
+Didn't every team draft a bunch of peeps? Red Arrow was just the luckiest.  
+Also, I did say 6-8 members per team. 
+
+@Songbird
+I'm a guy, _italics =D_
+• DATE: 11/28/2022, 7:21:45 PM
+@SMV
+It really is fun! _Don't want to say too much_
+
+@Ace
+That would depend on the Team Captain's picking and the approval of Liam & Cowboy
+
+It'd be fun to see us all on the same team.
+• DATE: 11/28/2022, 6:49:31 PM
+Exactly, bigger annual competitions take over as they gained traction over years. Same way we legends like Green Ghost will always be known.
+
+Don't stop though. One day, other competitions will gain the same kind of traction, as long as they're creative. 
+_Notice how every new competition has similar challenges to the older ones_
+
+Edit: Ace Rogers, No need to worry, you won't take away any people. I sorta answered why above _=p_
+
+Edit 2: Why does this comment sound rude/harmful? Hope no ones offended by it
+• DATE: 11/28/2022, 6:38:06 PM
+I was going to ask why you started this at the same time CoC starts.....
+
+Coc is a competition were the hosts pick 5-6 different popular team captains to run teams. Then those captains will go through the join thread and pick coders 6-8 they'd like on their team. Some of the previous captains were:
+- Red Arrow
+-  IA
+- Cyberwolf 
+- Corin Fist
+- Kevin W
+- Ace
+- Liam K
+- LTCD
+- Magma
+- Littewhinging
+- Akbaba
+- AquaA217
+
+This picking results in only the best of the best programmers on KA getting accepted making the contest super competitive and fun for viewers and programmers. 
+_Only reason legends *some* are still around/come back_
+
+Not sure how it'll work this year with the lack of activity.
+
+You can find 2022's homepage here:
+https://www.khanacademy.org/cs/i/5648290408349696
+
+and 2021's here:
+https://www.khanacademy.org/cs/i/6081524794867712
+• DATE: 11/28/2022, 6:24:06 PM
+@Fireball
+I'm guessing the powerups is the speed object? circCirc won't work as you haven't defined the radius or in this case size. Add `this.size = #` to your constructor. 
+
+@Lemon
+Cap seems to be active. I'm busy right now but here's how the AI should work:
+
+1. Remove the player form the target/attack function
+2. Use circle collisions to detect when another enemy is nearby within a certain radius. 
+3. Modify the attack function to target that nearby object. (Do the same for water, and powerups)
+
+Give that a try. If it doesn't work, I'll try to guide/fix it. Or you can wait a week and I'll be free to finish it...
+
+_Sorry_
+• DATE: 11/28/2022, 4:34:26 PM
+hey look, I found 2 fossils _>=)_
+• DATE: 11/27/2022, 5:10:09 PM
+_Color Code:_
+https://www.khanacademy.org/cs/i/4569906971983872
+• DATE: 11/27/2022, 5:07:54 PM
+Don't know who the new captian is but I've created a thread for both the mini challenge and challenge 3
+• DATE: 11/27/2022, 2:02:26 PM
+Present _=D_
+• DATE: 11/27/2022, 12:26:37 PM
+Yikes. That shouldn't happen.
+After checking the code, it turns out I accidentally deleted my circle-circle collision function. It should be fixed now _=D_
+• DATE: 11/27/2022, 12:01:47 PM
+Thanks _=D
+lol_
+• DATE: 11/26/2022, 10:11:18 PM
+_lol_
+Thanks for letting me know!
+
+It says TCW 2022. Did the user submit it as an entry for TCW?
+• DATE: 11/26/2022, 2:43:10 PM
+Completly forgot about this entry _=P_
+Too lazy to submit it....
+• DATE: 11/26/2022, 12:46:11 PM
+A collab it is _=D_
+We'll stick with es5.
+
+I'll get to work on the cybertruck. Are we going for a minamalistic theme like: 
+https://www.khanacademy.org/cs/i/6453029096701952
+or detailed and realistic theme. Seeing our skills we could pull off any of the two with the only factor being lag. 
+
+We can go with any of our circle-line collisions. I haven't figured out the physics yet either:
+https://www.khanacademy.org/cs/i/5425324159975424
+• DATE: 11/25/2022, 11:59:32 AM
+Thanks _=D_
+• DATE: 11/25/2022, 11:59:29 AM
+Thanks _=D_
+• DATE: 11/25/2022, 11:59:09 AM
+Thanks _=D_
+Just wanted to try an experiment.
+• DATE: 11/25/2022, 11:59:01 AM
+Thanks _=D_
+I've answered that in the questions tab.
+• DATE: 11/25/2022, 11:46:17 AM
+And now we have a diamond ore with fragment shaders _=D_
+• DATE: 11/25/2022, 11:43:13 AM
+Well....
+
+I was testing the reliability of color collisions and I found out that color collisions are heavily depend on the frameRate. 
+
+So my reasons to use color collisions are
+1. The player isn't an object
+2. This is a small minigame
+3. The game runs on a steady frameRate and the collisions are simple so they shouldn't be a problem. 
+4. The games called _color_ code
+
+They're terrible reasons and you'll never see me using color collisions for a game. I just wanted to try something new _=p_
+
+_Note to anyone else reading this: 
+NEVER use color collisions when making a game. There are wayy better and more efficient ways to detect collisions_
+• DATE: 11/24/2022, 1:51:34 PM
+That could work. The plasma effect runs at a solid 60 when you remove the max frameRate. 
+
+A collab would be fun! We'd get to learn new things from each other. I've got school too, so I'm less active on weekdays, but we have a whole month to finish this. 
+
+For the car, it'd be funny if the pickup truck was the tesla cybertruck with a strapped tesla coil on the back. Ground collisions could be done with noise, or line-circle. The physics might be tricky depending on the collision method.
+• DATE: 11/24/2022, 1:32:35 PM
+Np _=D_
+Happy Thanksgiving to you too!
+
+Don't know if you've already know about this but you should check out:
+```webglfundamentals
+twgljs```They're really helpful!
+• DATE: 11/23/2022, 8:55:53 PM
+Definitely _>=)_
+
+It's a great idea. I was going to teach them how/uses of a tesla coil. This is a perfect way to do so. I like the idea of upgrade with 
+ my favorite being: more coils => bigger range or damage
+
+The enemies could be related to electric conductors that attract the plasma or just common flammable things _=p_
+
+I just found your program you were talking about. Seems easy enough.  I'll probably do it myself (_unless I get lazy).... collab? lol_
+• DATE: 11/23/2022, 5:25:52 PM
+The guidelines for subpages are really loose.
+
+I agree with Promise in the first half of her message.  
+
+What I meant to say is that KA doesn't mind if you post someone else's project and the user truly deserves it. But posting _other_ users projects daily is against the guidelines as it defeats the purpose of a subpage. Doing so will probably draw the attention of a guardian.
+• DATE: 11/23/2022, 11:48:03 AM
+I'll go with whatever the rest of the team decides.
+
+@Nico
+You'll be back before the deadline (Dec 5).
+If not, I'll submit your entry once an entry threads posted _=D_
+• DATE: 11/22/2022, 8:52:28 PM
+I could, but how'd I make it interactive/fun for the user? If only there was a way to turn it into a game...
+• DATE: 11/22/2022, 8:30:45 PM
+yay!
+
+You're still alive? _O.o_
+It's been a while since I've seen you around (_This is an alt) =p_
+• DATE: 11/22/2022, 5:26:52 PM
+Maybe I should join...
+• DATE: 11/22/2022, 4:16:38 PM
+Which loop-breaking method are we going to use _(DeKhan, LoopProtector, My version, or none)_?
+• DATE: 11/22/2022, 12:45:11 PM
+Sounds like a good idea! Maybe we could also let the user pick the plane they wanted.
+
+I'm done with the image loading. If you want I can start the Pacific Front...
+• DATE: 11/21/2022, 9:05:12 PM
+Thanks _=D_
+• DATE: 11/21/2022, 9:00:55 PM
+Thanks _=D_
+• DATE: 11/21/2022, 8:54:37 PM
+Sure _=D_
+I'll get to work. 
+
+Can we both agree that we should finish this before the end of 2022?
+• DATE: 11/21/2022, 7:45:48 PM
+Yeah. They're backward but at least they're in order. KA's trying to fix things _=p_
+
+The unwanted scroll bar in programs also seems to have disappeared.
+• DATE: 11/21/2022, 5:09:24 PM
+Thanks _=D_
+Are we gonna get back to the collab? It's kinda abandoned now...
+• DATE: 11/21/2022, 5:08:45 PM
+Thanks _=D_
+_lol_ You could still win...
+• DATE: 11/21/2022, 5:08:19 PM
+Nice!
+• DATE: 11/21/2022, 5:08:12 PM
+Thanks _=D_
+Yeah I've been told. I only had 2 days to make this, so I didn't have time to implement any varieties.
+
+Hopefully, I'll be able to implement them in the future.
+• DATE: 11/21/2022, 4:46:21 PM
+KA's in the middle of an API transition to GraphQl. Also, the API hasn't seen this sorta climb in a long time this was expected.
+• DATE: 11/21/2022, 4:35:07 PM
+Same question bronte asked. I don't really know. It just looks better and it seems more "_formal_"
+_=p_
+=p
+
+A little secret: _If my emoticons aren't italicized it means I'm having a bad day_
+• DATE: 11/21/2022, 4:32:33 PM
+_oof_
+Yeah, I've got an alt where I store my more important WIP's. There's no point storing this on an alt when I was gonna release it a couple days. People have a lot of strategies. I've seen people who store their projects of VS Code.
+• DATE: 11/21/2022, 4:25:00 PM
+Yeah.....KA's API can't seem to handle the rate of votes this is gaining. We'll just have to come back and vote it up later _=p_
+• DATE: 11/21/2022, 4:22:38 PM
+Thanks _=D
+
+brainzzzz_
+• DATE: 11/21/2022, 3:53:27 PM
+Thanks _=D_
+It truly was an _interesting_ choice, but it's a Monday so I've gotta release something.
+• DATE: 11/21/2022, 3:52:12 PM
+Thanks _=D_
+
+I really don't care about the votes or the fame. I've already earned all of it on a different account. I'm just here to makes new games, and help the community.
+
+Plus it's a Monday and today's the deadline for TCW, so I don't really have a choice.
+• DATE: 11/21/2022, 3:26:57 PM
+There are 9 winners all together. 3 Beginner, 3 Intermediate, and 3 Advanced. This allows programmers to compete with their own skill level and make it fair for others.
+• DATE: 11/21/2022, 1:03:52 PM
+Thanks _=D_
+Why should there be a health bar? Your goal is to prevent _all_ enemies but you still have 5 tries. I didn't have time to write it out though
+• DATE: 11/21/2022, 1:02:28 PM
+Nice!
+• DATE: 11/21/2022, 1:02:21 PM
+Thanks _=P_
+• DATE: 11/21/2022, 1:02:18 PM
+Thanks _=P_
+• DATE: 11/21/2022, 1:02:07 PM
+Reminds me of a great user who made it _=p_
+Thanks!
+• DATE: 11/21/2022, 1:00:59 PM
+Thanks _=D_
+
+But you forgot that I only have 90 points right now while you have 130+. If you score 20 less points than me you'll still win _=p_
+
+It was on my profile:
+https://www.khanacademy.org/cs/i/5598549544321024
+• DATE: 11/21/2022, 12:57:32 PM
+I see...We're in different brackets so my entry won't interfere with your chances of winning _=D_
+• DATE: 11/21/2022, 10:08:33 AM
+Ember:
+https://www.khanacademy.org/cs/i/4999355030880256
+• DATE: 11/21/2022, 10:07:41 AM
+Ember:
+https://www.khanacademy.org/cs/i/4999355030880256
+• DATE: 11/21/2022, 10:03:58 AM
+Here's another mini-game for TCW _=)_
+_Ember_
+https://www.khanacademy.org/cs/i/4999355030880256
+• DATE: 11/20/2022, 8:14:38 PM
+No problem. A project never turns out the way a user wants it to. There are always changes and room for improvement _=D_
+• DATE: 11/20/2022, 7:14:07 PM
+Mmmm.....It was the first part. I don't know you in IRL but I've known you long enough to say your a great person. Don't let anything stop you _=D_
+• DATE: 11/19/2022, 10:01:18 PM
+@Coral
+Yep _=p_
+I though I wrote she...._my bad_
+• DATE: 11/18/2022, 7:02:57 PM
+You've got some interesting projects
+_Following =D_
+• DATE: 11/18/2022, 6:56:22 PM
+Yep _=p_
+That's my current one. It's empty right now but I'll release my new portfolio on it in about a week.
+• DATE: 11/18/2022, 6:48:13 PM
+Did you? 
+
+Heres ski:
+@thelegendski
+
+I'll also give you xacer:
+@ccaven
+• DATE: 11/18/2022, 6:21:38 PM
+By chain I mean we all follow each other (mostly)
+
+If you have the username to one user's git-hub account you'll be able to find the rest of us.
+• DATE: 11/18/2022, 6:17:02 PM
+Yeah. I am _=p_
+I'm in the chain with all the other KA devs. If you find one of us you'll find most of the others.
+• DATE: 11/18/2022, 5:12:08 PM
+KA runs on processing.js version 1.4.8. So this would work:
+https://www.khanacademy.org/cs/i/5711344174678016
+_Now you'll just have to implement a full screen feature_
+• DATE: 11/18/2022, 3:38:37 PM
+Yeah! Sure. Feel free to use anything you'd like as long as you give credit _=D_
+• DATE: 11/18/2022, 11:12:23 AM
+Me either =(
+The bugs
+• DATE: 11/17/2022, 6:03:54 PM
+Really dead. Mainly because of the Bugs _=p_
+KA bugs go brrrrrrrrrr
+
+Atleast they're fixed with a week, unlike before.
+• DATE: 11/17/2022, 4:28:15 PM
+That would be _amazing_
+• DATE: 11/17/2022, 4:25:53 PM
+When we(_I've been on KA for 5 years I think (2016-2017). This is an alt_) say the hotlist is dying we mean the gradual decrease for popularity, quality and quantity.
+
+1. Popularity: KA used to average about 5,000 votes a day. Nowadays KA's average vote per day is about 600. It heavily decreased after august 2021(_KA security update_) when child/student accounts were no longer allowed to vote and users needed verify emails.
+
+2. Quality: It's pretty self-explatory. More memes, less games/graphics
+
+3. Quantity: KA used to be competitive. There was so many amazing projects. Most underrated because of the shear amount of competition. You'd need a huge sum of votes to reach the top row and getting to the top made you feel as sense of pride (_We've all experienced that time when we first started out_)
+
+Hopefully, one day the great "revival" will revive KA _=p_
+• DATE: 11/17/2022, 3:58:10 PM
+Username: Astro (astro.ka)
+Level: Advanced
+Best Project: Don't have one. This is my latest:
+https://www.khanacademy.org/cs/i/6330128795222016
+• DATE: 11/17/2022, 3:42:50 PM
+_lol_
+I don't think you've ever created an API before. You can setup an API but you'd need to test the subject or Database to run/make it. Your method would require the dev team to do one of 3 things. 
+
+1. Create/setup a whole new "huge" database just to test their API. Huge because the API don't only consist of KA's CS commiuty but every lesson/viedo/program on KA
+2. If they make a APi and shut down KA for a day or so they'd be shutting down KA every other day for at least a couple hours. They'd also get no user feedback about bugs.
+3. Follow your method and blindly make an API which no man can ever truly do. This would result in more bugs that KA's facing right now and us stuck with these bugs for long periods of time (_weeks_)
+
+It's annoying but we should be grateful that KA's moving to GraphQL. It'll open a lot of possible opportunitys for us in the future.
+• DATE: 11/17/2022, 3:29:24 PM
+_lol_
+Practice and skill are key. One day you might be able to make something even better in less than 2 days _=D_
+• DATE: 11/17/2022, 3:24:15 PM
+_lol_
+You can use willard.fun on a school Chromebook. It's school safe (_As long as you don't play minekhan_). It's just a searchable database with KA's programs.
+
+BTW I believe this is what Fourth Moons talking about:
+https://www.khanacademy.org/cs/i/4973618010210304
+• DATE: 11/16/2022, 7:17:50 PM
+_"put on almost all your webpage"_
+
+If you want to build a fullscreen webpage you can make one-off KA on a different platform. KA's small editor gives you a challenge. For example a web dev like me has built a lot websites off KA. It's easy. But making one on KA is hard. You're limited to a lot of resources and sizes. If a dev (Voldy) can make a good-looking website within the following limitations, then she's a true web dev. You learn a lot about precision and perfection when others can see the smaller flaws that would get hidden on a fullpage website. 
+
+Nonetheless, this is still a great tutorial and it'll help a lot of new programmers.
+• DATE: 11/16/2022, 6:18:44 PM
+Thanks _=D_
+• DATE: 11/16/2022, 6:18:32 PM
+Thanks _=D_
+• DATE: 11/16/2022, 6:18:13 PM
+Yes. Teaming work _=p_
+• DATE: 11/16/2022, 6:18:00 PM
+Thanks _=D_
+Been a while huh?
+• DATE: 11/16/2022, 6:17:46 PM
+Thanks GG _=D_
+• DATE: 11/16/2022, 5:06:19 PM
+@DR
+He's been on KA for a long time. He's just come back from inactivity, like me _=p_
+• DATE: 11/16/2022, 7:30:36 AM
+_lol_
+
+I'd just like to know why I lost points on Output, Clean Code, & Complexity so I can do better next time _=p_
+• DATE: 11/16/2022, 7:28:10 AM
+Bugs like this are very common. It's normal for small bugs to occur when your transitioning to a new API. There are alway two ways to move averything. 
+
+1. Move parts bit by bit in which many bugs can occur. 
+2. Shut down the API till the transition is done. There won't be any bugs, but KA would be out of service for 1-2 months. Thankfully, KA hasn't done this
+• DATE: 11/15/2022, 7:27:04 PM
+But you can't store the data values drawn, like HB's done.
+• DATE: 11/15/2022, 6:10:17 PM
+_O.o
+Thanks_
+• DATE: 11/15/2022, 6:10:06 PM
+Thanks _=D_
+• DATE: 11/15/2022, 6:09:58 PM
+Thanks _=D_
+• DATE: 11/15/2022, 6:09:07 PM
+No problem _=D_
+• DATE: 11/15/2022, 3:14:09 PM
+Yeah. Evan lewis and the dev team have already been notified about the new bugs _=P_
+• DATE: 11/14/2022, 8:38:35 PM
+Switched the controls _=D_
+• DATE: 11/14/2022, 4:34:37 PM
+Thanks _=D_
+It's a test of skillz and coordination.
+• DATE: 11/14/2022, 4:33:50 PM
+Thanks _=D_
+A true test of skillz
+• DATE: 11/14/2022, 4:33:34 PM
+Thanks _=D_
+• DATE: 11/14/2022, 4:33:25 PM
+_Is it?_ We've still got 351 days till halloween _lol_
+
+Thanks _=D_
+• DATE: 11/14/2022, 4:28:53 PM
+Thanks _=D
+
+lol_
+• DATE: 11/14/2022, 12:43:33 PM
+@bio
+Comments are now arraged by username....
+I checked my comment viewer still arranges them by time. Another API glitch _=p_
+https://www.khanacademy.org/cs/i/6138445539360768
+• DATE: 11/14/2022, 12:12:12 PM
+Thanks _=D_
+It's not. But I'm up against no one, so I could submit anything and move on...
+
+It's mainly for TCW. 
+Indeed. _Curious to know what score you'll give me_
+• DATE: 11/14/2022, 11:01:22 AM
+_Tag Team_
+A rushed entry:
+https://www.khanacademy.org/cs/i/6330128795222016
+• DATE: 11/14/2022, 11:00:14 AM
+It's supposed to test your cooperation skills with teammate or your own hands _=p_
+
+Better cooperation => Better score
+• DATE: 11/14/2022, 10:58:52 AM
+Is it? It's supposed to test your cooperation skills with teammate or your own hands _=p_
+• DATE: 11/14/2022, 10:57:17 AM
+Thanks _=D_
+I've done better in a shorter amount of time _=p_
+• DATE: 11/14/2022, 10:56:07 AM
+Thanks _=D_
+
+_Maybe..._
+• DATE: 11/14/2022, 10:55:52 AM
+Always trying to be original 
+Thanks _=D_
+• DATE: 11/14/2022, 10:55:23 AM
+Thanks _=D_
+• DATE: 11/14/2022, 10:55:14 AM
+Thanks _=D_
+• DATE: 11/14/2022, 10:55:08 AM
+Thanks _=D_
+• DATE: 11/14/2022, 9:22:56 AM
+_Tag Team_
+https://www.khanacademy.org/cs/i/6330128795222016
 ::::::::::::::::::::::::::::
 no questions
 ::::::::::::::::::::::::::::
