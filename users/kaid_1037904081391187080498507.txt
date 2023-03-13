@@ -1,0 +1,3038 @@
+kaid: kaid_1037904081391187080498507
+
+---- REPLY ----
+• DATE: 3/12/2023, 4:26:09 PM
+sure thin', ;p.
+• DATE: 3/11/2023, 10:55:07 PM
+postin' here to not spam everyone else.
+
+there are two reasons why your join code errored out on my end.
+first, i had an xss attack from another user an' so you can only use alphanumeric values an' spaces in namez [which don't do anythin' since i access the name through the API].
+second, your team name has to be ninjaz, astronomers, or leviathans. "Ex-Host" has been added in, so you just need to fix your name to "Liam K"
+
+edit: fixed the script on my end so you should show up w/o needin' to repost/edit.
+• DATE: 3/11/2023, 9:12:53 PM
+highscore: 1000
+• DATE: 3/11/2023, 9:12:48 PM
+highscore: 400
+• DATE: 3/11/2023, 9:12:42 PM
+highscore: 300
+• DATE: 3/11/2023, 9:12:38 PM
+highscore: 100
+• DATE: 3/11/2023, 9:12:30 PM
+highscore: 200
+• DATE: 3/11/2023, 9:11:52 PM
+precisely. on the other hand if someone tries to do smth stupid, i do have a blacklist, >:).
+• DATE: 3/11/2023, 9:06:13 PM
+oh, oh, yes lol.
+• DATE: 3/11/2023, 7:50:26 PM
+misspell an' it'll produce an error. i'll just need to let each of those users know.
+• DATE: 3/11/2023, 10:53:37 AM
+$["jsDelivr", 2, "astronomers"]$
+• DATE: 3/11/2023, 10:42:28 AM
+$["john doe", 1, "ninjaz"]$
+• DATE: 3/10/2023, 10:38:49 PM
+thread's been moved here, :p.
+`_*https://www.khanacademy.org/cs/-/6259188185743360*_`
+it works perfectly, the join code data is all stored on GitHub, but gettin' jsDelivr to update the scripts is a pain, ;-;.
+• DATE: 3/10/2023, 4:16:14 PM
+so, it looks like most of the other tasks have been taken. only one remains, an' if you can't do it/don't have time to, that's chill.
+
+create the logic for a parallax background for a platformer. we already have the background.
+• DATE: 3/10/2023, 4:15:44 PM
+change filters script version to 1.8.14 an' `posterize` now works properly, :).
+• DATE: 3/10/2023, 4:14:38 PM
+let me see. it doesn't sound like it'd be too hard.
+• DATE: 3/10/2023, 3:59:57 PM
+no, you can't.
+• DATE: 3/10/2023, 9:27:58 AM
+$["ski", 3, "ninjaz"]$
+• DATE: 3/10/2023, 8:34:38 AM
+$["ski", 3, "team 1"]$
+• DATE: 3/9/2023, 12:20:40 AM
+this should've been sent to you yesterday, but it seems to have been hidden.
+
+i've sent you the link to the project on GitHub, but lmk if that one doesn't work either.
+• DATE: 3/7/2023, 8:44:47 AM
+oh yeah, lol.
+
+it'll get fixed in `1.8.10` which will be released in the near future. revert back to version `1.8.4` for now.
+
+if ski.js was fully finished, i would def agree that it is a terrible library.
+ski.js is the best overall if we consider the costs an' benefits of all libraries. it's easier for development, basically the most efficient unless you're PixiJS an' use WebGL to draw the canvas, but lacks the sheer number of features that other libraries offer. if you're lookin' for a library packed with every feature, don't look to ski.js. if you're lookin' for a library that has the basic functions an' gets the job done, that's what ski.js is for.
+• DATE: 3/6/2023, 11:09:26 AM
+the Guardians will let it fly as long as you only use it for `mouseScrolled`. if you're still concerned just move to the web environment lol.
+• DATE: 3/6/2023, 9:57:18 AM
+eh, it's got a long ways to go to bein' a finished product.
+
+i could load all of the images on an `OffscreenCanvas` an' cache the `ImageData`, but wouldn't that be less efficient if i wanted a loadin' screen on the current canvas? i think i misunderstood you.
+the function `set` creates an `OffscreenCanvas` on line 1092 that ski.js uses to draw.
+
+it certainly does. lol, yeah, i do. the reason why i didn't overlay HTML for the HUD here is that i was on a time crunch an' didn't see the need to add an extra movin' part by interactin' with the DOM. is there a particular advantage of usin' the DOM over the canvas?
+
+wow, thank you, :D. means a lot to me comin' from you.
+uh, it needs way more comments to be well-commented, but the first few hundred lines are okay.
+• DATE: 3/6/2023, 9:52:18 AM
+that i'll see if i can fix. the issue has been that KA forces me to check the events for the entire DOM instead of just the canvas. i think someone else has a fix for that, so i'll see what i can do.
+
+that is a simple fix, but i personally like it which is why it has persisted across all versions. you can disable it with one line.
+`canvas.onscoll = () => {}`
+
+that's an easy fix. i'll change that in a pinch. i think you should be able to change `skiJSData`.
+
+ski.js never claims to be the best canvas library for comprehensiveness an' dev experience. it isn't production-stable, so i think it's slightly unfair to treat it as a finished product. ski.js is the best canvas library overall when you consider efficiency, comprehensiveness, an' dev experience. if you want more comprehension an' mediocre performance, join the p5.js train. if you want crazy efficiency [much faster than ski.js] but a worse dev experience an' completely different from the PJS you're used to, PixiJS is the way to go.
+• DATE: 3/6/2023, 9:37:13 AM
+i did.
+• DATE: 3/3/2023, 2:24:30 PM
+knowledge only matters if you can apply it.
+
+sure someone scores a perfect score on a test, but when the curriculum is useless what good is the test score?
+
+sure i'm probs in the top 10 perhaps top 5 coderz on KA rn knowledge-wise, but i can't do the simple stuff like creatin' a new script element that sets the values of other elements in the DOM.
+
+what do i have to brag 'bout besides havin' a head filled with useless information?
+• DATE: 3/3/2023, 2:21:42 PM
+paste this into a new webpage in a script with `type` set to `module`. if it doesn't work, then you've blocked pop-ups as it should work.
+
+if `window.fullscreen` exists [is truthy], set it to a constant `run`. else, run the fullscreen script where the new window has `window.fullscreen` set to a truthy value.
+
+```
+const run = window.fullscreen || (function () {
+    const win = window.open()
+    win.document.open()
+    win.document.write("<!DOCTYPE html>" + document.getElementsByTagName("html")[0].outerHTML)
+    win.document.close()
+    win.fullscreen = true
+})()
+```
+• DATE: 3/3/2023, 11:01:41 AM
+lol, or it means i have smol brain 'cuz it shouldn't be this hard.
+• DATE: 3/3/2023, 10:30:39 AM
+no worries.
+
+i'll let him know. dunno if you could tell, but i hate admittin' defeat lol.
+
+nah, you're cool, :p.
+• DATE: 3/3/2023, 6:49:25 AM
+JS is "easy" 'cuz it's a high level language.
+C doesn't count as low-level, not even close.
+think Assembly an' then you're gettin' somewhere.
+• DATE: 3/3/2023, 6:48:18 AM
+he's already messaged me privately on it.
+
+it's portin' to KA that's the issue. the entire thin' is done off-KA on another platform (CodeHS) due to KA hatin' CoffeeScript (forces me to save an' reload everytime a change is made). the issue is that CodeHS has my full name on it, an' i can't exactly share that link. there's a link i can share that shows the finished product w/o the code which i will produce when i release. the current issue is portin' to KA. it's all set up, but the issue with Liftoff's compiler was that it sent arguments passed into `fmt.Println` to the console an' i modified it to send to an element instead so the user didn't need to open the console (or in the case they didn't have access to the console). KA must hate the technique i used or it doesn't work in the sandbox idk which. if Liftoff could work on that, i _think_ that's it.
+• DATE: 3/2/2023, 8:41:01 AM
+except have efficient code lol.
+• DATE: 2/27/2023, 6:09:02 PM
+cocoa when it's 70 outside, o.O.
+thanks, :D! i hope i ace it, o.o.
+uh, i would let you see, but my name is currently on the project. it's stored off-KA rn due to weird KA environment-related issues that require me to save an' reload after every change, ;-;.
+
+i actually don't, but it sounds vaguely familiar, :p.
+
+glad to have a companion, :).
+
+yeah, :D!
+idk if i can beat my effort from last time lol.
+• DATE: 2/27/2023, 5:14:29 PM
+stressed like always.
+crazy busy week. gon' take the SATs on Wednesday, o.o.
+tryin' to finish the webpage for CoC. code is not cooperatin', >:(.
+
+oh yeah.
+• DATE: 2/27/2023, 8:51:14 AM
+furthermore, if you know how to use the modern syntax, you wouldn't be in the PJS environment.
+
+i _think_ i can do it live.
+
+huh, i'll try my hand at it.
+
+been tryin' to figure out what `Program.settings` an' `Program.runTests` do. has anyone ever figured it out? KA's source code on GitHub doesn't provide any documentation, but it claims that there are settin's that programs can modify.
+• DATE: 2/26/2023, 8:58:49 PM
+beyond possible, is it reasonable to implement? the next step beyond doin' what _can_ be done is convincin' others it _should_ be done.
+
+i think my first endeavor of smth similar would be an implementation of CoffeeScript, but the compile times aren't pretty.
+
+in reference to your Open Problems project, is there a particular reason why the `SharedWorkers` API is particularly difficult to implement in PJS?
+• DATE: 2/26/2023, 8:34:33 PM
+`eval` is stupid. a `script` tag isn't, but i see your point.
+
+beyond provin' that the KA devs don't prioritize this community in the slightest regardless of the work involved, how difficult would it be to make the editor compatible with p5.js? technically you're manipulatin' the DOM which should arguably [in the perspective of the Guardians an' their moderation] only be done in the web environment, so PixiJS, Paper.js, ski.js, etc. are all possibilities for the editor since you essentially stripped it down to its bones in the respect of the compiler.
+• DATE: 2/26/2023, 7:45:35 PM
+the next round begins tuesday which is when you'll be replacin' Fer Fer, believe it or not, so i'll fill you in with any necessary details then, :).
+
+how does it sound if i collect a list of tasks we need done an' you choose what you think you can get done?
+
+thank you for helpin' out!
+• DATE: 2/26/2023, 2:30:25 PM
+no worries, :).
+thanks for considerin'; hope to see you 'round soon.
+• DATE: 2/26/2023, 2:29:45 PM
+yeah...she's sketchy on activity an' gone 'till March 3rd, but givin' her activity levels with Liftoff, i don't think she's active enough to keep participatin'.
+worse than last year, i daresay.
+
+nah, that's cool, i understand where you're comin' from, :).
+• DATE: 2/24/2023, 2:57:48 PM
+all good.
+• DATE: 2/24/2023, 1:55:11 PM
+not sure if you noticed, but you haven't enabled discussions, :). ignore if you already knew, :p.
+
+now i'm the one confused.
+• DATE: 2/24/2023, 1:20:41 PM
+shouldn't that mean that we should stop regulatin' plagiarism under the same principles since those peepz should feel shame for the votes they garnered? as a repeat offender for plagiarism, the answer is no, you don't. that's my issue.
+• DATE: 2/24/2023, 1:05:34 PM
+still faster in GPU, no?
+
+:).
+• DATE: 2/24/2023, 11:12:38 AM
+"I should probably pre calculate some stuff and insert them as uniforms." - sounds like it'd be done in JS, no?
+
+create a private GitHub repo. invite me as a collaborator. enable discussions. done, :).
+• DATE: 2/24/2023, 11:02:38 AM
+so pre-calculate 'fore the `main` function in GLSL?
+• DATE: 2/24/2023, 10:55:45 AM
+if you pre-calculate in JS an' not in GLSL, then your computations are done on the CPU not GPU.
+• DATE: 2/24/2023, 10:04:29 AM
+lol, you don't get it.
+• DATE: 2/24/2023, 9:39:01 AM
+@SP
+how does the council know where you've gotten your code? it's one thin' to plagiarize code off KA since you can find it through reasonable means [how many others programs were created in an outdated language], but what if a more experienced programmer copies large portions of their program from ChatGPT? it's more than capable of producin' algorithms that could take days to complete an' programmin' in a webpage rather than PJS would make ChatGPT even more powerful. as some of the council members are Guardians, they should know that the members of the KA community aren't always honest an' simply relyin' upon their morals isn't the best idea.
+
+rules are fine an' all, but they are only feared when they are enforced. i find this proposition of the council not only confusin' as Bob has stated but also impossible to enforce. there's no tool available on the internet that can accurately [key word] detect whether code was generated by an AI.
+• DATE: 2/24/2023, 6:16:31 AM
+"Oh pixel is the size of your pixels."
+oh, that makes sense. as in i didn't know what my own code did an' you explained it to me.
+
+"So there was no way around it :P"
+i thought this was your response to the print.js fix, so my natural inclination was that KA's editor is garbage after a recent update as i didn't have to reload the page every time for the script to load for 1.8.3 but now i do.
+
+kernelz, :DDDD!
+
+oh yeah!
+
+blur is easily the slowest lol.
+GPU faster than CPU, so why calculate on the CPU, o.O.
+• DATE: 2/24/2023, 6:12:45 AM
+yup, =/. unless you use the same canvas for every filter an' naturally resettin' the `canvas` width an' height resets the `canvas` itself, :o.
+
+ah, that might be it.
+
+that's good?
+
+lol, known as the bad ski way, :p.
+
+GitHub or element[.]io if you have it.
+• DATE: 2/23/2023, 9:07:48 PM
+lol, that sounds like a plan.
+• DATE: 2/23/2023, 8:09:44 PM
+that makes sense.
+ah, that makes sense.
+yup, =/. i hate KA's editor lol.
+• DATE: 2/23/2023, 8:01:30 PM
+me have smol brain. me not know what `uv` coords are. me copy from WebGLFundamentals an' then play with it.
+
+my definition of a pixel:
+```
+vec2 pixel = vec2(1.0, 1.0) / size;
+```
+• DATE: 2/23/2023, 7:59:01 PM
+i have no clue how you would make it faster. i'm on a literal potato. it grew from the ground an' i plugged a couple wires in an' bam, a "Chromebook" they call it.
+
+yeah, you'll have to use `Promise`s for that.
+
+i think it's the initial setup behind the canvas API 'cuz they might optimize it for just the 2D context an' forget WebGL? mine is slower than yours 'cuz i suck at WebGL an' there's probs a bunch of performance tips that i'm missin' out on [that i'd love to hear if anyone has 'em] but hey, it works, :D.
+• DATE: 2/23/2023, 7:55:59 PM
+uh, there's this new weird KA bug where i have to save an' reload for the script to run, o.O. what the heck? 1.8.6 works [it used `var`, :p]
+
+`print.js` + major changes to `main.js` = version skip, :p.
+
+```texture2D(Sampler, texture + pixel * vec2(-1.0, -1.0)```
+grabs the pixel to the upper left of the current pixel in the texture.
+• DATE: 2/23/2023, 7:45:20 PM
+it's not ideal, but filters are rlly only used for cached images/canvases.
+
+i just return the image element an' `image` just keeps tryin' to draw the image 'till it loads [unless you use `onload` instead, v(o.o)v]
+• DATE: 2/23/2023, 5:23:05 PM
+```
+nf.constructor("$('*').on('wheel', e => e.preventDefault())")();
+```
+:p
+• DATE: 2/23/2023, 5:16:05 PM
+in order for `mouseScrolled` to work properly, you need to do some...sketchy stuff, :p.
+• DATE: 2/23/2023, 11:15:29 AM
+no, i return the filtered canvas an' store it in a variable 'fore the draw function an' then draw it afterwards.
+uh, i don't think i could do that.
+• DATE: 2/23/2023, 10:55:33 AM
+i am just haven't fixed the shaders to mirror that.
+
+i don't think i have those, :o. i'll have to go back an' get 'em later.
+• DATE: 2/23/2023, 10:49:48 AM
+fixed, i think.
+
+`posterize` but with the alpha value set to `color` not `color.a`
+
+btw, it runs at 60 fps rn 'cuz i cached the canvas. updated to show the true performance cost, =/.
+• DATE: 2/23/2023, 6:54:41 AM
+lol, i did it, just didn't know if you'd gone through the trouble.
+
+that's slow compared to usin' `ctx.drawImage` on the whole canvas if you have it stored, ;p. i think i just realized my problem. stupid JS object allocation bugz, >:(.
+
+congrats!
+
+wonderful WebGL. might upgrade my shaders to WebGL 2 at some point. i'll have to see how hard the transition is.
+• DATE: 2/23/2023, 6:39:59 AM
+eh, close enough.
+
+it's always time to learn, :).
+• DATE: 2/22/2023, 11:46:03 AM
+with varyin' degrees of blur?
+
+uh, not sure why you'd need that.
+
+cache the ol' canvas. draw it on the new canvas, ;p.
+• DATE: 2/22/2023, 11:07:40 AM
+we all start somewhere, :).
+
+now for the hard part. i promise you `blur` will make you cry. that kernel, o.o. the second spatial derivative of the Laplacian of the Gaussian function, -.-.
+
+my problem currently is cachin' the ol' canvas. have no clue why it won't work rn [stored elsewhere not on KA or gh], but i'll figure it out soon enough. is it truly necessary to copy properties from the ol' context over to the new context?
+• DATE: 2/22/2023, 10:05:36 AM
+how do you not like CoffeeScript?
+• DATE: 2/22/2023, 9:58:36 AM
+yuck? it's not too bad if you aren't on KA when developin'.
+• DATE: 2/22/2023, 7:35:46 AM
+i'll have to try `lowp` sometime.
+
+just 5?! took me at least 10+ an' i ended up just makin' the p5.js function better.
+• DATE: 2/20/2023, 11:17:46 PM
+i was unaware that `ctx.roundRect` existed lol.
+• DATE: 2/20/2023, 9:41:29 PM
+every filter [no matter the computation necessary] drops the fps by 40, o.o.
+
+i think i have a separate vector class lol.
+true.
+
+same here which is why there's no docs after a year lol.
+
+~100% on KA. some on random other web IDEs just to make sure stuff i found wasn't weird KA stuff, but pretty much just here.
+• DATE: 2/20/2023, 9:20:32 PM
+total of 1266 lines of code for all addons + main script which includes functionality you probs won't have in yours [`Point` class that is mostly used for solvin' geometry problems, semi-robust random string gen, collision library]. i don't have matrices, but i think you might've over engineered some of your functions. curious to know if you'll be usin' WebGL or `ImageData` for your filters?
+• DATE: 2/20/2023, 5:04:24 PM
+yup. that sounds like KA lol.
+• DATE: 2/20/2023, 4:24:23 PM
+for p5.js perhaps. for PJS, it does both. i'm not well-versed in p5.js so i can't conclude much there.
+• DATE: 2/20/2023, 3:57:15 PM
+true that.
+probs a good idea lol.
+• DATE: 2/20/2023, 2:42:28 PM
+it will, :o.
+good news for ski.js; bad news for DR's repo.
+• DATE: 2/20/2023, 11:35:03 AM
+eh, i found a StackOverflow article on it.
+it worked, :D!
+
+`textLeading` is, an' someone asked for it, o.O. ig it has a use?
+THAT was weird. Fer Fer is the one who developed the formula for how to position the centered text.
+• DATE: 2/19/2023, 10:06:38 PM
+holy crap i entirely forgot 'bout that.
+• DATE: 2/18/2023, 4:44:42 PM
+here.
+• DATE: 2/18/2023, 4:31:02 PM
+it's a pretty late entry, so if you don't feel comfortable judgin' it, it should probs be a no. Liam has already done quite a lot with the deadline for team ski an' i don't think it would be fair to keep askin' for favors if you get my drift, :).
+• DATE: 2/18/2023, 4:24:59 PM
+was pretty inactive the whole week, so no work could get done, -.-.
+
+crud. uh, i forgot to include this-ish. dunno if you still care to judge this or not, but here's SMV's portion.
+`_*https://www.khanacademy.org/cs/-/6051327054757888*_`
+• DATE: 2/18/2023, 7:03:58 AM
+true that.
+• DATE: 2/17/2023, 5:11:51 PM
+my note to Tuan is not a joke. he has nowhere near that much experience with buildin' canvas libraries. not sure where you got 5+ years from tho.
+
+true that. love to see what you come up with, :D. i think we can learn smth from each other, ;p.
+• DATE: 2/17/2023, 4:50:49 PM
+my deepest apologies. i presumed you intended this to be a competition rather than for the sport of programmin', :).
+
+i was entirely unaware of this fact 'fore you mentioned it, :). i'm grateful that you have an' will work on implementin' `transform` an' `setTransform` to perform any transformations.
+
+a documentation is planned, but obviously not made yet.
+
+that should be an easy fix. i'll add that in the next release, ;p.
+
+ah, alr, :p.
+
+VEXCESS is on GitHub an' Tuan provided an example of it. Polar's is here [note that Polar took most of the difficult pieces of his library from ski.js].
+`_*https://www.khanacademy.org/cs/-/5081035719622656*_`
+
+you've already beat Drawlite.js by miles.
+
+@Tuan
+VEXCESS' library is absolutely terrible. suffers from the same rookie mistakes as everyone else's library. the `draw` function is done in the most inefficient manner. only Aliquis out of those 58+ programmers could beat ski.js. additionally, VEXCESS decided that those 58+ others need no credit (line 7 `All other code written by Vexcess`).
+
+from the fact that you boast with an immature ego, i take it that you are the banned VEXCESS. regardless, realize that no one on KA will beat ski.js with just a couple weeks.
+• DATE: 2/17/2023, 8:16:55 AM
+if they're still 'round, o.O? what makes you think i left?
+• DATE: 2/17/2023, 7:06:10 AM
+boom.
+
+i did?? i have no clue, an' i honestly don't care who "steals" as i'm sure it's a very ol' joke, :p.
+• DATE: 2/14/2023, 11:43:03 PM
+{
+names: "ski, SMV",
+captain: "ski",
+link: "https://www.khanacademy.org/computer-programming/for-me/5945104410132480"
+}
+• DATE: 2/14/2023, 11:42:12 PM
+perfect.
+
+alr. i'm honestly chill with takin' a late penalty, :).
+• DATE: 2/14/2023, 8:27:34 PM
+my entry will be submitted late [again smh], but it will still be submitted.
+
+Fer Fer (@thelegendferfer) told me irl to just have you look at his bio for his response on this matter since he's too lazy to post. his bio states, "on ski's team".
+• DATE: 2/14/2023, 8:25:37 PM
+i have no clue when i'll submit this now. fingers crossed but 'fore 10AM my time tomorrow or we just submit whatever i come up with which might not include functional control panels.
+
+it's bad, -.-. i need to pace out my progress next time or i end up with a mess like this [or what happened the round prior, but ofc i didn't learn smh].
+• DATE: 2/14/2023, 1:23:32 PM
+thanks for clearin' that up, :D!
+
+Fer Fer, :). 
+
+lol, it might be rigged against Astro since he's my bro an' i'll have him accept my invitation.
+• DATE: 2/13/2023, 10:43:37 PM
+i'll take that as a compliment.
+• DATE: 2/13/2023, 8:10:50 AM
+all members of team ninjaz are active, but Promise doesn't seem to be able to stay committed for future roundz. [Liftoff pretty much did everythin' for their entry.]
+
+everyone else seems very active; relatively speakin'.
+• DATE: 2/12/2023, 9:37:52 PM
+too tired to respond rn, but everythin' sounds (an' looks, :D) good. i'll figure out #2. not sure how #1 will work [it'll just be text], so we'll figure it out when we get there.
+
+there will only be one large level, so we'll see how i come up with the riddlez.
+
+done.
+• DATE: 2/11/2023, 2:00:26 PM
+you might press space || enter an' a panel pops up for you to type the numbers in based on how many colored dots you counted on the wallz.
+
+correction, i have no clue why i phrased it like that.
+here's my dilemna, i want different surfaces that aren't just rectangular; hence, the line-circle physix on my wip. what my head can't get 'round is how i'm gon' make the blox into irregular shapes. i've thought of maskin' the blox, but i have no clue if that will work or not. first, i'd have to mask the brix, but the part that i can't get my mind 'round is how where i'd position the image since everythin' is centered. lmk if you can think of smth else. might just create a new class called `Shape`, construct all the shapez [irregular blox] in a list called `shapez`. then when i load the level, the last bit will be cachin' all of the shape graphix. would have to place each shape by hand with RegEx parser, but that just might work.
+
+considerin' it's an underground prison, go for a darker blue color on the brix.
+
+if you have the time, could you make a darker colored brick background? i'll use it for a parallax feel.
+
+sounds good, :D!
+yeah, it need to at least be square.
+
+edit: the comment in the code is so true lol. i hate the new comment update, >:(.
+• DATE: 2/11/2023, 1:51:52 PM
+i could, an' no, it isn't there yet. it's a super simple function that i was too lazy to implement in the first round of ski.js 9 months ago an' forgot 'bout it since.
+
+i might have. i usually delete useless workspaces so i can find the relevant stuff, but i don't recall doin' it recently.
+• DATE: 2/11/2023, 12:25:54 PM
+ah, that might be due to the `blur` filter on the svg.
+• DATE: 2/11/2023, 8:36:47 AM
+i'm on a potato an' it didn't lag for the minute i used it.
+
+one thin' that might be givin' you trouble is that KA doesn't reset `addEventListener` so you have to set `on[event]` instead if you don't want it to crash as you edit, but that's only for dev. 
+
+i have no clue why it would be laggin' on your end. SVG is faster than canvas, an' the logic seems pretty straightforward. maybe cache all references to elements at the beginnin' of the script tag?
+• DATE: 2/10/2023, 7:31:29 PM
+smth that just came to mind.
+first, how do control panels work?
+second, i need the block graphix. they should have a pattern not determined by `random` so i can string 'em together in a long line, :). i need to do some magic ski stuff to make 'em work with my current level planz, so we'll see how that goes.
+third, i think you're nearin' the end of what you need to do. i'll probs need your help with level creation once i get there, but in the meantime, could you spice up the how an' leaderboard scenez with some animation?
+
+looks great!
+
+fixed in my spin-off [same as 'fore].
+https://www.khanacademy.org/cs/-/6578001542430720
+• DATE: 2/10/2023, 1:23:02 PM
+"if i recall correctly"
+that should be enough if you know where it is on a circle.
+
+oh, lol, yeah probs don't want my help.
+• DATE: 2/10/2023, 12:34:41 PM
+thanks! they won't if they can get away with doin' what they're doin' now, unless they have the drive to learn more, :).
+
+i've coded my own at one point. it's an add-on to ski.js iirc. you need to know trig, but trig isn't hard to learn ngl. i can help you if you need help.
+• DATE: 2/10/2023, 10:53:02 AM
+press space when you touch the blue door.
+• DATE: 2/10/2023, 10:39:15 AM
+oh, there's a purposeful error in the code.
+you should be able to see it now.
+• DATE: 2/10/2023, 10:19:07 AM
+lol no. you'll know what i'm enterin'. it'll be huge an' be my most voted program ever, :). you can see it as *brave wip* in my projex. mostly done, but not completely. the to-do list is there as well.
+• DATE: 2/10/2023, 8:46:13 AM
+lookin' great, :D!
+
+if you have the time an' feel like addin' more:
+deletion of files.
+input on the webpage rather than a `prompt` for new file namez.
+make some of the toolbar menus functional [i think the wifi/battery/volume or date menu shouldn't be too hard. a challenge might be to include notifications.]
+• DATE: 2/9/2023, 9:47:27 PM
+it does, :D!
+yw, :D!
+
+great!
+• DATE: 2/9/2023, 9:46:48 PM
+not well, but he does, :p.
+• DATE: 2/9/2023, 9:25:25 PM
+isn't it tho? he's more interested in recreatin' libraries from what i've seen on GitHub.
+• DATE: 2/8/2023, 7:45:47 PM
+i sure do, :D! are they your fav cat?
+• DATE: 2/8/2023, 5:24:38 PM
+when auto-correct thinks many is money, o.O.
+yup, xD.
+
+:D
+• DATE: 2/8/2023, 5:17:56 PM
+nope, not at all, B).
+it only has that money 'cuz KA requests the library every time you edit the code, xD, but it makes me look good.
+
+sent you smth on gh [not related to the hackathon-ish] if you could take a look, :).
+• DATE: 2/8/2023, 5:16:42 PM
+uh, you didn't see this.
+• DATE: 2/8/2023, 5:05:14 PM
+rats.
+sure, :D!
+• DATE: 2/8/2023, 4:49:24 PM
+idk if we have a gon', but my ol' school did.
+you could've zoomed in on that crest in the back a lil' more, :p.
+send an image of all of your PII next pic lol. make sure there's a ton of detail with a clear snapshot, ;p.
+• DATE: 2/8/2023, 4:39:41 PM
+xD
+that's huge, :o. mine are like a foot smaller.
+nah, it's cool lol.
+• DATE: 2/8/2023, 8:54:29 AM
+at the very minimum it shows your growth. Levi wanted you to be cap'n over Longtreader, :).
+
+we were down two entries last round, ;-;.
+
+...
+
+oof, that hurts.
+
+hope to see you on the podium soon, ;p
+• DATE: 2/8/2023, 6:58:44 AM
+yup, that's what i set it to, ;p.
+• DATE: 2/7/2023, 10:49:56 PM
+done.
+only thin' i forgot to mention is that peepz are startin' to abuse is `randomSeed` an' ski.js is not gon' implement `randomSeed` as that is WAY too computationally expensive. new code is from lines 2191 to 2224.
+
+lmk if you have any other questions/concerns or if there's smth that's different here from the original.
+• DATE: 2/7/2023, 9:55:25 PM
+i was gon' put "best coder on KA to some", but those work too, ;p.
+
+send it to me over there. guesstimates on how big it is [radius]?
+• DATE: 2/7/2023, 7:06:59 PM
+like Astro, i'm confused as to what you need help with.
+• DATE: 2/7/2023, 5:44:39 PM
+slightly 'bove.
+
+don't `lerp` the color, but part of the shape instead [width, height, etc].
+
+:D
+
+it actually isn't, xD. Astro must've voted an' then called on some friends lol.
+
+that's better, :).
+
+umm, in my world, yes lol.
+you _can_. you _shouldn't_. i'll make the iconz if you want me to, but the pre-built icons are like makin' a game out of emojis. it just doesn't look right.
+• DATE: 2/7/2023, 5:15:41 PM
+lookin' great, :D!
+
+eh, simple animations would be better. cop lights might be better for a scene transition.
+
+looks good!
+
+not me.
+
+
+could you make the iconz/text in the buttonz bigger [fill 70-80% of the space in the button]?
+
+edit: just double checkin', but you weren't gon' leave the iconz for the buttonz as text, right?
+• DATE: 2/7/2023, 1:24:34 PM
+so, the new t&t format is *crazy* annoyin' when loadin' longer threadz. support center will get a ticket very soon, >:(. but it looks a lil' more professional ig.
+• DATE: 2/7/2023, 12:25:57 PM
+more for your info than a need to update the page. it'll be a pain to constantly update the contest page.
+
+yup. my other two memberz had nothin' the night 'fore the deadline [Samwise & TML], so i replaced 'em with Doglover who actually submitted smth. bankin' on this round an' the potential inactivity plague for everyone else.
+• DATE: 2/7/2023, 10:04:20 AM
+@IA
+can confirm that FF is subbed to this thread.
+
+@ALL JUDGEZ
+if y'all could post your breakdown on the individual programs that you judge, i'm sure all the contestants would appreciate it, :). you'll be scorin' each entry with the breakdown anyways (creativity, complexity, output, design, etc.), so it should be a trivial matter to post it in a new t&t.
+
+if you're havin' a rlly good day, short explanations for the score like Liam had posted in the news thread would be tremendously appreciated, :D.
+• DATE: 2/7/2023, 9:56:14 AM
+just a quick update.
+we obviously don't have Samwise anymore, an' we don't have HS either.
+they've been replaced by Promise [which you already know].
+i think you left Liftoff out of my team on the homepage lol. i think i didn't mention which memberz have left so you naturally assumed Liftoff was one of 'em?
+• DATE: 2/7/2023, 9:11:47 AM
+perfect!
+
+i don't think the trees fit with the filter, no?
+
+edit: my progress. might not seem like much, but the jump logic took forever.
+`_*https://www.khanacademy.org/computer-programming/-/5945104410132480*_`
+• DATE: 2/7/2023, 8:28:11 AM
+smth like that yeah. a few kinx are missin' in your logic, but i can work 'em out.
+
+the new menu runs at an 20fps. not sure if you're still workin' on it, but all scenes need to run at 60fps, ;p. you should just be able to cache the menu background in an image an' then draw the background to restore the fps. [i mean i got a 5000+x2000+ image to run in the background at 60fps, so i think it would restore the frame rate]
+• DATE: 2/7/2023, 6:21:34 AM
+if the arms are made from a number of complex shapes used for detail an' structure, then they will need to be cached as an image. otherwise, they won't.
+• DATE: 2/6/2023, 10:16:47 PM
+@Timothy
+what happens when you can do this? would you still hate `config`? don't need to type it all out anymore, v(o.o)v.
+```
+function Class (config) {
+    Object.assign(this, config);
+}
+```
+• DATE: 2/6/2023, 9:55:42 PM
+:)
+
+oh here's the reference.
+`_*https://www.khanacademy.org/cs/-/6700758398976000*_`
+• DATE: 2/6/2023, 7:20:29 PM
+i think the reference i'll link below will work if you'd rather not do limbz. i don't think we need legz, so armz should be fine, ;p.
+• DATE: 2/6/2023, 6:47:39 PM
+not necessarily. i might cache individual limbz if they are intensive enough.
+• DATE: 2/6/2023, 5:22:16 PM
+gunz. i have bowz an' swordz in *brave*. don't care if they want to hide it. their loss.
+50x50. keyz could work.
+uh, idk if i have enough time for that, but i'll put it on the list.
+
+yup.
+• DATE: 2/6/2023, 4:52:55 PM
+that sounds perfect.
+start with breakout then work our way to the chase.
+control panels to open doorz, knock out guards with weapons they drop, an' any other functionality you can think of.
+
+normal ol' block graphix in a 50x50 square.
+• DATE: 2/6/2023, 8:21:01 AM
+i've completed the fixes in this spin-off, ;p.
+`_*https://www.khanacademy.org/cs/-/6578001542430720*_`
+
+so, the body an' the head look great, but i think limbz would look better than handz. the handz look a lil' out of place atm.
+• DATE: 2/5/2023, 10:22:41 PM
+thanks, :D!
+
+i didn't release it. it's an ol' workspace i used for  this, :). the release will be much better, but i'll finish it when i have the time.
+• DATE: 2/5/2023, 7:38:28 PM
+it is fixed here. didn't want to tamper with the original in case it disqualified the entry.
+`_*https://www.khanacademy.org/cs/-/5768518536839168*_`
+• DATE: 2/5/2023, 7:23:15 PM
+rlly? i'm surprised. i expected to be deducted heavily for messy code/lack of commentin'.
+
+in theory, it is. the biggest issue is that other enemies are obstacle an' they are mobile. additionally, the whole map isn't set up in a grid form, so literally any common pathfindin' algorithm is thrown out the window. a freeform pathfindin' algorithm is the only option, but existence, much less implementation, of such an algorithm that is widely available to the public is none.
+
+biggest issue there is performance, but that was certainly a possibility i overlooked. i'll look into that for the release.
+
+i fixed that bug after i submitted the entry. just needed to move where the collisions took place, but your idea would've worked as well.
+• DATE: 2/5/2023, 7:00:58 PM
+i fixed all of the issues with a few fixes.
+
+buttons:
+your issue is that the collision function is set to the wrong mode. you're usin' `rectMode(CORNER)` when the button is drawn, so the collision function needs to know the same. add the argument `0` after the other arguments in the collision function. you'll need an `else` statement afterwards to change the color back, but it works like a charm, ;p.
+
+images:
+not sure what went wrong with `draw` or the characters. uncomment the `load` function an' use the code below. lmk if you don't understand any of it or it still doesn't work.
+```
+let scene = 'load'
+draw = () => {
+    switch(scene){
+        case 'load':
+            load(graphics, 'hello')
+        break
+        case 'hello':
+            menuScene()
+    }
+}
+```
+• DATE: 2/5/2023, 6:52:29 PM
+i'll be sure too, ;p.
+
+so, the first one takes a point `{x, y}` an' checks to see if is in a rectangle `{x, y, width, height}`. the second does the same except for a circle `{x, y, size}`. they both return true if the point is inside of the shape. the first one just does a bunch of boolean checks, the second uses the distance formula to determine the distance of the point from the center of the circle relative to its size.
+
+are you doin' that to annoy me with a fangirl approach? if so, it's very, very effective.
+• DATE: 2/4/2023, 7:44:55 PM
+haven't tried to work on it yet, ;p.
+• DATE: 2/4/2023, 11:24:02 AM
+not done debuggin', ;-;.
+
+lol, i'd rather you ask for the parts that aren't workin'/you don't understand, ;p.
+• DATE: 2/3/2023, 5:43:39 PM
+oh, wow. didn't even know that happened. my bad there.
+
+so, the short answer is not rlly. the way `randomSeed` works forces me to basically reinvent `random` in a rather inefficient manner an' with math i don't understand. i could make p5.js' code better, but it's a huge class rather than one function, so idk how that would go.
+
+i have some recommendations for replacements.
+• DATE: 2/3/2023, 4:52:47 PM
+alr, which KA program would have the highest score?
+
+very. keeps stalkers at bay.
+• DATE: 2/3/2023, 4:51:23 PM
+you can have the ellipses swing with the wind usin' trig an' `frameCount`, or even better `lerp` an' `random`, but ski.js functions exactly like PJS in this respect.
+
+yup.
+• DATE: 2/3/2023, 4:35:57 PM
+@Agent X
+provide a program that deserves a 10 then.
+
+my teammates an' i do have a homepage, but we don't rlly use it. all chat is in a private repo on GitHub.
+• DATE: 2/3/2023, 4:31:48 PM
+the simplest, best way is to simply cache the image with `get` an' then display, ;p. 
+`randomSeed` actually wouldn't help you there. that's only for when the program reloads, but it still generates random values every frame.
+• DATE: 2/2/2023, 6:05:55 PM
+you have to import the filter script, but yes.
+• DATE: 2/2/2023, 4:36:53 PM
+@ALL
+why don't we all just move to the new thread, :). just sort the t&t by recent, look for CBF's comment, an' you'll find everyone there, ;p.
+
+@AGENT X
+an' the low scores come rainin' in, o.o.
+• DATE: 2/2/2023, 3:35:42 PM
+yep.
+
+pineapple?
+• DATE: 2/2/2023, 12:14:29 PM
+SMV has added you to the repo.
+
+great, :D! the challenge has already started, so you can start workin' whenever you're ready, :).
+• DATE: 2/2/2023, 8:19:07 AM
+all 3 rebuttals an' the original program you spun off of 'fore it was hidden.
+i could argue 'bout this for days tbh, but in reality, it doesn't accomplish anythin' if others don't see it.
+
+you can't stop voters. there's too many of 'em an' you can't contact 'em all to address the situation. even if you did, the next day you'd have 10 more voterz to address. rather than address votin', you'd need to address the creation of the projex. i only addressed the situation when i knew that the two creatorz were familiar with the community an' its expectations.
+
+SMV linked that one an' her rebuttal, but i hadn't seen this program yet, ;p.
+• DATE: 2/2/2023, 8:09:24 AM
+we're on GitHub in a private repo, ;p. if you have GitHub, i can send SMV your username to add you to the repo. if not, are you able to create a GitHub acc? i can make arrangements if you can't.
+
+pretty much. HSstudent16, Samwise, an' TML. not necessarily due to inactivity, but that's not too important.
+
+correction, how comfortable would you be with makin' SVGs for a webpage Liftoff is makin'?
+• DATE: 2/1/2023, 7:42:50 PM
+thanky.
+• DATE: 2/1/2023, 11:42:01 AM
+thanks!
+it's not finished yet, :(.
+
+the only kind of gamez i make.
+• DATE: 2/1/2023, 10:18:38 AM
+take a look now, ;p.
+• DATE: 2/1/2023, 10:18:29 AM
+it was. got smth together, but expect to see a slightly improved version on the HL soon, :p.
+• DATE: 2/1/2023, 10:18:00 AM
+fixed.
+it sure is.
+• DATE: 2/1/2023, 10:11:44 AM
+submitted. tryin' to fix the bugz elsewhere rn. 
+
+i'll respond to the rest of your wonderful comments later, ;p.
+• DATE: 2/1/2023, 9:55:48 AM
+```
+{
+    names: "ski",
+    captain: "ski",
+    link: "https://www.khanacademy.org/cs/-/4592469715238912"
+}
+```
+• DATE: 2/1/2023, 9:07:09 AM
+argh! there's a bug that i can't fix that no one seems to know the answer to, >:(. i don't think i noticed it in my backup.
+• DATE: 1/31/2023, 9:27:53 PM
+gettin' up early tomorrow to finish it. i'll deal. HS had better show up or he's kicked off for inactivity, ;-;. might get marci/The Lich King to replace him if that happens. in either case, we'd have to pair up differently. i'd have to work with Liftoff as no one else is a web dev, =/.
+
+not that i can use.
+
+yeah...
+
+respond to that tomorrow.
+• DATE: 1/31/2023, 7:25:34 PM
+it's at a relative's house miles away.
+i have enterprise enrollment, so the only way to unenroll the chromebook is to get a new one. 
+nope.
+• DATE: 1/31/2023, 7:08:34 PM
+that would assume i have my PC, :(.
+• DATE: 1/31/2023, 6:18:57 PM
+yes, but i can't access the terminal due to administrative restrictions.
+
+yeah, not on a PC, :(.
+• DATE: 1/31/2023, 5:27:12 PM
+it's stored locally, but they're stored in whatever file location i have up at the time. the file search would take hours if i left it runnin' an' i have work to do that would hinder the search, =(. there's no order to the madness, so i can't just find the most recent script an' i forgot the name conveniently so i'm in deep trouble rn if i can't find it. might just recode it at this point an' that might work just as fine ngl.
+• DATE: 1/31/2023, 5:14:27 PM
+oh an' if you ever wonder why i have this many backups, it's due to the fact that my school chromebook keeps crashin' in dev (like the whole screen turns black for a full 10 seconds 'fore it goes back to normal an' lags out), so i keep a bunch of backups whenever that happens so i don't lose progress.
+• DATE: 1/31/2023, 5:09:42 PM
+i meant bakin' powder lol. we just call it cocoa powder here, ;p.
+store-bought powder tastes like mud.
+
+argh! can't find the copy. have this partial WIP backup here, but i can't find the right script. have to go an' i don't think i'll get back on 'till late tonight, but the entry should be submitted by the morn' or early in the morn'.
+yup, that's me, xD.
+• DATE: 1/31/2023, 10:55:17 AM
+@Liam
+my program was completed 'fore the deadline last night, but my browser crashed. i have a backup at home, but that would be later this afternoon. i'm willin' to accept the late penalty but wanted to give you a heads up that there's an outstandin' entry.
+• DATE: 1/31/2023, 10:31:08 AM
+yup, :D!
+
+what brand of cocoa powder do you use?
+
+thanks, :D!
+they probs will. probs gon' submit after i get home 'cuz it doesn't appear to be in my private repo. tbh, it's pretty fair if they decide to dock points. i'll still ask, but don't expect a favorable response. doesn't help when i have hundreds of snippets with names like "o.o" or "yusss!" or "meh" or "WHY WON'T THIS WORK?!" or "idk what a computer is" or "i'm a terrible fool".
+• DATE: 1/31/2023, 7:00:10 AM
+gettin' there. almost found it.
+• DATE: 1/31/2023, 6:16:50 AM
+so, good newz: i finished last night. bad newz: my computer lagged out an' crashed my browser. i have the script saved somewhere on my comp but it's hidden somewhere, so i'm not gon' count it late per se. Liam won't care as long as it's 'fore he wakes up as it's still midnight somewhere else in the world, ;p. currently testin' a bunch of different versions rn.
+yeah, :D!
+• DATE: 1/30/2023, 9:10:06 PM
+no my color schemes lol.
+
+from experience that doesn't work, but that's a discussion for another time.
+
+i tried that an' then the sword couldn't move in tight spaces,, :(.[yes, two commas for a reason]
+
+for you not me.
+i have lil' under three hours.
+• DATE: 1/30/2023, 8:24:33 PM
+they are quite terrible lol.
+
+:p
+
+true. i can submit it for 'em if need be.
+
+oh dear, o.o. are you better now?
+well, you did, :).
+yes, it was.
+
+gtg for now. spent the last 30 minutes on utter garbage that i just discarded on sword logic [when to count the collision as a successful attack, hard to figure out what the right balance is since we can't have the sword goin' through wallz but what happens if it goes through the player an' then to the wall?].
+• DATE: 1/30/2023, 7:01:06 PM
+perfect, i'll that in.
+thanks, :D!
+i admit, i suck at graphix but i might give it a whirl when i completely finish my collab with bronte.
+
+so you want a hot cocoa out of necessity an' then dedicate it to me? 
+
+DL shouldn't be submittin' for this round i don't think.
+
+was your bio from earlier [i have a screenshot of it] for me? wanted to let you know i saw it if it was, an' i truly appreciate it. kindest thin' i've heard since Christmas, :).
+• DATE: 1/30/2023, 5:33:18 PM
+what do you think?
+it's just a normal book, but i'll let it pass, ;p.
+
+on my behalf lol.
+• DATE: 1/30/2023, 5:17:27 PM
+'ello, :D!
+
+pillowz shouldn't be this hard to make.
+
+yup. i have.
+gon' have dinner soon enough.
+• DATE: 1/30/2023, 4:27:01 PM
+perfect, i've sent your username over so you can be added to the thread, :D.
+
+a quick rundown for what you need to know.
+SMV will send you an invite to our repo [stands for repository which is a bunch of code for a certain project] within the next 24 hours. you will accept the invite (you should receive a notif; click on the bell in the top-right corner) an' navigate to the "Discussions" tab. should be straightforward from there, ;p.
+• DATE: 1/30/2023, 4:13:27 PM
+my potato of a school chromebook can view it lol.
+• DATE: 1/30/2023, 10:43:07 AM
+posted a stack overflow question to see if someone else knows. no existin' question had an answer.
+
+yeah, not a good solution, but if you're desperate, you're desperate, :p.
+
+yw, :D!
+• DATE: 1/30/2023, 9:46:05 AM
+as to your note in the other thread on IPs, i can't find anywhere that GitHub states that it shows IPs to others.
+
+every website you visit sees your IP [that includes GitHub] an' GitHub sees your general geolocation based on your IP [like every other website can; most certainly Google] [such as you live somewhere near Richmond in my case, but i live miles upon miles away in a suburb]. GitHub doesn't share location [SMV can testify lol] or IP based.
+
+all info stated 'bove can be found in GitHub's privacy statement in case you wish to know deeper specifics or are still concerned. if they did share IPs, the 100 million+ devs on GitHub might not be there since they know much better than any of us the danger of publicly displayin' your IP address.
+
+TL;DR GitHub doesn't show any info related to your IP includin' geolocation to others [unless you decide to], but stores it privately for GitHub's purposes.
+
+if you still don't feel comfortable usin' GitHub, i'll see if there's another method we can communicate on KA w/o others seein'.
+• DATE: 1/30/2023, 8:58:42 AM
+@Doglover
+due to the time crunch, SP's activity [our other new member, :D], an' round 2 bein' right 'round the corner [starts tomorrow], your entry will be in PJS.
+
+i'll be creatin' a quick course for SP to explain the new syntax/features for round 3, so all entries afterwards should be in the web environment which doesn't mean much for you but wanted to give you a heads up, ;p.
+• DATE: 1/30/2023, 8:54:01 AM
+all i can ask for, :).
+
+in the news thread, i think. this theme's challenge [which you won't participate in as the deadline is midnight today] is *Team Logos*.
+
+do you have a GitHub acc an' if not, is it possible for you to make one? our chat thread is over there to prevent stalkin' an' it's an excellent tool for collabs.
+• DATE: 1/30/2023, 8:46:46 AM
+@Liftoff
+85% complete. should be done by the end of tonight.
+
+
+@ALL
+new deadline is midnight tonight. less than 24 hours to put smth together, :).
+• DATE: 1/30/2023, 6:43:29 AM
+i don't want to put you in a situation you don't want to be in, :). the comp usually requires each participant to work for 3 to 5 hours a week.
+
+there are themes, but they aren't strict so you don't have to follow 'em.
+• DATE: 1/30/2023, 5:38:38 AM
+try now. i was importin' a script that existed when i created this example but no longer does. [faulty `src` attribute]
+• DATE: 1/30/2023, 5:27:08 AM
+hi, :D!
+yup. Bluebird's script has never truly worked an' the API was taken away so Liftoff's method doesn't work either.
+
+so, yes an' no.
+yes, there is a way, but it's certainly not easy by any means.
+normally, you could just set the `src` of an image to the base64 data an' call it quits, but you're on KA an' that's a CSP violation.
+to get 'round that, you'd have to draw the image off-KA on a canvas, get the `ImageData` that results, compress the image data, so it isn't a monster to save, then decompress the image data here an' draw it on the canvas with thumbnail.js. the compression part is not smth i'm familiar, but i'd be willin' to give it a go. if i could figure out how to do that, it'd pretty much be the equivalent of an Imagenator but not just for a singular data type (i.e. PNG or JPG). the compression would be hosted off-KA on GitHub.
+
+optionally, you could just upload your image to wikimedia an' then display it with thumbnail.js. your screenshot is now on the internet for anyone else to use, but that's already the case with your webpage since it's under the MIT license.
+• DATE: 1/29/2023, 9:19:37 PM
+```
+I am not the one to say, "I'll do it in the mornin'"
+I'd rather get it done, don't focus on what's not important
+``` - _Green Lights_ *NF*
+i'll probs stay up 'till it's done, 'cuz i can't let myself leave it unfinished. i just can't do it.
+there's more in my head then that, but i've gotta get to bed. see ya in the morn', ;p.
+
+i did. i'll ask SP real quick. Fireball won't cut it as there's so much to learn if you're goin' to be a game dev for me an' i need someone who knows at least a lil'.
+
+i'd move this convo to gh if you wish to continue it.
+• DATE: 1/29/2023, 8:00:35 PM
+as you can tell, i freaked lol.
+
+so much work to do. so lil' time to do it. won't be able to work on brave 'till 4PM when i get back from school an' then i have to grind it out 'till it's done [which might be into the wee hours of the morn', ;-;].
+• DATE: 1/29/2023, 6:35:20 PM
+oh, that i was moderated due to my post on the new Karlson as it claimed that i had no notifs ever.
+• DATE: 1/29/2023, 3:43:16 PM
+does that make ChatGPT your bff, xD?
+• DATE: 1/29/2023, 3:11:32 PM
+3 captains an' Liam agreed that was a better idea, ;p.
+oh i meant tuesday as the release day lol.
+
+score-wise FF's might win dependin' on how polished my entry will be.
+
+uh...
+• DATE: 1/29/2023, 3:04:20 PM
+due monday at midnight [deadline got pushed back]. submit the wip for CoC an' release the actual project monday.
+
+i don't think you've seen FF's entry as of late, :p. his is more polished than Levi's or mine, but might not garner the same attention.
+
+yeah...
+• DATE: 1/29/2023, 1:26:51 PM
+you haven't seen it in its full glory yet. once you see it tuesday, you'll see that the only similarities between valor an' brave [my entry] are the dev [me] an' the genre [fps].
+
+Levi's could certainly rival brave, but i'd say they're 'bout equal.
+
+name of a classmate. peepz were tryin' to label him as an HTML tag, so i made this, :p.
+• DATE: 1/29/2023, 8:28:37 AM
+@CBF/Liam
+mind if the deadline is pushed back 12 hours to 11:59 PM mountain time on monday?
+• DATE: 1/27/2023, 2:57:21 PM
+in ski.js? i just added a function `loadFont` where you just enter the font name.
+
+elsewhere? `_*https://www.khanacademy.org/cs/-/5442003232145408*_`
+• DATE: 1/27/2023, 1:16:10 PM
+yw, :D!
+
+yup. what goes on behind the scenes to display KA graphix.
+
+i have a demo here. literally the same as PJS.
+`_*https://www.khanacademy.org/cs/-/5099165982179328*_`
+
+nope. ES6 looks like this. there's more to learn, but it's not much for graphix devs.
+```
+function function_name (params) {
+    //KA allows these
+}
+//an' this
+const function_name = (params) => {
+    //pretty much the same thin'
+}
+//what you might be used to
+var function_name = function(params) {
+    //good ol' KA nonsense
+};
+```
+
+SMV's program was goin' to be converted after she released it, but given her current schedule she said she couldn't. to be clear, i could copy an' paste the exact same code into ski.js an' it would run fine. the only major difference that i encourage for graphix devs is function definitions [what i discussed 'bove]. i think i phrased it wrong 'fore. i strongly encourage the use of ES6+ syntax an' ski.js, but if you can't do it due to a busy schedule, i'm obviously not gon' be unreasonable. it shouldn't be too hard as you just declare functions differently. i can't rlly think of anythin' else you do differently.
+
+oh an' you can import Google Fonts if you care to.
+• DATE: 1/27/2023, 11:47:00 AM
+sure thing, ;p.
+• DATE: 1/27/2023, 11:05:44 AM
+nope, you get to choose if we can see your email. i think you have to fill out a field intentionally for your email to appear publicly, ;p.
+
+sounds good to me, :D!
+idrc if you decide to use the canvas API instead, but my library is more user-friendly.
+three main reasons as to why.
+1.) bigger projex can be created with ski.js' efficiency. PJS severely limits the creativity you can express with its terrible inefficient functionz.
+2.) it's a learnin' experience. everyone can now use ES6+ syntax an' featurez which makes codin' easier, not harder or more complex. ski.js also has additional functionality [mostly filters an' the new `curve` function] that can open up new opportunities.
+3.) last an' i think least, entries score higher if only by a slim margin. it just looks more impressive to some of the less experienced judges [every judge looks at every program].
+
+sounds good to me, ;p.
+• DATE: 1/27/2023, 10:33:43 AM
+to your question, only if you want to. the other two members are still technically on the team an' i can get 'em to submit a small smth if need be, but if you feel up to the challenge [deadline is monday] i can replace 'em now as the progress on the first round project would be the same.
+• DATE: 1/27/2023, 10:30:26 AM
+worse, laziness. they report to the chat thread but show no progress on their projex despite my urges to get movin'. i kicked 'em out lol an' went lookin' for peepz who ik would put in an effort.
+
+so the site itself is a dauntin' prospect that's meant for professional developers an' i don't even know 1% of the website other than the rlly simple stuff. however, we use the easy part of the site. you create an account an' give us your username. we invite you to a repo [short for repository. it stores a bunch of code]. you accept the invite [there's a notification bell that automatically updates] an' go to the repo. click on the "Discussions" tab an' you'll find our chat thread there.
+
+oh, smth that you might want to know is that you have to use the web environment/ski.js on my team [for reasons i can provide if you care to know 'em], *but* you pretty much code graphix as you would in PJS (i'm not even sure there would be any difference for you). your first challenge doesn't start 'till monday, so ask any questions you have 'till then, :D.
+• DATE: 1/27/2023, 10:20:25 AM
+hi, :D! works was done on GitHub durin' my ban, so i'll need to port it over when i get the time, ;p.
+• DATE: 1/27/2023, 9:55:19 AM
+two members were given two weeks to complete one project. one has nothin' done an' the other has just barely started [not even 75 lines of code]. as long as you have a few hours every week, i can't ask for anythin' more, :p.
+
+do you have GitHub an' if not, can you make a GitHub acc? we have a private chat over there an' it's a great tool for collaboration, :).
+
+glad that i could offer you a spot in CoC, ;p.
+• DATE: 1/27/2023, 9:46:50 AM
+that tells you how desparate KA is for decent content, :(.
+
+hmm, i'm not so sure.
+
+:D
+
+same to you, ;p.
+• DATE: 1/27/2023, 9:26:46 AM
+me neither.
+
+the nicknames i have earned, -.-.
+
+btw i'm still workin' on our collab, :). slowly. very slowly.
+• DATE: 1/27/2023, 9:01:39 AM
+perfect, thanks for the advice. i'll start askin' 'round right away.
+• DATE: 1/27/2023, 5:14:51 AM
+not crash, but runs at <5 fps.
+
+Chrome 107.
+• DATE: 1/26/2023, 5:41:01 PM
+wdym? i voted.
+• DATE: 1/26/2023, 5:38:58 PM
+true.
+
+i don't think CBF has been 'round for everyone mentioned in this thread.
+
+to note, Tectonic Horizon an' Sim G. were the same person, :p.
+• DATE: 1/26/2023, 5:14:26 PM
+@Liam
+i'm srsly considerin' bootin' two peepz off the roster once the round ends for lack of effort despite consistent reminders that they need to work if they want to be in CoC. one still hasn't started an' one has just barely started. just makin' sure it's legal.
+• DATE: 1/26/2023, 5:09:53 PM
+@ALL
+stop makin' me feel ol', >:(. i was 'round when all of these peepz were active an' now i'm gettin' nostalgic.
+
+the greatest graphix creator of all time. no cap. don't even try to argue with me. i'll fight you if you disagree.
+*kaid_1182432396044358055856640*
+• DATE: 1/25/2023, 4:13:10 PM
+ah, what kind of card game?
+
+still workin' in Unity?
+• DATE: 1/25/2023, 4:12:26 PM
+i said "one of the greatest" an' y'all seem to have thought i said "greatest".
+
+sure there are tonz of great graphix on KA, an' this one just joined the ranx, :).
+• DATE: 1/25/2023, 10:39:45 AM
+now's the time for "chap" to make a comeback lol.
+• DATE: 1/25/2023, 8:40:14 AM
+yw, :D! i think this might have more votes in the end than my highest voted project [tutol sits at 102].
+
+wait 'till after CoC to release any of that content, xD.
+
+i concur.
+• DATE: 1/25/2023, 8:34:12 AM
+congrats on 100+ votez, :D!
+• DATE: 1/25/2023, 6:05:22 AM
+ofc. fantabulous.
+in America, we don't care lol. doesn't matter who you are, it's pretty normal to be called dude. i think i originally got it from Captain Argon a couple years back [i'd read it in the original Sherlock Holmes books as well, i think].
+• DATE: 1/25/2023, 6:02:33 AM
+@Steven
+the best way to send your message would be to save it in the comments of a new program an' send me the link to it, :p.
+• DATE: 1/24/2023, 9:45:06 PM
+more like dock points for thinkin' i over-engineered it.
+
+alr, thanks, :D!
+• DATE: 1/24/2023, 9:18:23 PM
+yw, :D!
+absolutely crazy graphix dev.
+```
+_*https://www.khanacademy.org/profile/kaid_452123408199832603770169*_
+```
+it's not bad, chap. not bad at all, :p.
+• DATE: 1/24/2023, 8:32:30 PM
+somewhat off of what Henry said, i'm afraid that my code might not be understood well not 'cuz it's overly complex [it could be done more inefficiently with simpler methods] but that the level of complexity needed might be beyond what most judges will know. for example, there will be a RegEx parser for level creation. i'll do my best to explain, but the judgez need to understand RegEx to understand my code without just takin' my code for what the comments say.
+
+pls let me know if that doesn't make sense, an' i'll be glad to clarify, :D.
+• DATE: 1/23/2023, 3:04:25 PM
+that's a surprise, o.o.
+
+thank you, :D!
+• DATE: 1/23/2023, 12:34:56 PM
+ngl, that collab took more effort than this. not that this isn't a good project, but it took 3 days of non-stop work from the three of us to get it to a mediocre level.
+• DATE: 1/22/2023, 8:22:42 PM
+@IA
+then zoom out lol.
+
+@Astro
+i'll one-up you with 16 space indentation, ;p.
+• DATE: 1/22/2023, 8:10:28 PM
+get a bigger editor, :p.
+
+it's called laziness lol.
+• DATE: 1/22/2023, 6:17:14 PM
+@IA
+two space? :( four space? B).
+
+yup. it's a quote from DR. i can send you a link to it if you want it.
+• DATE: 1/22/2023, 5:50:12 AM
+@Noah
+it was a joke lol.
+• DATE: 1/21/2023, 9:19:46 PM
+@Paperwad
+it would screw with the schedule too much. i'd prefer if we didn't extend the deadline for TheDark.
+• DATE: 1/21/2023, 7:59:04 PM
+how much you sellin' it for? if it's a new sub page, i'll but it, :p.
+
+you're free to hold your opinion. i'm free to hold mine. i'm not here to win but learn. you can't learn if you're not willin' to put in an effort.
+i don't ask for the best work. i don't ask for the greatest programs KA has ever seen. i don't ask for the highest scorez. i only ask that i see effort. no effort, no spot on my team.
+• DATE: 1/21/2023, 7:35:46 PM
+you knew it was comin'.
+
+yeah, that might happen to a few members very, very soon 'cuz i see that you've gotten some blox down. they literally have one `rect`. that's it, smh.
+
+oof.
+go DR for livin' in the past, :p.
+
+o.o
+
+lol surprised you did that.
+contradiction, o.O? where?
+
+sir, how does it feel to have your quote in ski's bio?
+• DATE: 1/21/2023, 7:17:08 PM
+can't wait to see it, :D!
+
+```
+how could you doubt me?
+i've always delivered.
+rippin' the teeth out
+of the back of my mouth
+is the closest you'll get to my wisdom.
+```
+_CLOUDS (edit)_ *NF*
+srry. i had to, :p.
+
+this is what happens when you go to team Astro, smh.
+
+you must change it, xD.
+
+```
+https://www.khanacademy.org/computer-programming/spin-off-of-ice-slide-wcc/6116887574659072/latest.png
+```
+literally impossible to beat that.
+get rekt. you thought you had me.
+
+ikr? so many peepz will read my post an' think i have bias, but i rlly don't. glad that you see it the same way, :).
+
+edit: yeah! you added the proper title to the ASCII art, :D!
+• DATE: 1/21/2023, 7:06:31 PM
+@Noah
+or you can use ```ctx.globalCompositeOperation = 'source-atop'``` which looks a lot simpler than any maskin' tutorial ngl, :p.
+• DATE: 1/21/2023, 3:05:10 PM
+i mean `var` attaches each variable to the global `window` an' `globalThis` object, so you have a point, :p.
+• DATE: 1/21/2023, 2:22:18 PM
+some peepz spend their time huntin' down PII.
+otherz give PII away for free so they don't have to hunt it down.
+v(o.o)v
+• DATE: 1/21/2023, 2:07:49 PM
+41 minutes ago
+38 minutes ago
+29 minutes ago
+27 minutes ago
+• DATE: 1/21/2023, 1:26:12 PM
+not in an unexpected sense but more of a curious, unpleasant phenomena.
+
+am i surprised? nope. 
+do i like it? nope. 
+will i put up with it? yup.
+• DATE: 1/21/2023, 12:16:04 PM
+did i ever claim that anyone did anythin' wrong [even KA]? i don't think so. all i agreed with is that KA's activity levels are at an all-time low. 
+
+KA can handle the situation as they like; it's their site an' we live with their decisions. Emma can create whatever projex she wants to; that's her choice. can i still find it slightly curious that voterz shot this project to the top of the HL [which is no fault of Emma's]? i hope so.
+
+@DR
+too true. almost earned my vote ngl.
+• DATE: 1/21/2023, 7:33:19 AM
+"This speaks more-so to how KA is pushing their sites activity levels so *low* that the best coders left"
+• DATE: 1/20/2023, 9:50:22 PM
+how low can ya go? time to find out, =/.
+• DATE: 1/20/2023, 6:19:05 PM
+woah, y'all took it too far. i never claimed this was low kwality. i never criticized the program whatsoever. i only said that it wasn't acceptable for the voterz to send this project to the top of the HL not that the creator did smth wrong.
+• DATE: 1/20/2023, 5:18:10 PM
+@Samwise
+i think Liftoff means from the HL.
+
+if you could go check the team chat thread on the other place, it would be greatly appreciated, :D!
+• DATE: 1/20/2023, 5:00:55 PM
+@Dat
+it's not public 'cuz they hid it purposefully. did the same for another support post i made an' if you end up with the same case as mine, it will silently be deleted without any response, :).
+• DATE: 1/20/2023, 4:45:51 PM
+just 'cuz it's happened 'fore doesn't mean it's any more acceptable.
+• DATE: 1/20/2023, 1:22:07 PM
+nah, it's fine. the Guardians have rlly weird pet peeves to get used to, ;p.
+
+you're welcome, :D!
+• DATE: 1/20/2023, 9:09:15 AM
+@IA
+they are still active an' post in the team chat everyday, but they simply won't work on their entries. it's not inactivity but lack of grind [what a wonderful euphemism lol] that's killin' me team rn.
+• DATE: 1/20/2023, 8:55:24 AM
+@CBF/Liam
+hypothetically, let's say that i have a library. i add to this library for my entry to fit my needz, but the library as a whole wasn't created for the comp. is the addition still judged or no?
+
+at what point can we not reuse code? i remember last year it was when the homepage was released, but wanted to see if there were any adjustments to that policy.
+
+can we kick peepz off the team for not performin' even tho they're technically "active"? not just for a day or two, but for nearly a week where they have not touched their entry whatsoever despite constant proddin' from their captain to just start. i think a warnin' first would be prudent, but i wanted to see if i have that capability 'cuz i didn't sign up for a third of my team to vanish into thin air.
+• DATE: 1/19/2023, 5:12:33 PM
+there's your problem. school-issued Chromebooks are never up-to-date with bug fixes an' updatez due to administrative restrictionz.
+• DATE: 1/19/2023, 4:14:03 PM
+looks beautiful!
+
+it sure makes life easier, =P.
+
+curious to know why you import my least fav library in the header, o.O.
+• DATE: 1/19/2023, 6:26:16 AM
+@Liftoff
+uh, thumbnail.js can't fail. you have to replicate the thumbnail in a PJS format(ish) for it to show up when you press escape. it's the only surefire way that you can get a thumbnail.
+
+@SMV
+wake up at 5 everyday an' go to bed at 10. that's the way i grind, =P.
+• DATE: 1/19/2023, 5:44:09 AM
+@Liftoff
+thumbnail.js, =P.
+i think the API method doesn't work after they moved over to a new API, =/.
+• DATE: 1/18/2023, 9:21:45 PM
+yup.
+Dell has nothin' to do with what's supported an' what isn't. you are either on an ancient version of Chrome when IE was still a youngin' or smth else is wrong, :p.
+• DATE: 1/18/2023, 7:42:17 PM
+@Blind Scribe
+you do realize that you can't access KA with IE anymore, right? so Astro has no need to include `forwards`, =P.
+• DATE: 1/18/2023, 6:37:33 PM
+i think i push an object into each one in ski.js, but in reality, you can just check the length of the vertex array. i think the spread operator will be of use to you very soon, ;p.
+• DATE: 1/18/2023, 3:37:40 PM
+@Cowboy
+more reasonable doesn't mean that the main topic isn't any less mature or rational.
+
+i hadn't realize you had posted. that was to WinstonWinner000. my bad.
+• DATE: 1/18/2023, 2:53:14 PM
+you don't get it lol.
+• DATE: 1/18/2023, 2:40:25 PM
+i love how you managed to turn an educational contest into a matter of equity lol. give the man a prize, only a handful have that kind of talent.
+
+gl on your future projex btw.
+• DATE: 1/18/2023, 1:33:42 PM
+@Liftoff
+i don't know if you care to fix it, but the current thumbnail is messed up.
+• DATE: 1/18/2023, 12:18:18 PM
+'ello!
+• DATE: 1/18/2023, 12:15:09 PM
+if possible, i'd prefer if we send any confidential messages [messages regardin' current projex or plans for the future] to stay on GitHub, :).
+
+otherwise, chat [on-topic, :)] away!
+• DATE: 1/18/2023, 12:00:46 PM
+'ello!
+• DATE: 1/18/2023, 11:57:24 AM
+shift the logo a lil' to the left.
+
+did you like the `go to profile` link rather than linkin' the card itself? it's fine if you did, just wonderin', =P.
+• DATE: 1/18/2023, 10:01:08 AM
+@Dat
+code still needs to be clean.
+• DATE: 1/18/2023, 9:45:45 AM
+@Astro
+no, no, no.
+`dat = () => 'dat'`
+implicit returns save bytes an' time, ;p.
+• DATE: 1/18/2023, 9:38:15 AM
+an' call `mouseMoved` as the last line of code.
+• DATE: 1/18/2023, 9:34:46 AM
+ah, very last suggestion, add each member's avatars as their pfps on the members page.
+• DATE: 1/18/2023, 8:24:38 AM
+have you not saved? the scripts haven't been beautified [an example would be line 1001].
+
+not sure if we understood each other, but i meant on line 194 where you already have a `hover` effect in place. if you understood what i meant, you can ignore this comment.
+• DATE: 1/18/2023, 8:11:16 AM
+some of your scripts need to be run through a beautifier an' i'd personally add a `transition` for the `hover` effect for the "We are" cardz, but i think that's it, :D!
+• DATE: 1/17/2023, 8:58:52 PM
+it works, but you'll need `event.preventDefault()` in your key event listener.
+• DATE: 1/17/2023, 8:18:45 PM
+@Levi
+the best way is to release a new version of the script an' set the version `@[version]` to the version you just created.
+
+create a new release titled `0.0.1` with tag `v0.0.1` so GitHub will chill.
+once you've published the new release, just change the version (which is currently set to `latest`) to `0.0.1`, ;p.
+• DATE: 1/17/2023, 12:29:36 PM
+same as i told Levi. i'd rather my team learn more than any other team than score higher than any other team. everyone has to be ready to learn an' get out of their comfort zone on my team.
+
+imho, you can't make a decent library in two weeks [from experience =/]. two hardest parts will be `text` an' vertices without needin' the user to use a `start` command.
+• DATE: 1/17/2023, 11:01:26 AM
+oh, that makes sense, ;p.
+• DATE: 1/17/2023, 10:37:01 AM
+i'd think they are line #s, but that doesn't make sense.
+```
+3	size
+3	P2D
+125	line
+128	ellipse
+253	mouseX
+504	mouseY
+263	mousePressed
+264	mouseButton
+264	RIGHT
+272	mouseReleased
+277	keyPressed
+278	key
+278	keyCode
+280	keyReleased
+329	pushStyle
+333	background
+342	textAlign
+342	BOTTOM
+343	textSize
+346	popStyle
+459	color
+511	draw
+```
+• DATE: 1/17/2023, 10:34:57 AM
+_beat the rest of KA in 2022 CoC's first round; is the only returnin' captain._
+
+i feel like if you click on the member's cardz, they should send you to their profile without the need for the `Go to profile` link.
+• DATE: 1/17/2023, 9:44:58 AM
+3. alr then.
+5. true, but less functional.
+
+ofc, it's your work, :).
+• DATE: 1/17/2023, 9:13:47 AM
+2. oof.
+3. if you don't mind, i think i just replace the hero with a canvas an' draw a simple Japanese landscape on it. 
+5. the nav open animation is pretty slow.
+6. the leaderboard page could use some work. needz some spice to it, perhaps an animation to reach the current score levelz an' some minimalistic detail?
+• DATE: 1/17/2023, 9:09:06 AM
+hmm, we all start somewhere, =P. the script will work for what you want it to do, ;p.
+
+what are the numbers after line 24 for in your canvas script?
+• DATE: 1/17/2023, 7:06:25 AM
+@Liftoff
+that would assume the judges know what React is. only two will an' i can guarantee the rest won't based on their current programmin' experience.
+• DATE: 1/16/2023, 5:30:32 PM
+SQL could technically still be used if you have an outdated browser 'fore WebSQL was deprecated.
+
+i'd use indexedDB [the noSQL alternative that is currently supported] for a database in the browser.
+• DATE: 1/16/2023, 5:25:42 PM
+```
+opaque
+invert
+threshold [# from 0 to 1]
+brightness [# from 0 to 255]
+grayscale
+posterize [# from 2 to 255]
+sharpen
+sharpen2
+prewitt_x
+prewitt_y
+sobel_top
+sobel_bottom
+sobel_left
+sobel_right
+emboss
+outline
+darken
+lighten
+edge
+blur [# from 1 to 7]
+```
+
+`rgba(125, 225, 150)`
+• DATE: 1/16/2023, 4:10:40 PM
+we'll let Polar figure that one out, =P.
+
+Aliquis.
+• DATE: 1/16/2023, 8:49:32 AM
+Liftoff didn't get the memo lol.
+
+2. yup, got points taken off on my homepage for Primavera for usin' it.
+3. i'll be sure to keep that in mind, :).
+• DATE: 1/15/2023, 7:46:58 PM
+only for the 2D context sadly.
+
+i'll take a look, :).
+• DATE: 1/15/2023, 7:43:31 PM
+yes ma'am, he is, :D. wish you would've applied for CoC, =P.
+• DATE: 1/15/2023, 7:36:43 PM
+you can't get `imageData` from a WebGL canvas, =/.
+
+if you could send me the link to your project, i'll fix it for you, ;p.
+• DATE: 1/15/2023, 6:31:23 PM
+you can't grab two different contexts from the same canvas an' since i grab the first canvas element in the body with ski.js [reason why thumbnail.js works the way it does], the contexts clash. if i had to guess, you import ski.js first, then use WebGL.
+
+i figured out how to do it, but it's not entirely straightforward, if you care for me to show you how, :).
+• DATE: 1/15/2023, 3:13:04 PM
+idk lol.
+• DATE: 1/15/2023, 7:16:30 AM
+a few tips.
+
+1. i would suggest a more complex background, perhaps even animated [perhaps a `canvas` tag?]
+2. obviously members an' score page would be necessary for a finished product.
+3. to be a lil' picky it should be "The Team *that* Beats Them All" an' i'd prefer if my name was kept lowercase [line 102], :).
+• DATE: 1/15/2023, 6:49:56 AM
+no argument there.
+
+if WASM was practical on KA, it would be worth usin', =P.
+• DATE: 1/15/2023, 6:45:39 AM
+i just removed the IIFE an' there were no errors as Oh Noes ignores any errors that come from `script`s with a different `type`, :).
+• DATE: 1/15/2023, 6:40:51 AM
+originally, i didn't think web developers would be useful in later roundz due to the general transition towards gamez, but a few dayz after this program was created i realized that since all projex would be in the web environment, web devs would still be valuable teammates. 
+
+if i "hated web developers", i wouldn't have bothered to put them on my list, =P.
+• DATE: 1/14/2023, 9:27:50 PM
+they are simpler than we thought, o.O.
+• DATE: 1/14/2023, 8:00:35 PM
+every voter needs to see this. ^^^
+give the man a medal.
+• DATE: 1/14/2023, 6:46:02 PM
+ofc, you had to, smh, xD. this is what i do to my CS teacher everyday, an' he's learned to hate me for it lol.
+
+had no clue that existed, tbh, but now i do thanks to your enlightenment, :D. what would the purpose of the property be, o.O?
+• DATE: 1/14/2023, 6:44:42 PM
+there's always a time to try smth new, :).
+• DATE: 1/14/2023, 6:25:02 PM
+noSQL databases stored within the browser, multithreadin', asynchronous functions an' `Promise`s, rest parameters, inheritance, new built-in data type prototypes, an' the list goes on, :).
+• DATE: 1/14/2023, 3:18:54 PM
+great!
+
+`noise` is not fast which is the biggest issue. i'll release it in a separate repo an' give you the link to import as it's p5.js' `noise` stripped down for efficiency [you can already see what i'll use in my projex].
+width & height for text is way too buggy in PJS, so it won't appear in ski.js, :).
+• DATE: 1/14/2023, 3:07:26 PM
+@Samwise
+here's a basic demo, :). unless you use `curve`, it should work the exact same as PJS.
+`_*https://www.khanacademy.org/cs/-/5099165982179328*_`
+• DATE: 1/14/2023, 12:21:01 PM
+@HS [i don't think you mind me callin' you that]
+i've never used the KA extension to format code, but if it appears as clean code to you that follows generally accepted standards, it sounds good to me, :D!
+
+welcome Liftoff, :D! glad to have you with us, ;p. if you could read the advisory 'bove if you haven't already, it would be greatly appreciated, :).
+
+@Samwise
+would you be willin' to learn? ski.js is built to match PJS near exactly an' it's a lot easier than it looks, :).
+• DATE: 1/14/2023, 11:48:25 AM
+@ALL
+welcome to team ninjaz, :D! glad to have every one of you on the team, :).
+a few notes 'fore we begin the first round.
+while i cannot mandate anythin' for this team, i _strongly encourage_ that we all follow the standards below.
+```
+1. every project must be in the web environment. [if you are used to PJS, you will use ski.js, the canvas API, or whatever canvas library you wish to use as long as you can satisfy the requirement below]
+2. every project must utilize ES6+ syntax if JS is used. [ES6+ might sound dauntin', but it doesn't make codin' more complex, only easier]
+3. all code will be run through a beautifier 'fore it is submitted. super simple, super easy an' saves pointz.
+```
+i would be more than happy to help those who might need help with this transition, :D.
+
+lmk if you have any questions or concerns, :).
+
+@TML & Samwise
+is it possible for y'all to create an acc on GitHub? it makes for much easier collaborations an' would keep our team chat thread hidden from others, ;p.
+• DATE: 1/14/2023, 11:21:42 AM
+is CoC still a competitive competition if 42/59 [>70%] of the applicantz get selected? i think not, so i'd vote against an extra two roundz.
+• DATE: 1/14/2023, 8:29:17 AM
+@Polar
+just double checkin', but you do realize that Liftoff isn't on your team...
+• DATE: 1/14/2023, 8:24:01 AM
+i just ran a test an' looks to be a problem in your code. not sure where or what you think the problem is, but it seems to work as intended on my end.
+
+it needs to be `args[1]`. basically it checks for the 3 rgb values from the string an' adds the last value `args[1]` as the alpha value. would run if called like this:
+`fill(color(10, 20, 30), 40)`
+• DATE: 1/14/2023, 6:57:11 AM
+ouch, this looks rough.
+
+The Money Lord.
+• DATE: 1/13/2023, 4:59:26 PM
+lol, it's the image i chose not the code that makes you happy, xD.
+• DATE: 1/13/2023, 1:07:53 PM
+yessir, :D!
+• DATE: 1/13/2023, 8:28:47 AM
+this oughtta be fun.
+```
+1. HSstudent16
+2. Mojo1000
+3. Captain Longtreader
+4. Lemon Games
+5. Jake K.
+6. Liftoff
+6. TDJ
+8. CoraL
+9. YokieBob
+10. Electric Dolphin
+11. TheLegoMango
+12. 21262
+```
+• DATE: 1/13/2023, 6:26:15 AM
+@Liam
+did Polar an' Paperwad message y'all directly? didn't see it in the general chat over there [not here].
+• DATE: 1/12/2023, 9:26:42 PM
+you could add `;-;` at any point in your code so you work until you're satisfied [which may be what ski does for ski.js, Web Workers, an' WebGL].
+
+good point. i'll name the next one *greatest game KA has ever seen* an' pull a reverse psych trick, xD.
+
+been fixed for a while, ;p.
+
+oh boy.
+i'm into riggin' figurez that punch for me. not so much punchin' myself.
+• DATE: 1/12/2023, 7:59:27 PM
+i'd work in ski.js as it might not be the _exact_ same (arcs & ellipses are a lil' different).
+nope, not _yet_. still don't know why but it _should_ be fixed by the end of tomorrow.
+yup, :D!
+eh, not much i can do. it originally said "look an' i promise you'll regret it".
+
+why thank you.
+ay, i'm unbanned. what can i say?
+• DATE: 1/12/2023, 7:39:22 PM
+lookin' for your snarky comment?
+it's in my bio. was there 'fore he posted as he questioned the captain's decisions in the CoC chat thread, smh.
+• DATE: 1/12/2023, 7:29:09 PM
+i'm the beginner, =P. lol, this was 'fore i realized that there were only five roundz so i thought i'd be left with one round where i had to pick a noob.
+
+webpages won't be made an' if they are, i'd be the one to do it. web devs are less helpful as the comp goes on as everyone has to collab together as CoraL stated in her application, ;p.
+
+you're good.
+
+to note, i will be *strongly encouragin*' [_ahem_ mandatin' _ahem_] the use of ski.js, ES6+ syntax, an' the web environment in every project team ninjaz makes. comfort zone eliminated. don't tell anyone else yet. let's get settled in first.
+• DATE: 1/12/2023, 7:19:49 PM
+@Samwise
+the point was that there wasn't any trash talkin', =P.
+
+it took the moderators to be 24 hours overdue for me to pull out the capitals, so you probably won't be able to, =P.
+
+@CBF
+i'll keep it in mind, ;p.
+• DATE: 1/12/2023, 6:31:06 PM
+@SMV
+chill. it doesn't rlly matter, =P. CBF can think however he likes. you gotta respect a dude who started the greatest comp on the site.
+
+@CBF
+```
+but there's a big difference between confidence and arrogance
+you hearin' this?
+``` - _Nate_ *NF*
+i think yk what i mean.
+• DATE: 1/12/2023, 4:30:51 PM
+yup.
+
+*sigh*. yes, i s'ppose so.
+
+eye color: brown
+hair color: dark brown
+skin color: ever so slightly darker than a Caucasian's
+• DATE: 1/12/2023, 4:13:39 PM
+hey guys, :D! so glad y'all are here to win CoC with me, :).
+• DATE: 1/12/2023, 4:11:29 PM
+@Paperwad
+Liam said, "Can everyone start to create another list of 12 people?", so i assume it's a new list.
+• DATE: 1/12/2023, 2:43:04 PM
+captain present. homepage will be made soon, so Liam doesn't get spammed.
+• DATE: 1/12/2023, 2:42:02 PM
+@Liam
+three not two? just double checkin' not disagreein'.
+• DATE: 1/12/2023, 1:02:04 PM
+@CBF
+i understand how a draft works an' the costs an' benefits of pickin' certain peepz.
+
+imho, no reason to pick peepz ik i won't get which would defeat the point of listin' 12 applicants as our pix, =P.
+
+understood, but xacer won't work well in collabs an' i hold an ambivalence toward Akbaba's abilities if you needed an additional justification.
+• DATE: 1/12/2023, 11:39:39 AM
+'cuz i'm an overacheiver, =P.
+
+DR probs won't get picked first by anyone but Astro, but i don't think he will.
+
+that's my guess.
+• DATE: 1/12/2023, 10:54:45 AM
+@CBF
+i am skeptical of xacer's an' Akbaba's activity levels.
+NL an' i don't get along [more on my part than his].
+WalkWorthy will be taken by Levi first if i recall the draft order correctly. if not, he will be taken by others first.
+• DATE: 1/12/2023, 8:18:53 AM
+yup, =P.
+
+riggin' a character allows me to move its limbs. i would need the full body of the ninja.
+
+shoot, i forgot he had WCC as well. i'll switch Samwise with Ace for a safer bet. Samwise had been pretty solid last CoC. i don't expect to get snaked for any of my pix in the first two rounds, but we'll see. i think if anyone decides to snake you or DR, that would be a huge surprise an' loss for them. i need another [or backup] graphix dev, but i'm also tempted to take Chase earlier.
+
+FF isn't on my list since ik that Henry already has him on his.
+
+Liftoff won't be higher as web devs won't help unless the whole team is for web devs which won't happen due to the limited talent. TDJ an' Lemon could rlly switch places, but i think TDJ might be more prized by other captains, so Lemon would be second.
+• DATE: 1/12/2023, 6:47:06 AM
+```
+1. SMV
+2. Dominic R.
+3. Samwise
+4. Chase L.
+5. TDJ
+6. Ace Rodgers
+7. Lemon Games
+8. Captain Longtreader
+9. Mojo1000
+10. YokieBob
+11. Liftoff
+12. CanonRouge24
+```
+
+@Henry
+nice to see you too, =P.
+• DATE: 1/12/2023, 6:08:52 AM
+the bio, =P. last year i was on Team Neutrons, =P.
+
+would be nice, but thinkin' 'bout it, i wouldn't be satisfied with myself if i didn't rig the ninja.
+
+bro, no way. tell 'em that i am a pro at playin' that thin'. whenever they need to use it, i'll show up an' won't charge a penny.
+
+edit: redid my list, so we'll see how this turns out. cannot believe FF is second on Henry's list right after xacer.
+• DATE: 1/11/2023, 9:09:42 PM
+it's a copy of last year's, xD.
+
+i'll think on it, -.-.
+• DATE: 1/11/2023, 9:08:50 PM
+yuss, finally, :DDD!
+
+i promised Liam at least 'til the end of CoC, so there's that. not postin' on pretty much any project besides CoC or to praise another user's work. after CoC, we'll have to see.
+
+honestly, you should be higher [i might go back an' edit], but i was rushin' the list so the last 6 or so are in no particular order.
+probs won't. new subpage will come out soon instead, ;p.
+• DATE: 1/11/2023, 7:55:51 PM
+ofc.
+ah, you an' me both. waited 29 days for this. fully prepped an' ready.
+nah, we need a team name. i'm thinkin' *legendz*.
+
+sounds good to me, ;p.
+• DATE: 1/11/2023, 7:43:38 PM
+i take that _back_.
+
+no reason to bemoan the past.
+
+now to work on that new subpage with the new fav font...
+• DATE: 1/11/2023, 7:40:29 PM
+thanks, :D. jit too, =P.
+• DATE: 1/11/2023, 7:37:42 PM
+i am not back. i am front.
+
+lol, you have no clue how much effort it took to get here, but it was well worth the wait, =P.
+• DATE: 1/11/2023, 7:27:12 PM
+i just said i wasn't.
+
+:D
+
+me too, :).
+
+yessir.
+• DATE: 1/11/2023, 7:22:16 PM
+a penny more an' a day early, ;p.
+
+feels so good to be in this thread.
+
+*edit*: suggestion that all captains/judges of CoC downvote all judge/captain threadz like last year
+• DATE: 12/12/2022, 10:57:33 AM
+anyone know how american football is played?
+• DATE: 12/6/2022, 8:03:05 PM
+@SMV
+those users have nowhere to go. there's no site with KA's content. Python 3.0 was slower on the backend not frontend so we'll never truly see the impact but KA will. if KA improves or learners on every other section of KA except the KACP are able to excel better than they could 'fore (or even just one section), then it's worth it. the issue is that KA has just gone downhill. very few badges [hundreds less iirc]. no more backgrounds. crazy buggy discussion platform. all of these *hurt* learners. KA wants to die. that's their mission.
+
+the very definition of bandwagon. someone hasn't been on KA recently:
+_"KA has an impeccable track record of sticking to their word, and delivering the right content at the right time."_ - G. Tarun approx. 2 months ago.
+• DATE: 11/14/2022, 5:20:48 PM
+if you wanna see me one-up you (the comment in your code), i recreated noise here. crazy fast ngl. need to make it WebGL though...
+
+`_*https://www.khanacademy.org/cs/-/6686879353716736*_`
+• DATE: 11/12/2022, 6:37:03 AM
+hey there, :D!
+fixed, =P.
+great, :D!
+you sure did, :D!
+pretty much, :D! not quite as active, but still active.
+it should still work. KA only broke notifs from t&t i think which is why i didn't see this right away lol.
+
+decent. just picked it up again. got a lighted, textured cube an' image filters for the latest version of ski.js, :D! (hopefully the last for a while...)
+• DATE: 11/10/2022, 2:48:13 PM
+correct me if i'm wrong, but i think a Maclaurin series would do the trick for improvin' the efficiency, potentially greatly. you gave me one when i was computin' `noise` iirc. i could explain further if i just rambled lol.
+• DATE: 11/8/2022, 12:42:08 PM
+summon lightnin', send fiery orbs, shoot blasts of magic, an' whack peepz with their staff (they'll actually be decent against swordsmen).
+
+they won't be animated i don't think. i'll transform the still graphic instead.
+
+xD, i have no clue why they do. `#.toString(2)` works better...
+
+nope. if you make a call to the API for this comment elsewhere (like viewin' it from Astro's project), then the issue will be fixed until you post again. i had to use Astro's project as i couldn't see your post.
+• DATE: 11/8/2022, 10:01:35 AM
+1.) ik just forgot to change the comment. thanks tho, :).
+
+2.) that's how the `main` function is defined in C which is what GLSL is based on. the `main` function looks like this in C.
+```
+int main () {
+    //main code
+    return 0;
+}
+```
+3.) what's the difference when adjustin' resolution?
+
+4.) do you know why some programmers use `void` as the parameter? was it needed to patch an ol' version of GLSL?
+• DATE: 11/7/2022, 8:31:49 AM
+lol, just churnin' out dumb memez lol.
+• DATE: 10/31/2022, 9:23:47 AM
+it's gotten worse, but it's out of our hands unless we hire a private investigator or report Y to the authorities in some other fashion but i don't think we'll ever get enough to dox Y on our own.
+
+the situation hasn't entirely resolved itself, but we're currently stuck between a rock an' a hard place with no progress over the past few days. at this point, i can't do much else other than sit an' watch.
+
+i won't mention names for reasons i'm sure you will understand, :).
+
+i was approached by a user, i'll call him X, a lil' bit ago that there was an urgent situation regardin' bots. a user who you know, i'll call him Y, had been generatin' bots over a prolonged period of time. 1 million bots. X had created his own bots, but not for the malicious purposes that Y had an' shared his bot gen script with me. they were quite similar to that of Y, if not better. sent most of what we knew to KA (what i've said here. there's more but i can't discuss that here.) as well as the developments that have occurred over the past week or so to get 'em to stop the creation of bots entirely. KA did what KA does best. i'm sure you have an idea what that would be.
+
+if you want to know more, i've added info on my GitHub bio (github . com / thelegendski).
+
+i've resumed development on all collabs (an' added another one to the list, smh), so there should be progress soon, :D.
+• DATE: 10/18/2022, 7:18:34 PM
+ofc not. i just have this thin' against jQuery. it's terrible in so many different respects.
+
+first, developers are too reliant on it. 
+second, it doesn't actually make life easier by a wide margin.
+third, it's inefficient an' massive.
+fourth, the creator is now a part of KA's dev team who have proven themselves worthy of another outage.
+• DATE: 10/18/2022, 4:18:12 PM
+@Astro
+how did you read my mind 4 hours 'fore i posted, o.O?
+• DATE: 10/15/2022, 6:55:00 PM
+true.
+
+me neither. might do some research, :).
+• DATE: 10/9/2022, 7:49:54 PM
+yessir.
+• DATE: 10/8/2022, 10:20:59 PM
+hoorah! now to stop him from reappearin'...
+• DATE: 10/7/2022, 5:33:13 PM
+your parents don't rule the world.
+• DATE: 10/7/2022, 5:32:32 PM
+hmm, the magic part might be a stretch. there are two sides in a great war. one focuses on innovation, the other on magic. we follow a character on the magic side which is clingin' to the ol' traditions. he wishes to avenge those who innovate for...well, just to keep the mood light for stealin' a pineapple, xD.
+
+well, we're still decidin' on what it's goin' to be, so i haven't made much.
+• DATE: 10/7/2022, 5:04:38 PM
+this thread will be deleted in 5 minutes. 
+
+i'm goin' to log into FF's account an' delete it.
+• DATE: 10/7/2022, 4:36:18 PM
+thanks, :D!
+• DATE: 10/7/2022, 4:03:35 PM
+thanks?
+• DATE: 10/7/2022, 9:01:12 AM
+yay, :D!
+• DATE: 10/6/2022, 4:51:58 PM
+hmm, not rlly, :p.
+• DATE: 10/5/2022, 7:02:36 PM
+@HSstudent16
+xD
+
+@YokieBob
+it's not. a less skilled programmer who i'm not fond of. if you care to know who it is, i posted on one of the spin-offs with my accurate suspicions.
+• DATE: 10/1/2022, 3:47:06 PM
+@DR
+i'll sum it up for you.
+
+WKoA has refused to comply with the ToS that he agreed to. this caused quite a conflict with the Guardians an' still does.
+
+a lil' over a week ago, i was quite unhappy with CL (i think you saw) for the poor effort that he continually puts into his projects. the thread got out of hand an' i deleted it. in that thread, WKoA popped up an' i left a rather snarky comment for him. i had originally left a much harsher comment in the Khancorrenza "trash" thread, but it was hidden for whatever reason an' consequently deleted.
+
+it ought to be noted that he took rather drastic measures when he wasn't banned by postin' a highly controversial flag an' intentionally targetin' the "liberal" population of this site. he has noted that his sole goal is to eradicate the site of LGBTQIA+ programs.
+
+in the Khantober thread which has been deleted due to spam, i had attempted to post another snarky comment to a user who had been banned comparin' him to WKoA. the attempt never followed through, but a project with my post in the comments remained. WKoA found the post an' decided to leave a comment of his own. he alerted the Guardians of my "rude" behavior (who acknowledged his alert), but over the past 3 days no action has been taken. i've been harassed since.
+
+let me know when you see this an' respond as you see fit. this project may be deleted at any time in the near future as you are aware of the situation which should be sufficient. i would prefer to leave WKoA banned if possible.
+• DATE: 9/29/2022, 9:16:26 PM
+KA already stores the project data on their end without the need of your replit. i deleted it so you'd stop poppin' up.
+
+you're startin' to sound more an' more like Drained.
+
+dude, lay off.
+
+it's an online _learnin'_ platform, but your sole goal is to discriminate against another group. LGBTQIA+ are still people. they're just like you an' me. just 'cuz you don't agree with 'em doesn't mean you get to wage war.
+
+you're stubborn an' insensible simply due to your ignorance of others an' the rules set in place by the Guardians. go make your own learnin' platform if you don't like KA.
+• DATE: 9/27/2022, 7:29:07 PM
+@DR
+eh, some peepz have. most likely due to the downvote or perhaps misguided preconceived notions.
+
+@Chester
+thanks, :D!
+• DATE: 9/27/2022, 1:10:02 PM
+ik. he's already said that he can't match me, so he'll live in peace.
+• DATE: 9/19/2022, 9:53:08 PM
+@CL
+i appreciate your response. i have decided to neglect to respond in kind as everythin' that should be said has been said (at least to you).
+
+i have the right to freedom of speech. if you don't like what i have to say, ignore it.
+
+the reason why i don't capitalize "i" is due to the stress it puts upon oneself. i see it as selfish. in addition, it makes the glorious Name of our Heavenly Father stick out a bit more, no?
+
+the choice of apostrophes is dialect.
+
+@WKoA
+quit with the trite phrases.
+• DATE: 9/19/2022, 8:23:18 AM
+i honestly just couldn't think of much else on the spot. i'd put "wonderful teammate" if this was a team comp.
+
+that makes two of us, :).
+```
+Maybe you're just like me and feel the need to stay in your rut
+'Cause if you left it, you might feel like you're no longer you
+``` - _JUST LIKE YOU_ *NF*
+• DATE: 9/18/2022, 7:32:48 PM
+thanks, :D!
+
+that's what marketin' came up with, :p.
+• DATE: 9/18/2022, 7:28:49 PM
+it _could_, but the Guardians hate that. it only creates an' sends messages in this program alone, :).
+• DATE: 9/18/2022, 2:36:03 PM
+at graphix? hardly.
+
+hmm, either reach a certain rank, find a certain person, or avenge an enemy.
+
+:D
+
+as soon as you get back, drop a post here an' i'll get to it, ;p.
+• DATE: 9/17/2022, 4:29:22 PM
+ayyy, you joined the apostrophe gan', :D!
+
+yw, :D!
+
+ty, :D!
+• DATE: 9/16/2022, 8:28:38 AM
+ayyyy yw :D xD
+
+i think we shouldn't be the ones to judge that. we would take it upon ourselves to be God an' judge others by what we _perceive_ to be their character.
+
+yessir.
+
+haha, i'm nowhere near southern, :p. i lived most of my life in Las Vegas & NJ.
+
+same, :).
+• DATE: 9/11/2022, 10:41:33 AM
+@YIVauEivoj YIVauEivoj
+the Guardians are rather indiscriminate of what they hide based on _users_. now, discrimination against the content of the program rather than the Guidelines is quite arguable, but that's for another day somewhere else.
+
+they have hidden `externals` every single time it pops up on the HL up until, well, now. they might have the weekend off, or maybe they've decided it isn't worth their time. perhaps Guardians are leavin' due to KA's executives (see KA's Glassdoor reviews) an' now they're understaffed. whatever the reason is, the outcome is the same. these projects have yet to be hidden.
+
+@HSstudent16
+i wonder if they would let wikimedia images fly...
+on another thought, i wonder what their restrictions against API calls from PJS will be.
+
+i've been told by Evan that *any* use of `externals` will be hidden from the HL, regardless of its actual use. perhaps the policy changed without notice.
+• DATE: 9/10/2022, 9:45:41 PM
+it sure is, :D! it's the one an' only legend that never finishes what he started. let's hope he finishes this.
+
+thanks lemon, :D!
+• DATE: 9/9/2022, 9:56:16 PM
+nope.
+sure thing, :D!
+• DATE: 8/24/2022, 3:46:37 PM
+there actually isn't a "canvas" method.
+
+there are two methods. Polar's stubborn method (which Henry originally used) an' the stylesheet method.
+
+Polar's method calls the font in a script, but you have to have the link to the font's file in Google's server in order to use it rather than just the name.
+
+i prefer usin' the `link` method which you normally use. 
+`<link href = 'font link here' rel = 'stylesheet'>`
+then call `textFont(fontNameInStringForm, fontSize)`
+you don't need to wrap the font name with `createFont`.
+
+you may ask, why not add a `loadFont` function? the reason is that the page doesn't load twice, so if the `draw` function isn't used an' the `text` function not made `asynchronous` (which would screw so many more things up) your font would never load an' the text would be set to the default `sans-serif`.
+• DATE: 8/11/2022, 5:14:47 PM
+so, this version sucks. go to the one here for a _much_ better version.
+
+`_*https://www.khanacademy.org/cs/-/4791341272317952*_`
+
+if you have any troubles, link the program an' i'll help out, ;p.
+• DATE: 8/10/2022, 12:53:30 PM
+collisions by technical definition is to check whether two object intersect.
+
+physics is the behavior that should follow a collision.
+• DATE: 8/5/2022, 2:55:38 PM
+heyo, :D!
+
+i think either Liftoff or Leviathan invented the method. i've used it for the mountaintop homepage an' trava, an' i must tell you that it's a pain to deal with, hence thumbnail.js.
+
+anyways, here's how it works. 
+```
+1.) grab your base 64 image data. 
+2.) open the *Network* tab in your browser's console
+3.) you should see a request sent that begins with your project ID. *right-click* on it.
+4.) under the *Copy* menu, select *Copy as fetch*
+5.) go to the *Console* tab. 
+6.) *paste* the data
+7.) there should be a long string containin' the base 64 image data (under the "image_url" key tho don't look for "image_url" as the JSON object isn't well formatted). *replace* the base 64 image data with yours (note that it only works with PNGs an' GIFs).
+8.) *press enter* to send the request
+9.) *enjoy* you hard earned thumbnail! 
+```
+once you've done it, it's pretty straightforward. just make sure that you have saved a copy of the base 64 image data in case you need to make changes to the webpage after release, :).
+• DATE: 8/4/2022, 10:59:34 AM
+the most important part is that you can use `import` in the `module`, but not with Some Name's method (no offense meant to Some Name).
+• DATE: 8/4/2022, 10:21:51 AM
+we were talkin' bout portin' scripts from GitHub to KA. if you wish to use ES6+ classes in the KA HTML environment, you can simply assign the `type` attribute to `module` an' not use the brackets, :).
+• DATE: 8/4/2022, 10:21:00 AM
+ah, you have my understandin'.
+• DATE: 8/1/2022, 1:56:09 PM
+huh, that's odd.
+• DATE: 7/28/2022, 2:21:12 PM
+thanks, :).
+
+ah, thanks for the tip!
+
+there isn't? hmm...ig i'll just loop backwards then. is there a reason why `.forEach` is the only forwards loopin' method that does not produce the glitch?
+• DATE: 7/26/2022, 10:37:17 AM
+JavaScript is built on C++ which is built on C, at least that's what i've read. online sources don't give a very clear result.
+• DATE: 7/26/2022, 9:56:58 AM
+alrighty then. now i've gotta find some newz.
+• DATE: 7/18/2022, 6:54:06 AM
+well, anyone can find through the API that the project was created on August 20th, but i'm not sure if that's the exact date or not.
+• DATE: 7/16/2022, 9:49:36 AM
+i went through some of your code an' will continue to further make it efficient in the future. you can easily manipulate arrays like so (tho in the web environment, it's much easier).
+```
+//copy arrays
+Array.prototype.copy = function(){
+    return this.concat();
+};
+var a = [1, 2, 3];
+var b = a;
+b.push(4);
+println(a);
+println(b);
+
+//check if two arrays are equal to each other
+Array.prototype.equals = function(arr){
+    if(this.length === arr.length){return this.every(function(item, index){return item === arr[index];});}
+};
+var a = [1, 2, 3], b = [2, 2, 3], c = [2, 2, 3];
+println(a.equals(b));
+```
+• DATE: 7/13/2022, 10:50:02 AM
+yeah, fixed, :D! thanks for the help, :D!
+
+now, nearly thrice as fast, o.o. still think `async` might be faster...i'll have to try.
+
+ah, that's why. thanks for lettin' me know, :D!
+• DATE: 7/11/2022, 12:40:13 PM
+then the legend outdid himself AND HSStudent16.
+`_*https://www.khanacademy.org/cs/-/5725226885758976*_`
+
+messy code go brr.
+• DATE: 7/11/2022, 11:04:32 AM
+huh, that's odd...
+• DATE: 7/11/2022, 9:41:26 AM
+`get` only causes lag due to the crappy PJS library.
+• DATE: 7/10/2022, 2:16:25 PM
+MS Edge, the router doesn't exactly send a message, it does this weird thing that sends me to the "Hmm...the connection was reset." page.
+• DATE: 7/7/2022, 10:26:11 AM
+ah, a lack of understandability. the same reason lawyers an' CPAs have job security, lol. GitHub helps with that a lot if you're addin' you're own scripts or plug-ins. you can find me on GitHub @thelegendski. Vexcess is on there too.
+`_*https[colon]//github[dot]com/thelegendski*_`
+
+sweet music to my ears. this heat wave probs makes the walk miserable, :(.
+
+my pop says he felt a callin' from God to become more self-sufficient an' have financial freedom (aka no debt) in Jan. of 2020. i wish we knew why we haven't found home. we thought a couple years back it would take us 1 months to get to our next home. now it's been 25.5 months...ig it's a miracle in itself that we have relatives who will take us in.
+
+sure thing. just make sure yk when to leave, ;p.
+```
+some days, i just want to leave the negativity in my head.
+i just want relief from my stress.
+``` - _My Stress_ *NF*
+
+yup. that's what we've said for 2+ years. trustin' in people is hard enough. trustin' God is so much harder.
+• DATE: 6/2/2022, 11:01:52 AM
+@CompoundMaster
+let me know if i overcomplicated it for you, :).
+`_*https://www.khanacademy.org/cs/-/6684461454901248*_`
+• DATE: 6/2/2022, 5:51:41 AM
+i second this motion.
+• DATE: 5/31/2022, 10:22:47 AM
+well, that's what they claimed. no one's sure.
+
+haha, that just shows you how desperate i am to hide from certain stalkers.
+• DATE: 5/31/2022, 7:08:17 AM
+yup, :D! mostly 'cuz i'm figurin' out which pathinfindin' algorithm to use.
+• DATE: 5/30/2022, 5:49:39 AM
+yup, Polar's right. it means downloadable content, usually for games to mean content that needs to be purchased separate from the game itself.
+• DATE: 5/30/2022, 5:43:39 AM
+that's the canvas api. not me, =/.
+• DATE: 4/27/2022, 4:06:16 PM
+haha, thanks, :D!
+• DATE: 4/26/2022, 6:30:05 AM
+we'll now diagnose this issue as marci syndrome, =P.
+
+no worries at all, ;p.
+
+the fact that i'm willin' to put that in my bio or what Lemon said?
+• DATE: 4/15/2022, 10:08:56 AM
+if i do get an outdated library, i scream an' jump up an' down lol.
+
+that reminds me, i plan on makin' a portfolio in HTML for the next challenge. my "language" to learn is CSS logic an' advanced selectors. anythin' specific you want in there?
+so far:
+a.) thank the peepz who've helped me out. Quinn Hardbrook especially for lookin' like a fool to prove my points.
+b.) a list of 20 fun facts but 2 weekz after the trend lol.
+c.) some rap, perhaps?
+d.) list of employees at ski co.
+e.) allow users to post in the t&t any questions they want to ask my manager.
+• DATE: 4/14/2022, 3:02:27 PM
+it does, but you have the Guardians an' KA tryin' to destroy itself.
+
+tomorrow, bright an' early...the only thing i'm missin' is a briefcase an' NF, =P.
+• DATE: 4/13/2022, 1:27:55 PM
+2.) i hope so.
+6.) at least you bothered to learn OOP. unlike ski who took 4 months to finally realize that OOP wasn't for people who want to overcomplicate code.
+7.) i think i can, =P.
+8.) Major Mono Display, Grenze Gotisch, Cormorant Garamond, Staatliches, Varela Round, Patua One, Josefin Sans, Ubuntu, Unica One, Inconsolata. to name a few, =P.
+9.) NF = fire
+12.) at least our restricted environment doesn't cause as much lag, =P.
+13.) stop being Dominic
+16.) i ask NP, "why did you use `rect` over `curveVertex`?". classic NP response, "I did that because I'm terrible at `curveVertex`. It's so much easier to use math than to bother with tricky stuff like that."
+
+nope, the real reason everyone loves minecraft is that they used Steve, xD.
+• DATE: 4/13/2022, 9:12:32 AM
+i did a test to see if anyone read my bio, an' one person responded within an hour, o.O.
+• DATE: 4/11/2022, 12:43:02 PM
+@tokajothepumi
+i like to at least set reasonable goals.
+
+@Polar
+this is more a certification of blindness if you will.
+
+@VEXCESS
+whoops! i got sidetracked an' didn't finish my post. i meant within the next 24 hours.
+• DATE: 4/7/2022, 1:16:18 PM
+so, i ran the project at the maximum possible speed that `setInterval` would go, an' i got this.
+`_*https://www.khanacademy.org/profile/themischeviouspachyderm/projects*_`
+
+lucky for me, i had the ingenious idea of lookin' at the network tab in my browser's console. here's the good news an' the bad news.
+good news: so, it is doin' as i said above where it's sendin' multiple requests to KA, but not for the reason i thought. whenever KA tries to create a new webpage, it errors out as the script runs over it to an extent. the only issue is that the webpage is still saved. so, KA tries to continuously create new webpages until smth clicks on their end.
+bad news: 
+a.) i now have an alt filled with 20+ programs of a singular project.
+b.) i only saw 4 projects error out, but as you can see, there are way, way, way more. took a good 20 seconds to save the project.
+c.) someone could use it to boost their project on the HL by simply creatin' a ridiculous amount of spin-offs.
+
+edit: nevermind, i just tried with an alt an' 120 spin-offs didn't move it on the HL at all.
+• DATE: 4/7/2022, 10:06:08 AM
+yup!
+
+a few ways to do it.
+a.) go online an' find a PNG to base 64 converter (there are tons out there). i even know one on KA if you want the link.
+b.) if you want to copy a KA project to base 64 data, you'll need to use some `canvas` element methods. here's an idea of how one would do it in PJS.
+```
+//top of code.
+var externals, canvas = externals.canvas;
+//end of code.
+//you'll need the browser's console as println is a lot more resource intensive an' will crash your browser.
+debug(canvas.toDataURL());
+```
+
+just remember that your file shouldn't exceed 750kb. otherwise, KA won't take it.
+• DATE: 4/6/2022, 3:07:45 PM
+i believe you once said that you're a master of overengineerin' or smth of the sort. i must be your apprentice.
+
+'cuz accessin' `canvas` is much more fun. who doesn't want to create an HTML image element in PJS without HTML? found a hybrid. the legitimate reason as to why is that i can use the same method for wikimedia images, so that means i could create a function for both.
+
+edit: on second thought, yours is much easier to incorporate elsewhere.
+
+edit (2x): works wonderfully. thanks!
+• DATE: 4/6/2022, 1:58:27 PM
+more like:
+```
+nf.constructor("const img = new Image(); img.src = 'https://www.khanacademy.org/cs/-/123456789/987654321.png'; img.crossOrigin = 'Anonymous'; return img;")();
+```
+• DATE: 4/6/2022, 1:33:20 PM
+no, don't you dare.
+• DATE: 4/6/2022, 9:46:46 AM
+yw, :D!
+• DATE: 4/4/2022, 3:07:22 PM
+haha, at least i'll get third place, ;p. GW probs beat me to second, o.O.
+• DATE: 3/30/2022, 1:53:36 PM
+a.) ah, the downfall of Bob. or is it NP?
+b.) ah, alright.
+c.) i guess we all have our forms of enjoyment.
+• DATE: 3/26/2022, 6:12:09 AM
+actually, he learned it from VEXCESS, but the trick has been 'round for quite some time, :).
+• DATE: 3/25/2022, 2:44:24 PM
+insult? i'd say i'm merely observin' the world 'round me. tell me how i'm wrong for this particular circumstance. don't give me a bogus excuse or say how you're right in smth you can't prove. own up to your actions.
+• DATE: 3/24/2022, 8:16:26 AM
+just as a note, it's near impossible to get Liftoff to give someone a 7. even if JS gave them a 10, the _max_ score anyone on the team Liftoff judged would be 8.5 which is unfair regardless of whose team he's judgin'.
+• DATE: 3/24/2022, 5:56:39 AM
+tutol's collisions were much different (an' parhaps easier) as they were circle-rect collisions which relied on trig rather than determinin' the angle.
+• DATE: 3/22/2022, 3:27:53 PM
+sounds good, :D! let me know when you finish, ;p.
+• DATE: 3/22/2022, 3:21:32 PM
+yup, :D!
+• DATE: 3/22/2022, 1:03:26 PM
+ignorance is bliss.
+• DATE: 3/18/2022, 5:25:50 AM
+true, but two animations might be a bit much, =P.
+
+issue i thought we might have is that it focuses on "I" which isn't much of a team motto. i'll go ask in the team thread what everyone thinks.
+• DATE: 3/17/2022, 4:12:40 PM
+_
+Coding is Magic Challenge
+
+Coding is magical, and your goal for this challenge is to bring some magic to the hotlist. Maybe make a magically themed game, or experiment with a new concept. However you interpret it, let's make some magic!
+
+Deadline: 4/4/22
+_
+• DATE: 3/17/2022, 3:11:21 PM
+you can work on the first challenge (or any challenge besides the final challenge) at any point 'fore the deadline of that challenge, =).
+• DATE: 3/17/2022, 1:36:08 PM
+[*redacted*]
+• DATE: 3/16/2022, 2:34:12 PM
+some peepz vote for no reason at all, *shrug*.
+• DATE: 3/16/2022, 10:36:36 AM
+*cackles*
+
+ah...which challenge would that be for?
+• DATE: 3/16/2022, 7:07:11 AM
+true, but after further thought, Terratrice could claim the same, =/.
+• DATE: 3/15/2022, 7:15:22 AM
+245 is better.
+
+b.) ik. that's what NP told me for CAPTIVE, so i wouldn't question The Great One (that's his new name). the words did fly off the screen, but judges will knock points off if they have to wait forever.
+a.) vertically, you want to bring the buttons up some to give it padding. that would mean movin' the text up as well as you have a lot of empty space on top an' crammed everythin' to the bottom of the screen.
+• DATE: 3/14/2022, 7:00:38 PM
+i'll code up a pizza if there's progress involved, =P.
+
+smth that just came to mind an' is entirely irrelevant, _never_ use `arc`s in PJS. the built-in function create vertices for each degree along the arc which could easily prove harmful to performance.
+• DATE: 3/14/2022, 6:55:01 PM
+chants _"we demand progress! we demand progress!"_.
+• DATE: 3/11/2022, 2:25:37 PM
+why not, =P?
+• DATE: 3/10/2022, 3:58:21 PM
+it accomplishes the same feat, an' usin' `jshint` is your choice.
+• DATE: 3/10/2022, 3:31:42 PM
+the silent e would make the i in chamomile into a long i, but i could be wrong.
+• DATE: 3/10/2022, 10:58:18 AM
+true. his attempt is more complicated, but it seems to work. i mean, i don't have another person to try it out with, so i can't say for certain.
+• DATE: 3/8/2022, 10:31:21 AM
+i believe i posted the link on my sub page, =P. just pointin' out a small inaccuracy.
+• DATE: 3/7/2022, 1:42:58 PM
+huh. that doesn't make sense, but the Guardians don't either.
+• DATE: 3/7/2022, 9:23:15 AM
+haha, i just realized you want "Inactive" when i posted, so i thought best not to ask a question i thought i already knew the answer to, =P. if you want to join, you're more than welcome, :D!
+• DATE: 3/7/2022, 4:48:00 AM
+it shouldn't lag. how many windows an' tabs do you have open?
+• DATE: 3/6/2022, 10:01:42 AM
+ah, well Argon said he didn't entirely mind. here's the project if you ever get back on, ;p. 
+
+`_*https://www.khanacademy.org/cs/-/6068030036557824*_`
+• DATE: 3/2/2022, 2:47:04 PM
+yeah...i'll ask for a 19th century musket an' bayonet an' see what happens next.
+
+edit: updated.
+• DATE: 3/2/2022, 12:50:20 PM
+thanks!
+
+understood, =). could i be notified when this policy changes, if it does?
+• DATE: 3/2/2022, 10:14:01 AM
+wait, they have access to multiplayer games? live or local (as in do you have physically have to have someone next to you, or is it someone else on the web?)?
+• DATE: 3/1/2022, 11:03:55 AM
+yeah, :D!
+
+haha.
+• DATE: 3/1/2022, 8:19:37 AM
+yup, works like it should! which is not good, lol.
+• DATE: 2/26/2022, 6:09:55 AM
+well, it semi-works. i haven't gotten 'round to actually drawin' the image yet, but here's the test run:
+`_*https://www.khanacademy.org/cs/-/6730863254487040*_`
+i got stuck on somethin' rather simple, lol. i can't manage to get `e.data` to a higher scope.
+
+edit: got it to run the image at least. still bein' blocked by CSP. wonder if i can store it on their end with a fake URL...
+
+edit edit: after three attempts, i admit defeat. this is impossible. unless you know how to store the base 64 data on KA's sandbox domain so that it can be retrieved, it's not possible.
+• DATE: 2/26/2022, 5:41:11 AM
+@VXS. actually, if you set the third argument of `nf` to `-1`, `nf` won't return a decimal point, =).
+• DATE: 2/25/2022, 11:10:02 AM
+NP is a genius, =P. no doubt there.
+
+yw, :D!
+• DATE: 2/24/2022, 8:25:06 AM
+have you listened to _Remember This_?
+
+thanks, :D!
+
+very.
+• DATE: 2/23/2022, 12:55:10 PM
+ah, as it should, =). i actually borrowed it from one of my school's learnin' platforms, lol.
+• DATE: 2/3/2022, 3:14:02 PM
+me too.
+• DATE: 1/28/2022, 6:16:37 AM
+really? what part of the player movement?
+• DATE: 1/25/2022, 10:12:19 AM
+nope, >=(. here's the link (not that it has anythin' useful atm):
+`_*https://www.khanacademy.org/cs/-/5317708780453888*_`
+• DATE: 1/19/2022, 2:42:38 PM
+that last one sounds nice, =P. if you could make the platformer mechanics, i'd make the graphics and backgrounds for the different levels.
+• DATE: 1/18/2022, 9:28:54 AM
+how?
+• DATE: 1/17/2022, 7:04:04 PM
+i'm not sure i understand.
+• DATE: 1/15/2022, 6:02:53 AM
+hmm, i have a WIP at the moment that will be released for CoC round 1 called valor that is an FPS. i had to rush it in 4 days, so we might do another FPS based on valor (titled honor?) that would be much better. i've also had a knack for battle simulations, so we could do an FPS where you're in the middle of a battle?
+
+we pretty much only align from 1-3 A.M., but that should work, :D!
+
+edit: if you're up for a big project, we could try an RPG. that would be interestin', and i have an idea on how the general functionality would work.
+• DATE: 1/12/2022, 9:37:56 AM
+there we go, :D! now, i just have to contact National Geographic for the sightin' of a new hybrid species of canine and cervidae, =P.
+• DATE: 1/12/2022, 9:14:18 AM
+i picked 90% of it up in a day. it isn't hard at all, so i can do most anythin' with it (or teach you if you'd like). do you know if input elements in HTML can have their height set to `auto`?
+woohoo, :D! i'm not sure what kind of game (or graphic, i haven't tried to make a graphic before) you'd want to make, but i'd love to try, =).
+• DATE: 1/10/2022, 9:22:59 AM
+add a total of fifty to the fur color, and change the background to `background(245);`
+• DATE: 1/7/2022, 1:58:52 PM
+haha, no worries.
+• DATE: 1/6/2022, 3:29:17 PM
+yours doesn't either, e.g. the bigger the burden, the better the life.
+• DATE: 1/6/2022, 6:27:19 AM
+done with your logo! there have been some minor changes in placement and animation, =P. 
+`_*https://www.khanacademy.org/cs/-/5794070247030784*_`
+• DATE: 12/28/2021, 10:09:29 AM
+thanks!
+• DATE: 12/24/2021, 5:48:20 AM
+ah, that is working for me. the error i had gotten was `__env__.size is not a function`.
+• DATE: 12/17/2021, 8:31:28 AM
+i was tring to make 3D here:
+`_*https://www.khanacademy.org/cs/-/5840950930751488*_`
+
+i knew you had worked with Unity before, and WebGL is made by Unity so you might have a some idea as to the answers.
+a.) in the program linked, i'm drawin' all of the coordinates on lines 62 to 98. they _should_ draw an octahedron, but they don't. i know that an octahedron has 12 vertices, but i have no clue what those other 4 vertices would be.
+b.) how would one do collisions in 3D? would you have any idea as to the more ambiguous math from your experience.
+• DATE: 12/2/2021, 3:32:42 PM
+ah, okay, :p.
+
+do they live in America?
+
+why do you have to make them so faded? the just blend in like ghosts do! jk
+• DATE: 12/2/2021, 1:54:16 PM
+lol, yes and no. yes, we have a basic premise. no, we have no real characters. my best shot is below, but i'm not the greatest in the creativity department, :p.
+
+your name is ____ (jake? or something gender-neutral like charlie?). you wake up one morning in your small quaint town of Tutol. (note all proper nouns that are not names were generated by my random word generator. `_*https://www.khanacademy.org/cs/-/5123081716596736*_`) as you walk outside a neighbor stops and tells you about the horrifying news. the precious cottonball (something silly, it was the first thing it thought up of) that your great-great-grandfather had prized had been stolen from the local museum. (perhaps this is all a cutscene and the cutscene ends here?) you have to go talk to Bob (he'll look like a character graphic one of my friend's made.) to learn that he lost his lucky coin (penny?) in the garden nearby. you go into the garden and find the lucky coin which you give to Bob. Bob then gives you a book to give to the librarian in the library (most likely in a separate world map). the librarian gives you a coin that you spend at a local breakfast stop for a donut. you give the donut to Winston who gives you a taco. the taco is given to the mayor who is starving after his house flooded due to some squirrels triggering his fire alarm. the mayor gives you a key to an old room in the library that you open to find a pair of glasses on the floor. you bring the pair of glasses to an old man (not too far from Bob) who gives you a key to go to the upper floor in the breakfast shop. you go up to find the prized cottonball waiting in the middle of the hallway. the game ends when you take the cottonball back to its rightful place in the museum. that transitions to the end scene which says "you may have found the cottonball. but who stole it?" i was thinking that it could be the squirrels, Bob, or the mayor. i would need to write all of this dialogue out, but i think this is a good start.
+• DATE: 11/30/2021, 1:05:16 PM
+I don't believe I do, but I'll make sure to let you know if that issue should arise.
+• DATE: 11/23/2021, 6:05:17 AM
+After looking back at old content, I have only been on KA for two years and of those only six were spent programming.
+• DATE: 11/22/2021, 3:29:16 PM
+alright. may the best programmer win.
+• DATE: 11/19/2021, 9:20:12 AM
+no, been working on collisions. gettin' it now.
+will take a look after your tool is made.
+• DATE: 11/17/2021, 9:30:45 AM
+Nevermind, I just figured it out.
+• DATE: 11/16/2021, 2:59:36 PM
+i'll listen to them. thanks for the suggestions! did you mean O'Brien, the one from AGT?
+• DATE: 11/15/2021, 7:23:25 PM
+You can call it KT.
+• DATE: 11/12/2021, 8:51:12 AM
+What is the use for this? Actually, a better question would be what the use is for a fountain of strawberries?
+• DATE: 11/12/2021, 6:23:35 AM
+found the exact date. it was when Chester released Little Cube, so it would have been oct. 2 2018.
+• DATE: 11/8/2021, 5:42:16 AM
+The game is more about how many times you play as you find the tricks behind each level. The best tip is to constantly run in circles.
+
+Decreased Level 9's time. I've added Level 7 and  level 8 (meant for health regen).
+• DATE: 11/3/2021, 7:15:17 AM
+I've tried for about an hour, but I'm not sure how to make a transition between levels. It seems like it will have to be a separate function that is called on line 402 or so rather than in the draw function. If you have any questions on my messy code, feel free to ask.
+• DATE: 11/2/2021, 2:07:52 PM
+May want to slow down the acceleration then, xD.
+• DATE: 10/28/2021, 3:46:32 PM
+That sounds like a good idea. Have you tried your hand at pixel art before?
+• DATE: 10/28/2021, 8:54:33 AM
+Ah, alright. Hmm, I'll see what I can do.
+• DATE: 10/27/2021, 12:46:55 PM
+Do you mind detailing what time zone you are in as well as a time & date that you would be active?
+• DATE: 10/26/2021, 7:16:35 PM
+Ah, alright. Thanks!
+• DATE: 10/21/2021, 10:40:16 AM
+Ah, I'm getting close to finished. I'll let you know when it is done.
+• DATE: 10/21/2021, 10:20:15 AM
+Here's the link. It used to be a sub page I did for someone else, so it is all 100% of my code. I'm working on a place to encourage people to join and sub tell them why to sub and why to join and lastly who the members are.
+
+`_*https://www.khanacademy.org/cs/-/5848889403064320*_`
+• DATE: 10/21/2021, 9:54:59 AM
+Tree trunks changed.
+• DATE: 10/18/2021, 3:52:57 PM
+As for the defender, he seems to lack some basic knowledge and creates rather poor quality programs. His game reiterates different functions for collisions instead of directly checking collisions for each object.
+
+Thank you! Fixed the sudden pop-up of text with a quick animation. Anything else?
+• DATE: 10/18/2021, 3:22:04 PM
+Sorry, busy with another project as well. I know Daniel T. I don't mind if you ask him, it is the defender that I inquired of.
+• DATE: 10/16/2021, 6:11:09 AM
+Most certainly, :p.
+• DATE: 10/15/2021, 7:47:34 PM
+Thanks, Gray Wolf!
+• DATE: 10/13/2021, 3:03:53 PM
+Uh, I'm not sure what you need help with, but I'm decently sure the month code is mine, so are you looking for help in creating a phone or at least its OS?
+• DATE: 10/11/2021, 3:10:20 PM
+https://www.khanacademy.org/computer-programming/rig-attempt/6056405948907520
+
+What do you think? The OOP and the functions and the graphic. Couldn't have done better myself, :p. 
+
+`_*https://www.khanacademy.org/cs/-/6056405948907520*_`
+• DATE: 10/7/2021, 9:58:34 AM
+Please elaborate, I'm not entirely sure what you mean.
+• DATE: 4/20/2021, 6:01:01 AM
+Wow, thanks Murray! That will definitely help.
+• DATE: 4/18/2021, 6:03:23 AM
+Ah, understood. Do you have a price for the game in mind or a platform to release it on?
+• DATE: 10/20/2020, 9:25:52 AM
+Alright, I do have a couple of suggestions.
+
+1.) Trees need to have a spawn variable, so we can add levels with more difficulty as the plot progresses.
+
+2.) I would suggest making the bullets the same color, so they might be distinguishable.
+
+3.) They should have spurts (every 250 frames or so) in which they spray a certain amount of seeds and bullets per say 1 seed and 3 to 5 bullets based on difficulty. Seeds should have a chance of dying as well.
+• DATE: 10/19/2020, 11:07:44 AM
+Spawning is automatic, so there is a timer that goes off. Summoning is the ability to create an enemy while the timer has not gone off for that enemy.
+• DATE: 10/12/2020, 10:30:29 AM
+Ah, alright. Well, have a good day!
+• DATE: 10/10/2020, 5:12:51 PM
+Thanks!
+• DATE: 10/9/2020, 10:21:54 AM
+Yes, you posted first! Here's mine. It was pretty rushed and the quality isn't there, but here we go.
+https://www.khanacademy.org/computer-programming/battle-sim/6187485146333184
+• DATE: 10/9/2020, 10:14:10 AM
+Use sin/cos to scale the images.
+Hop? What do you mean by not reflected in gameplay? If they hop, won't it be in the game play or do you mean using sin/cos to move their y up and down?
+• DATE: 10/7/2020, 6:53:46 PM
+I'm going to look at some other projects while you tinker. This is going to be a bit.
+• DATE: 10/3/2020, 1:32:04 PM
+Ah, okay. Well, I'll think of something. The hard part is getting the badge on the outside down. After that it's a little too easy. Adidas's logo is just a quad and Nike's a bezier. Perhaps something that I could add some screen shaking, particles, and animation too. That might be worthy of 10+ votes. (I had found out that if you use a logo/brand someone is familiar with, then they usually vote up more.)
+
+Really? I didn't realize I was one of the first, :p. My original name was Washoe (on Sy's account) and before that, I don't have the liberty to list those until circumstances change, ;p.
+• DATE: 10/2/2020, 11:41:24 AM
+Alright.
+::::::::::::::::::::::::::::
+no questions
+::::::::::::::::::::::::::::
+---- COMMENT ----
+• DATE: 3/11/2023, 9:12:19 PM
+*score thread*
+_highscore: [SCORE]_
+• DATE: 3/10/2023, 9:27:44 AM
+*join thread*
+_for testin' only
+post in the followin' format._
+```
+$[NAME, LEVEL, TEAM]$
+```
+• DATE: 3/10/2023, 8:33:56 AM
+*join thread*
+• DATE: 3/8/2023, 9:56:52 PM
+that's how posterize should look. you're usin' posterize only on the gradient itself not anythin' the gradient is applied to/on. in order to do the latter, you'd need to crash performance by at least 3x an' run the filter every frame.
+• DATE: 3/8/2023, 7:34:34 PM
+in a nutshell, it's an issue i fixed in the later versions of the filter script.
+
+the issue with the other versions is that they return an error. i'll see if i can fix that error real quick.
+• DATE: 3/8/2023, 8:48:33 AM
+if you know PJS, thumbnail.js should be wicked simple.
+
+lmk if you have any questions, :).
+`_*https://www.khanacademy.org/cs/-/6737783223271424*_`
+• DATE: 2/26/2023, 7:57:14 PM
+it occurred to me that you could just add a new script tag to the DOM if you got the code in the editor as a string [which you seem to have done to some degree, perhaps not a string]. curious to know why you didn't do that?
+• DATE: 2/26/2023, 2:48:03 PM
+no WebGL, :(.
+• DATE: 2/26/2023, 2:46:15 PM
+hey NP, :D!
+
+so, i have a favor to ask of you.
+
+i lost half my team at the start of a competition an' then found replacements. well, some of the original team an' the replacements dropped out, so i'm back to half a team. lookin' for any an' all replacements rn.
+
+to be very clear, i'm not askin' for a time commitment. i'm not askin' for a full-time member who grinds day in an' day out without sleep to crank out what they can. two to three hours a week would be appreciated, or not even that, any an' all help, no matter the perceived insignificance, is greatly appreciated. an example would be just the buttons for a menu, not the menu itself.
+
+it's totally fine if you can't, but thought it would be worth a shot, :).
+• DATE: 2/26/2023, 6:21:29 AM
+hey Levi, :D!
+
+call me crazy, but there's a difference between desperation an' craziness.
+
+i've lost half my team in CoC [again] [Fer Fer, SMV, an' Promise] an' i need some help. not a full-time captain, not a full-time member. i need someone who can contribute 2 to 3 hours of code a week, which given your current projex makes you an opportune candidate. you don't even have to be active for two to three hours a week or make any commitment, even a lil' help [just buttons or a singular enemy graphic] would go a long way, :).
+
+totally understand if you don't want to an' call me crazy for recruitin' the ex-rival cap'n, but it was worth a shot.
+• DATE: 2/26/2023, 6:19:43 AM
+hey Argon, :D!
+
+so, i have a favor to ask of you. 'round this time last year i was in dire straits for an annual competition, an' i asked for you to create a menu [which wasn't used due to my inactivity over the weekend]. 
+
+well, that same annual competition has come back an' this time i have found myself in a pickle. granted picklez have to take time to well, pickle, an' this came along quite rapidly so maybe it's a cuke [cucumber]?
+
+i lost half my team at the start of the competition an' then found replacements. well, some of the original team an' the replacements dropped out, so i'm back to half a team.
+
+to be very clear, i'm not askin' for a time commitment. i'm not askin' for a full-time member who grinds day in an' day out without sleep to crank out what they can. two to three hours a week would be appreciated, or not even that, any an' all help, no matter the perceived insignificance, is greatly appreciated. an example would be just the buttons for a menu, not the menu itself.
+
+it's totally fine if you can't, but thought it would be worth a shot, :).
+• DATE: 2/24/2023, 9:51:47 AM
+i luv votes.
+• DATE: 2/24/2023, 9:45:53 AM
+pls don't vote. this is still a WIP. it's garbage.
+• DATE: 2/22/2023, 7:02:45 PM
+now we know why there was a run on toilet paper in 2020. 
+
+it will dominate the world, o.o.
+• DATE: 2/22/2023, 11:15:53 AM
+now that's water.
+• DATE: 2/21/2023, 8:23:36 AM
+try in WebGL, :p.
+• DATE: 2/20/2023, 4:48:26 PM
+uh, the transformation is contained within `pushStyle`/`popStyle`?
+• DATE: 2/17/2023, 8:23:44 AM
+"Dark.js hopes to fix a few technicaly issues with ski.js, be much faster than ProcessingJS, but also add new features that make using Dark.js worth it"
+
+love to see the grind, man. openin' an issue on ski.js would be too easy, a PR that just fixed the issue would've been laziness, you had to recreate the library from scratch.
+
+saw this on GitHub 'fore i saw it here believe it or not.
+
+i've spent over a year on ski.js an' it's not just my knowledge that went into that project but the enormous wealth of knowledge the greatest programmers on KA possess. PT, HS, Polar, bravo bravo, the names go on an' on. VEXCESS an' Polar miserably failed at their own creation; i'd love to see what you come up with, but i will warn you that it's next to impossible to beat 10+ programmers over a year as one person in a month or so. 
+
+at the very least this project is a worthy endeavor, :). it's noteworthy for one to want to create their own canvas library. it's another to claim you'll beat ski.js.
+• DATE: 2/17/2023, 7:08:50 AM
+incredible recreation of the album cover, :D.
+
+def my fav track of his so far (curious to know what he does with a track titled HAPPY tho lol). already listened to it a dozen times an' countin'.
+
+#NFRealMusic. the only kind of music.
+
+let's top the HL like NF tops the charts, ;p.
+• DATE: 2/14/2023, 5:51:23 AM
+probs belongs in questions but whatevs.
+
+so 21262 has asked to join my team, but there's currently some debate over the matter. if you could tell him, that i [more like we] am considerin' his proposition but have not come to a definitive conclusion yet. i'm currently not a fan of the idea that participants get to choose their teams as you've taken a hard stance on the matter with Phantom Falcon last year an' your note to SMV this year. cap'ns should have the say imho, but that's just my two cents an' this isn't my comp, ;p.
+
+how do you level the playin' field out if not all teams can have 7 members an' all members of team Henry want to still participate? i don't think it'd be fair to tell any member of team Henry that they can't participate anymore, but if they do, do the teams who have 6 rather than 7 members get to recruit more? that sounds like a decent idea since all teams are somewhat back to where they started but also are somewhat in a better position. just tryin' to figure out how it all works out, :).
+• DATE: 2/11/2023, 2:37:54 PM
+well done Liam, :D!
+
+line 1398 to 1415 are sketchy to enter into an official contest, no?
+
+smth that i just learned the hard way recently is that you shouldn't modify any native objects or built-in methods whenever possible (line 1418), :).
+• DATE: 2/8/2023, 6:20:28 AM
+i think the only critique i have atm is that there should be a smoother transition when you maximize a window or have over the close button, ;p.
+• DATE: 2/7/2023, 10:31:08 PM
+who would've thunk that we'd compete as cap'ns in CoC?
+
+glad to have a skilled competitor to compete with, ;p.
+
+lotta smack over on GitHub that team Levi is out now that Lemon is at the helm. tbh, it's Levi's entries not his leadership that would've scored more pointz. inwardly rootin' for you now that you're the underdogz, :).
+
+just smth that might be interestin' is that i kicked Samwise off my team, so i actually expect a higher performance with you than with me.
+
+what's your project for this round gon' be?
+• DATE: 2/5/2023, 8:02:32 PM
+the lack of clothin' may be inappropriate for young children, :).
+• DATE: 2/5/2023, 7:07:38 PM
+i don't want to spam the others, so this is posted as a separate t&t, :p.
+
+'fore i begin, i want to clarify that i'm not askin' for a revised judgin' or challenge your scorez/reasonin', but more for advice.
+
+how would you have improved the enemy algorithm? the movin' aspect would've required a freeform pathfindin' algorithm of which there is no documentation anywhere on the web. the attack an' movement could be triggered by when the player is close enough to the enemy, but i don't think that is what you had in mind as that's literally one line.
+• DATE: 2/2/2023, 6:29:56 AM
+for the description of the *Middle Ages* contest, the links are missin' `target="_blank"`, ;p.
+• DATE: 2/2/2023, 6:22:17 AM
+my entry to our code-off should be on the HL within a week, ;p. lmk when yours releases, :D.
+• DATE: 2/2/2023, 5:26:11 AM
+readin' this two months later is weird, ngl.
+
+point 5: i'm curious as to know what your suggestion is to fix the community effectively. i think i've tried every solution to the problem, an' obviously, they haven't worked.
+• DATE: 2/1/2023, 9:24:53 PM
+i'm sure you already know why i'm here since SMV pretty much laid it out, but i'll say it anyways.
+
+i am here to invite you to join my team in Clash of Code. i have lost three members an' am currently in search of replacements. the contest runs until Mar. 13th an' the rest of the challenges are collaborations so the workload will be shared.
+
+how comfortable are you with SVGs?
+• DATE: 1/31/2023, 11:13:06 AM
+if you could submit your CoC entry even if it's not finished, it would be much appreciated, :).
+• DATE: 1/30/2023, 6:49:55 PM
+the entry to beat.
+• DATE: 1/30/2023, 12:53:35 PM
+that menu is sick.
+gameplay not so much, but i don't think anyone else managed to stop gawkin' at the menu an' actually play, :p.
+• DATE: 1/29/2023, 9:21:28 PM
+good day SP, :D!
+
+i am here to invite you to join my team in Clash of Code. i have lost two members an' am currently in search of replacements. the contest runs until Mar. 13th an' the rest of the challenges are collaborations so the workload will be shared.
+• DATE: 1/27/2023, 9:16:05 AM
+hey Doglover, :D!
+
+i am here to invite you to join my team in Clash of Code. i have lost two members an' am currently in search of replacements. the contest runs until Mar. 13th an' the rest of the challenges are collaborations so the workload will be shared. think Primavera but more competitive an' only the best coders, ;p.
+• DATE: 1/27/2023, 9:15:39 AM
+good day apex, :D!
+
+i am here to invite you to join my team in Clash of Code. i have lost two members an' am currently in search of replacements. the contest runs until Mar. 13th an' the rest of the challenges are collaborations so the workload will be shared.
+• DATE: 1/26/2023, 9:20:30 PM
+*challenge*: make a WebGL program that doesn't crash my potato.
+• DATE: 1/26/2023, 9:08:44 PM
+did you expect us to say no lol?
+• DATE: 1/26/2023, 5:40:33 PM
+nice job, mate, :D!
+• DATE: 1/26/2023, 5:30:26 PM
+on the HL rn lol.
+• DATE: 1/25/2023, 4:15:00 PM
+someone lost their mind.
+
+delete this project 'fore it gets hidden an' the Guardians treat themselves to your notifs. spin-offs work just fine an' they'll still be there even if the original is hidden.
+• DATE: 1/25/2023, 10:32:32 AM
+so this might honestly be one of the greatest graphix i've seen on KA. love the attention to detail an' the japanese characters in the background.
+
+that savage/surprise ninja is like lookin' into a mirror. only not the fact that you committed a codin' crime by settin' the `draw` function to another function _within itself_, but we'll ignore that for now, ;p.
+
+for all of our sanities, pls add `enableContextMenu();` so we can all make this our desktop wallpaper.
+• DATE: 1/24/2023, 9:35:38 PM
+so i'm tryin' to import my own music into KA an' have had great trouble findin' a method that doesn't crash the browser. this seems to work beautifully, so i have a few questions for you if you don't mind.
+
+first, i don't fully understand the Web Audio API so if you could explain what `AudioContext`, `AudioBuffer`, `AudioBufferSourceNode`, an' `GainNode` are, it would be much appreciated, :D!
+
+second, i'm not sure what you did, but what text does the audio need? it doesn't look like it's base64 encoded. i think i could figure out the rest from there, but i'm stuck as to how i would recreate this in a faster environment [the web environment with imported scripts]. i can have the string size be as long as necessary, but i can't run your C++ code as i'm stuck on a chromebook atm.
+
+any answer would be appreciated, :D!
+• DATE: 1/24/2023, 9:03:24 PM
+any plans for this?
+• DATE: 1/24/2023, 7:47:20 PM
+i just saw this now [i mean i think i glanced at it 'fore] an' iirc that poem was for me.
+
+the graphic is beautiful an' stunnin' altogether. the filterz rlly made this project shine an' the danglin' orbz make me think of the greatest graphix artist [at least rn] to have graced KA, RP24.
+
+as to the poem, i don't think i ever thanked you for it, an' readin' it again i feel that i ought to. it's nice to think that from pain we'll see our destiny unfold an' that's what i hold on to everyday. thank you again, :).
+• DATE: 1/24/2023, 7:21:22 PM
+ik FF's code when i see it lol.
+• DATE: 1/24/2023, 4:09:15 PM
+slightly concerned ngl.
+• DATE: 1/21/2023, 7:02:45 PM
+that snow tho, o.O. i'd reuse that for your CoC project on the menu screen; they're epic, :D!
+
+should be `const keys = {};`, :). `keys` doesn't change only its attributes.
+
+two space indentation, >:(. come back from the dark side! don't join Polar in that madness.
+
+@ASCII it's 2023 not 2022 lol.
+
+that contrast has sent me to eternal color blindness.
+
+score of 8.
+
+imho, should be named *ski slide*. not that i have any bias.
+• DATE: 1/21/2023, 12:20:34 PM
+when this gets on the HL, smh.
+
+if i don't get a 10 on efficiency, i might cry, :(.
+• DATE: 1/20/2023, 5:21:40 PM
+if you could go to the team chat thread on the other place an' join the team chat thread here on KA, it would be greatly appreciated, :D!
+
+`_*https://www.khanacademy.org/cs/-/5403470941437952*_`
+• DATE: 1/20/2023, 8:39:42 AM
+the Guardians are slackin' on hidin' programs that access `externals`, o.O.
+
+i find it highly unnecessary to go through all of the trouble of bypassin' KA's restrictions when you could've accessed 'em normally with `width` an' `height`. tbh, looks a lil' flashy to me.
+• DATE: 1/18/2023, 9:38:46 AM
+i believe you meant zatizfyin', but i'll let you pass, ;p.
+• DATE: 1/17/2023, 8:29:03 PM
+classes should always start with a capital letter, ;p.
+• DATE: 1/17/2023, 11:03:18 AM
+to be clear, you don't need to use ES6+ syntax to use ski.js; i enforce it for other reasons, ;p.
+
+have fun lol.
+• DATE: 1/17/2023, 9:51:23 AM
+hey xacer, :).
+
+do you have any suggestions for these image filterz? the code is originally based off of WebGLfundamentals but went elsewhere once i wanted image kernelz.
+`_*https://www.khanacademy.org/cs/-/5116098904637440*_`
+• DATE: 1/17/2023, 6:48:19 AM
+tryin' to one-up ski.js i see.
+
+yk that you can't beat the year's worth of work that's gone into that library, right? jk lol.
+• DATE: 1/16/2023, 8:55:52 AM
+nav link hover script with a tad bit more efficient script, ;p.
+```
+let links = document.getElementsByClassName("navlink");
+    for(const link of links){
+        link.onmouseover = () => {
+            for(const l of [...links].filter(el => el !== link)) l.style.opacity = 0.3
+        };
+        
+        link.onmouseout = () => {
+            for(const l of links) l.style.opacity = 1
+        }
+    }
+```
+i'd add a blur filter to the nav background. 
+
+i feel like the hero is the only thin' that doesn't fit. the color scheme doesn't mesh well. maybe more blue an' green?
+
+you shouldn't be able to scroll while the nav is open.
+• DATE: 1/15/2023, 7:42:49 PM
+lovin' the simple homepages just like last year, :D.
+
+good luck to you an' your team, :).
+
+a few notes on the code.
+1. do you not indent the tags inside of the `head` or `body` tag?
+2. it's terribly inefficient to use `querySelector`, so here's a quick fix for lines 205 to 206 in case you care to. [line 211 will need to be `for(const el of links)`]
+```
+const cursor = document.getElementsByClassName('cursor')[0]
+const links = document.getElementsByTagName('a')
+```
+3. curious to know why you wrap the `event` parameter `e` in parentheses when it isn't necessary. is it better codin' practice?
+4. any particular reason why you wrapped your `link` tags with a `div`?
+• DATE: 1/15/2023, 6:37:50 AM
+lookin' good!
+
+generally prefer to set `type` to `"module"` an' remove the IIFE for the `script` tag, ;p.
+• DATE: 1/14/2023, 3:12:53 PM
+@Evan
+may i ask why you import jQuery an' then you don't use it?
+
+a wonderful idea! i can already see the amazin' entries, :).
+• DATE: 1/14/2023, 11:23:54 AM
+you're right an' wrong. ski.js does have a bug, but not what you think it is. the other rectangle is just colored by whatever the last fill color was.
+
+thanks for catchin' this, i'll go fix it right away.
+• DATE: 1/13/2023, 6:32:22 PM
+test.
+• DATE: 1/11/2023, 7:29:10 PM
+i voted.
+• DATE: 1/11/2023, 7:28:11 PM
+beautiful webpage Liam.
+
+srry JSC, but this is so much better than last year's, =P.
+• DATE: 1/11/2023, 7:09:44 PM
+test.
+• DATE: 12/11/2022, 9:06:31 AM
+how did you convert the strings of code into functional code without `eval` or `new Function`?
+• DATE: 12/10/2022, 8:29:20 PM
+lol, what stops me from importin' the entire game script from GitHub? it's still under 20 lines here on KA.
+• DATE: 12/10/2022, 12:26:46 PM
+works for me.
+• DATE: 12/9/2022, 5:49:08 PM
+to answer your first question, it simply isn't efficient to do so. i would need to record every random value possible an' assign those values accordin' to when the function was called which is not safe as the number of times the random numbers were called varies. the only other way would be to inefficiently employ the same method as PJS. i don't think it will matter too much, but i can manually adjust the random values for each tree if you feel like we need `randomSeed` i could try to import PJS, but that's too much of a headache.
+
+as to your second point, you have two conditionals at once for `i` in your `for` loop. you need two different `for` loops as the first conditional for TRAVA ends first, so the same number of characters (5) is what is displayed of TELENOVA. all strings come with a built-in property `length` so there's no reason to `.split('')`, :).
+• DATE: 10/18/2022, 4:20:11 PM
+gee, i wonder if someone just posted to gain votes rather than spin-off from the original, o.O.
+
+smh, peepz these dayz think we're gullible to an otherworldly degree or can't see what's in front of 'em if their pet was on the line.
+• DATE: 9/17/2022, 2:40:34 PM
+i'm sorry Jake. i just had to tear this to pieces once i saw the code.
+
+first, the compliments.
+
+absolutely beautiful transitions, :D! wonderfully unique, distinct an' most certainly eye catchin'.
+
+that Lorenz attractor is quite nice, ;p.
+
+an' then, we all saw it comin'.
+
+this is actually one of the only programs of yours where i feel that there was a lack of effort, or perhaps you were rushed. either way there is _a lot_ to be improved upon an' i've only listed the few (okay, several) things that jumped out at me.
+
+a.) the font choice might blind some users. with this color scheme, it just doesn't mesh. at all.
+
+b.) black an' white do not work. don't do it. unless you're goin' all out with the design of the webpage you *cannot* sacrifice color.
+
+c.) the cacteye avatar is in side of a neat little box that nearly blends with the background. make it pop out by borderin' it with white instead of puttin' black on black.
+
+d.) the use of green on this webpage, particularly that shade of green, just does not mesh again. the colors should pop out without bein' an eyesore.
+
+e.) you're in the web environment. _use it._ ES6+ syntax is available to you with extra benefits, but instead you settled for good ol' painful ES5.
+
+f.) while i complimented your transitions, you also did it in the most painfully complicated manner. simply chainin' the animations an' displays with `onanimationend` would've worked beautifully without causin' the code to look like Greek.
+
+g.) your backgrounds are plainly just pasted into the webpage as if you just picked the first search result. a webpage should be a harmonious symphony of color not chaos.
+
+h.) there should only be two animations, at the very most 4. once the user hovers over the element, once the user moves out of the element, an' optionally, once the user clicks on the element. perhaps there could be an intro or `onscroll` animation as well, if deemed necessary. on the news page, you change from the terrible black an' white to an even harsher blue an' white to a blindin' green an' white that bobs up an' down an' screams "look at me steal your vision from years to come!".
+
+i.) JSONP an' callback functions are much easier to use than _jQuery_. the KA devs can't get their implementations straight. the creator of _jQuery _leads the KA devs. what does that say 'bout _jQuery_? additionally, it's more of an easy way out, so to speak.
+
+j.) space out operations. instead of `1+1` write `1 + 1`.
+• DATE: 9/5/2022, 9:39:54 PM
+bro needz to take a chill pill, :p.
+
+tysm, :D!
+• DATE: 7/21/2022, 6:19:43 PM
+aaay, nice, :D! 
+
+small critique:
+the hands should go on the keyboard instead of the arms reachin' 'round the laptop.
+
+i've been here for three years now, an' the one thing i've learned is that people change, they come an' go, but PJS _will always be the worst_.
+• DATE: 7/20/2022, 6:28:50 AM
+i would think that this would be a slightly more efficient implementation on lines 42 to 51:
+```
+const styles = document.getElementsByTagName('style-sass')
+for(const style of styles){
+    Sass.compile(style.textContent, result => {
+        const style = document.createElement('style')
+        style.innerHTML = result.text
+        document.head.appendChild(style)
+    })
+    style.remove()
+}
+document.body.style.display = 'block'
+```
+• DATE: 7/17/2022, 4:04:08 PM
+may i ask the reason for the thread in the t&t.
+• DATE: 6/1/2022, 10:06:45 AM
+ofc, you could one-up Bob Lyon if you happen to be the one an' only ski. make it one line, B).
+```
+nf.constructor("document.getElementsByTagName('canvas')[0].onwheel = e => e.preventDefault()")();
+//or this if you don't have an awful hatred for jQuery
+nf.constructor("$('canvas').on('wheel', e => e.preventDefault())")(); 
+```
+
+you sure your stalkerz are gone, o.O? i didn't vote.
+• DATE: 5/31/2022, 10:28:09 AM
+just poppin' in to say hi.
+
+curious to know if you have any recommendations for pathfindin'.
+• DATE: 4/25/2022, 2:45:32 PM
+one-up Dominic.
+```
+function find (w, h) {
+    for(var i = 1, sum = 0; i < Math.max(w, h); i++) {
+        sum += (w - i) * (h - i);
+    }
+    return (sum + (w * h)) * ((sum + (w * h)) < 0 ? -1 : 1);
+}
+```
+• DATE: 4/1/2022, 9:59:38 AM
+i just tried with API an' failed. out of curiosity, what's your method for how one would get the code back?
+• DATE: 3/28/2022, 10:44:44 AM
+hey No Name!
+
+if you could reformat the link in your recent entry to the one below, that would be a huge help, :D!
+~"https://www.khanacademy.org/computer-programming/chiwi-and-the-magician-primavera/5003677889773568"~
+• DATE: 3/9/2022, 7:58:12 PM
+ah, yes. the level creator. i'd suggest takin' a look at Invasion's for an optimized one, ;p.
+• DATE: 3/7/2022, 6:16:48 AM
+is it wrong to stalk Danny even tho he hasn't done anythin' in a month, o.O? what happened to your official contest entry this month? will we see any more projects? do i have to post on my subpage to have all of my subscribers post to get you back on KA? nice bio, =P.
+• DATE: 1/19/2022, 9:17:43 AM
+somebody already voted this who wasn't me, o.o.
+
+just a couple things i learned from _tutol_.
+a.) i'd probs make the enemy & npc objects separate.
+b.) i have a typin' function we could use to make it look nice. this also means that the dialogue logic is nuts. here's how i set it up previously, tho we should probs make it more efficient. all of the npc data was stored in an array title, well, _npc_data_.
+```
+/**
+ * list of variables and what they do for NPC dialogue:
+ * in @Player:
+     * this.listen checks to see if the player is listening.
+ * in @NPC:
+     * this.dialogue is the array of dialogue for the NPC.
+     * this.talking is the boolean to determine whether or not
+       the NPC should update the typing/talking.
+     * this.done is the boolean for whether the talking is done
+       for the NPC.
+     * this.phew is the boolean for whether the talking is done
+       for the player.
+     * this.check is the boolean "loading" the dialogue before
+       talking.
+     * this.given controls whether or not the player has been
+       given the object needed.
+     * this.have is the boolean for whether or not the player
+       has the item the NPC wants.
+     * this.checkered is a boolean made to make sure that the
+       second dialogue is typed and that it isn't repeated.
+     * this.type is the constructor for type.
+ * in @type:
+     * this.t is the wanted text.
+     * this.txt is the returned text.
+     * this.char is the character that this.txt is on of this.t
+     * this.del is whether or not text is being deleted.
+     * this.speed is how fast the text is written.
+     * this.done is whether or not the text is done being typed.
+**/
+//npc oop
+function NPC (x, y, id){
+    this.x = x;
+    this.y = y;
+    this.size = 50;
+    this.id = id;
+    for(var i in npc_data[this.id]){
+        var id_ = npc_data[this.id];
+        this.char = id_.name;
+        this.take = id_.take;
+        this.recieve = id_.recieve;
+        this.dialogue = id_.talk;
+        this.rot = id_.rot;
+    }
+    this.index = 0;
+    this.talking = false;
+    this.done = false;
+    this.check = false;
+    this.given = false;
+    this.have = false;
+    this.phew = false;
+    this.checkered = false;
+    this.type = New.call(type,"",30);
+}
+//update which dialogue the npcs should be on
+NPC.prototype.update = function() {
+    if(!this.given && !this.have){
+        this.index = 0;
+    }
+    if(this.index < 1 && this.have){
+        this.index = 1;
+        if(!this.checkered){
+            this.checkered = true;
+        }
+    }
+    if(this.given && this.checkered){
+        this.index = 2;
+    }
+};
+//chat away, npcs
+NPC.prototype.talk = function() {
+    //set the dialogue to what it needs to be set to
+    //if it hasn't already been set.
+    if(!this.check){
+        this.type.string = this.dialogue[this.index];
+        this.type.txt = "";
+        this.talking = true;
+        this.type.char = 0;
+        this.type.done = false;
+        this.phew = false;
+        this.check = true;
+    }
+    //tell the program that the typing is done
+    if(this.type.done){
+        this.done = true;
+        this.phew = true;
+    }
+    //if not done, display.
+    return this.type.update();
+    
+};
+//runs collisions and npc dialogue
+Player.prototype.collide = function() {
+    //npc-player collisions
+    for(var k = npc.length - 1; k >= 0; k--) {
+        var n = npc[k];
+        var r = (this.size + n.size)/2;
+        //dialogue check
+        if(dist(n.x, n.y, this.x, this.y) < r) {
+            var a = atan2(this.y - n.y, this.x - n.x);
+            this.x = n.x + cos(a)*r;
+            this.y = n.y + sin(a)*r;
+            //initiate the dialogue
+            if(keys[32] && !this.open){
+                this.npc = true;
+                this.open = true;
+                this.listen = true;
+                this.initiate = k;
+            }
+        }
+    }
+};
+//checks player inventory
+Player.prototype.act = function() {
+    //checks to see if you have the object the npc needs
+    for(var k = npc.length - 1; k >= 0; k--){
+        var n = npc[k];
+        for(var j = this.inventory.length - 1; j >= 0; j--){
+            var inv = this.inventory[j];
+            if(n.take.type == inv.type && n.take.spec == inv.spec){
+                n.have = true;
+            }
+            if(n.have && !n.given && this.listen && this.initiate == k){
+                this.inventory.push({
+                    type: n.recieve.type,
+                    spec: n.recieve.spec
+                });
+                n.given = true;
+                this.inventory.splice(j,1);
+            }
+        }
+    }
+};
+//shows the hotbar and dialogue
+Player.prototype.gui = function() {
+    if(this.open){
+        rectMode(3);
+        noStroke();
+        fill(50);
+        rect(300,550,600,100);
+        textAlign(1,1);
+        textFont(createFont('Lato Latin Bold'),18);
+        fill(245);
+        text(this.txt,10,520);
+        this.bane.draw();
+        if(this.npc){
+            for(var i = npc.length - 1; i >= 0; i--){
+                var n = npc[i];
+                n.update();
+                if(this.initiate == i && n.type.txt.length < n.type.string.length + 1){
+                    this.txt = n.talk();
+                }
+                else{
+                    this.txt = this.txt;
+                }
+                if(this.initiate == i && n.phew && this.bane.update()){
+                    this.txt = "";
+                    this.open = false;
+                    this.listen = false;
+                    n.check = false;
+                    n.done = false;
+                }
+            }
+        }
+    }
+};
+```
+c.) just as a note, i find it easier to make a `prototype` called `all` that has every function in it.
+
+i'll get to those graphix right away, ;p.
+• DATE: 1/6/2022, 1:14:15 PM
+i have no clue what i'm lookin' at.
+• DATE: 12/10/2021, 9:48:00 AM
+_when_ do i get to see the program?
+
+edit: i did what you did in three lines, >:). don't call global variables inside functions. that makes them useless elsewhere.
+```
+function when(val,min,max){
+    return val >= min && val <= max ? true : false; 
+}
+```
+
+edit edit: what you did in three lines with all of the code including your global, >:).
+```
+function when(val,min,max){
+    return val ? (val >= min && val <= max ? true : false) : (time >= min && time <= max ? true : false); 
+}
+```
+• DATE: 12/6/2021, 9:18:29 AM
+two things.
+
+a.) your collisions are off. start on the right side of a block with the block above you and you will get stuck when moving left.
+b.) instead of constantly creating a `new` instance of `Player`, just set `p.x` to `j * 20` & `p.y` to `i * 20`
+• DATE: 12/6/2021, 9:12:13 AM
+go here: `_*https://www.khanacademy.org/cs/-/5043631293513728*_`
+there's a thread there. let's go.
+• DATE: 12/2/2021, 8:09:23 AM
+won't load. your image for water, due to the noise, is killing my computer. some remedies are in the t&t, especially CtmGamer and IA's remarks.
+• DATE: 11/8/2021, 1:31:06 PM
+will you be able to fit such a large project on ka (from your subpage)?
+• DATE: 11/7/2021, 5:10:43 AM
+wow, this looks like a kacp need of revival, smh.
+
+edit: ia, levi f., _and_ CowboyFan_ on your tail. i'll link a post of mine below. this message was not directed at you when posted. doubt you'll read it or respond, but worth a shot.
+
+"The hardest problem about Khan Academy is its breeding ground for sociology. What I mean by that is, you put thousands and thousands of users onto a single platform over ~ten years, and as that platform ages, you see a growth, climax, and the eventual decline. Now, the KACP (as defined by Willard [the creator of MineKhan] who I had a similar discussion with) is most like a representative democracy, not necessarily a republic by technical definition. This means that all of the voters (below 13 or "childed" and above 13) select which programs will receive their vote. Now, the government urges voters to stay informed, so that come election time, you know what you're voting on.(I believe it is reasonable safe to believe that you live in the United States of America.) More accurately, voters choose which creators will receive their votes. Now by the connotation most often used, "voter fraud" is not plentiful on KA and is nearly non-existent as no specific instance (that follows the connotation) has been recorded. A separate wholly unique and unprecedented issue plagues KA, quality. Effort and time are thrown aside when choosing which programs are selected as "hot". Voters choose whichever program pleases, entertains, or brings the most enjoyment to them, so the best solution for this aspect is to keep the voter informed as to the need for supporting programs that require an intense effort as opposed to those that do not but bring the same entertainment value if you will. This task will be incredibly difficult to accomplish due to the natural desires of the users based on previous voting history, and the fact that no one has decided to address this issue which I find beyond appalling. In conclusion, I will probably inform the viewer of the necessity of supporting the programs that required an "intense effort".
+
+Now the other issue that is much more plausible to fix is that there are low-quality projects in the first place. There are two causes to this issue, and I will address both. The first is that new programmers feel left out and wish to be known like all of these other programmers. It can be pretty intimidating when someone realizes just how difficult it is to garner votes and attention. As Lin Gh. put it (I assume you know who she is.), (note that this is a paraphrase) "It isn't a bad thing to want votes." There are much, much worse ways to get votes, and a platformer template or two or a meme here and there won't bring Armageddon, but it is most certainly a cause of alarm. Either the programmer feels this desire to be popular without effort (unsolvable from our position), or the desire to be popular with effort but no one willing to pay attention. Hence, the best way to solve this issue is to constantly monitor the "Recent" list and vote on projects vote-worthy, regardless on whether or not they are noticed.
+
+The last cause is that these programmers may have the capacity to become stellar programmers, but are lacking the assistance needed to create such projects. These would be projects that may not seem quality at the surface, but to the user seem to the utmost standard. The best way to solve this issue is to help as many users as possible which KA has conveniently built a system in just for that. Help requests and discussion questions are being answered frequently, and help is in abundance, so what is the problem? We are neglecting to help those who don't feel comfortable to post help requests, perhaps out of fear of being insulted for being "so dumb" (which I have found a user who did as said recently) or of "not being good enough". I might seem to be taking this to an extreme, but you cannot deny the reality that the KACP is facing. (If you would like me to hunt down the post, I would be glad to.) How do you help someone who doesn't ask for it? How do you meet a need that you don't even know exists? By providing constructive, positive feedback that nurtures those programmers to their fullest potential regardless if they ask. Now, you shouldn't tell them that what they are doing is wrong, but rather suggest that there is a better way. If someone seems to have a hit a roadblock, go the extra mile and fix it for them regardless if they ask. If a user sees this as intrusive, then we will respect their wishes, but unless otherwise noted helping, supporting, and caring are the best options."
+
+edit: it is more frustrating then anything for me, but consider the other novice programmers that could have made it on the HL if your program hadn't taken up a spot. what if the next GG is just waiting to be found but can't find the motivation without being noticed? please be considerate of others.
+• DATE: 10/20/2021, 2:21:03 PM
+Ooh, definitely going to continue stalking this, o.O.
+• DATE: 10/8/2021, 1:20:43 PM
+Keep up the great work! Can't wait to see this finished, :).
+• DATE: 10/7/2021, 3:42:44 PM
+This looks amazing. I'll have to wait to see how it turns out. Also, you should probably color the tree trunks a little darker if you care to, :).
+• DATE: 10/7/2021, 1:13:40 PM
+Nice graphic!
+• DATE: 10/21/2020, 2:20:31 PM
+Isn't this more of a method rather than a function?
+• DATE: 10/6/2020, 1:10:49 PM
+If you don't mind me asking (you don't have to answer), but what happened with 'OsuKi-ai!'? Has he just become less active?
+• DATE: 2/6/2020, 11:00:23 AM
+I'd play it if you _gave_ me money, >:). It really depends on complexity and user experience, so without knowing what others think of it I can't really say anything.
+• DATE: 1/23/2020, 6:29:56 AM
+Hmm...interesting. The purple text doesn't really fit Oh Noes and the dark background. Despite being a Thanos quote, `fill(150,200,150);` works better. It is practically the color of Oh Noes, so it looks like he is saying it. Besides, the color of the text (which is probably just me), the particles were done pretty well to reform Oh Noes.
+• DATE: 12/17/2019, 5:11:19 PM
+The cursor stays a hand/pointer after I click the subscribe button. I fixed it here. No credit needed. https://www.khanacademy.org/computer-programming/fixed-cursor-glitch/6095174811795456
+::::::::::::::::::::::::::::
+---- ANSWER ----
+• DATE: 3/3/2023, 11:19:01 AM
+glad you enjoy it, :D!
+
+`window.open` is the key. relevant code is on lines 695 to 707.
+
+1. open the window an' assign it to a variable. `const win 
+= window.open()`
+2. open the document for that window. `win.document.open()`
+3. write the contents of the current webpage into the document. `<!DOCTYPE html>` is standard practice for all webpages which is followed by the `outerHTML` [includes the tag of the element] of the `html` tag. `win.document.write("<!DOCTYPE html>" + ${document.getElementsByTagName("html")[0].outerHTML})`
+4. close the document since we're done writin'. `win.document.close()`
+5. this is a unique aspect of my fullscreen functionality. set the `fullscreen` attribute of the new `window` to true [`!0` is a shortcut of sorts]. `win.fullscreen = !0`.
+
+based on whether the `fullscreen` attribute is true i display the fullscreen icon, therefore you can't open a new screen once you're already in fullscreen mode.
+• DATE: 2/23/2023, 7:24:08 PM
+yes, please. i have no clue why KA won't recognize the two functions `println` an' `clearLogs` as globals. it started at 1.8.6 an' kept goin' 'till 1.8.8, =/.
+• DATE: 2/20/2023, 4:10:00 PM
+based on PJS, it's for everythin' which is what i based mine off of.
+
+it might make more sense to do everythin' but transformations for greater user control, but that's also reduced performance.
+• DATE: 2/9/2023, 9:47:04 PM
+a better question would be if you want rage's collisions in particular or just circle-rect collisions. i've optimized the collisions further in the `collision.js` addon of ski.js, but here's the code from rage.
+`_*https://www.khanacademy.org/cs/-/4634057996812288*_`
+• DATE: 2/7/2023, 4:20:24 PM
+no promises, but i might give it a whirl.
+• DATE: 2/2/2023, 4:36:39 AM
+actually `var` counts as a global variable as long as the script type is not set to `module`, ;p.
+• DATE: 2/1/2023, 11:10:42 AM
+not yet. it's missin' a bunch of featurez, so i'll add those in soon an' release then.
+
+there's a major bug with enemy collisions that i haven't fixed [enemies glitch through wallz] an' there are s'pposed to be multiple maps in the town. i might update the couch graphic as well as the weapon GUI in the release as well.
+• DATE: 2/1/2023, 10:25:51 AM
+the first thin' to consider is that you're forced to work in a module which isn't attached to the global scope. line 2694 wouldn't work.
+
+`fps` is a global variable that defines fps instead of `this.__frameRate`.
+
+event listeners haven't always worked properly, so you'll need to add the `event` parameter. instead of `mousebutton`, `e.button`. instead of `key`, `e.key`. instead of `keyCode`, `e.keyCode`.
+
+i don't see anythin' else right away.
+ski.js doesn't differ from PJS that much. it only opens the door for more complex JS. i'll get back to you with Embers in ski.js when i get the chance.
+
+[to flag you'd just have to hate Lemon]
+• DATE: 1/23/2023, 5:41:11 AM
+nope. hasn't worked since the project API endpoints were deprecated a couple weeks ago, =/.
+• DATE: 1/14/2023, 5:51:51 PM
+first an' foremost, it allows us to create bigger projex without bein' limited by PJS.
+
+second, everyone will be able to employ more advanced programmin' concepts which opens a learnin' opportunity.
+
+last but not least, it is bound to improve our score if even by a small margin due to code complexity.
+• DATE: 1/14/2023, 4:17:57 PM
+read lines 18 to 38 an' then lmk if you have any questionz.
+• DATE: 1/11/2023, 7:24:14 PM
+no sir. i am not.
+• DATE: 10/15/2022, 6:57:59 PM
+create a new project. post your code. adjust the width an' height as necessary. done.
+• DATE: 10/10/2022, 4:21:55 PM
+i've never personally reached the character limit, but i've been told that the file size of any program cannot exceed 1MB. savin' will simply error out an' the "save" button will be stuck on "saving..."
+
+the best way is to store all code on GitHub. there are issues with this such as the need to constantly test an' tweak code. i would work on chunks of the code at a time. due to the limitations an' restrictions of this environment (particularly the scope of exported variables), there are quite a few workarounds necessary for different situations.
+
+if you want a surefire method that would only last for a few months (perhaps less), you could simply abuse (not literally) the API.
+• DATE: 10/5/2022, 4:54:52 PM
+the idea was for this contest to inspire creativity an' quality in the form of a rickroll, not flood the HL with a bunch of rickrolls.
+• DATE: 8/22/2022, 6:54:49 PM
+could i have a link?
+
+three ideas that come to mind.
+
+a.) blank nodes were needed for older browsers (specifically IE), but KA no longer supports IE so idk (they've also made some pretty darn silly dev mistakes, so i wouldn't put it past 'em havin' things that don't need to be there).
+
+b.) blank nodes could just be empty `script` tags for imported scripts or `link` tags for stylesheets. it depends on which nodes these are.
+
+c.) since you're in a sandboxed `iframe`, we don't have full access, so they could've restricted the capability of webpages to read the nodes.
+
+unless smth changed, i think you should still be able to access what you need without encounterin' the blank nodes. i would at least be able to find a workaround for you, :).
+• DATE: 8/20/2022, 6:59:38 PM
+that's the issue. you'd have to know the previous endpoints to utilize 'em.
+
+there's actually quite a lot on spin-offs currently in the API, _BUT_ it seems that KA goes off the data initially set, so it can't be changed (a.k.a. i've already tried). width an' height can be changed after the program is initially saved, as well as thumbnail, in normal conditions but the content type won't.
