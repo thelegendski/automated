@@ -2,3 +2,4 @@ var contestants = [{name: "ski", kaid: "kaid_1037904081391187080498507", level: 
 //WARNING! invalid join code [team]: S. M. V. | kaid_266891459920003908397632 | i want cake
 //WARNING! join failed: Astro | kaid_4391100538307580650220212
 //WARNING! join failed: Lemon Games 🦈 | kaid_317222614333275516765464
+//WARNING! join failed: VVhiteTiger | kaid_154605635905555420140323
