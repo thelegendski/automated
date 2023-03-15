@@ -1,6 +1,58 @@
 kaid: kaid_266891459920003908397632
 
 ---- REPLY ----
+~ DATE: 3/14/2023, 9:29:40?PM ~
+Bonjour, Tyler! Je m'appele Marie!
+(Why did I do that? Je ne sais pas.)
+I am bored once more, lol. So, ofc, I'll just annoy you, and, ofc, just don't respond if you don't wanna :p
+
+I need to get a life again b'cuz now my Tuesdays and Thursdays have opened a bit which sucks 'cuz I like actually having smthn to do; I'd die of boredom elsewise :pp
+
+How's life?
+
+On a slightly less tangential point, are there any particular backgrounds you want me to make for the CoC program? Maybe I can put this time to a bit of useless use. And portal gun or time machine? I already made a time machine, so idk if I should make both... =P
+~ DATE: 3/14/2023, 6:48:14?PM ~
+Rip, my schedule has now reached a significantly healthier status b'cuz my parents have [understandably. It's an hour away, lol] refused to drive me back from track on Tuesdays and Thursdays xPPP
+I hope I don't get kicked out of the team b'cuz of that, tho >:(((
+I always have HS, ig. And it might be even better b'cuz we're moving... To the US... To Virginia... =P
+~ DATE: 3/14/2023, 5:15:41?PM ~
+xD
+(So would I, tbh, lol)
+
+I did! :D 
+...
+Understandable, tho, ngl :p
+
+=)
+~ DATE: 3/14/2023, 1:42:06?PM ~
+:D
+Lol, imo, the 45 min ride back home is plenty enough time xD
+But yes. Soggy granola bars ftw! (I don't actually eat in the shower, ofc...)
+
+That's true.
+So are vegetables.
+Not everyone enjoys them.
+B)
+
+Yup :)
+~ DATE: 3/14/2023, 1:22:32?PM ~
+Yeah :DD
+I mean, why tho xD
+:DDD
+Me, too. Life is boring sometimes but it's not so much atm =P
+
+Aww. Well, that awkwardness should dissipate soon enough, too :)))
+~ DATE: 3/14/2023, 1:01:31?PM ~
+- ski.js is _running_ normal JS in HTML, but things I used in the code like `strokeWeight` aren't in 'normal JS', as you know; if you were rendering graphics using normal JS on an HTML5 canvas, it'd be `ctx.lineWidth`. I was talking about the game's code not being in normal JS, not ski.js not being in JS. That's obviously JS, lol.
+
+- There's just a blank loading screen for, like, 45 seconds if it's `loopTimeout` by dkareh or KWC, and idk any others, so perhaps I'm mistaken. Ik there's `jshint:ignore` or `jsesnext:true` and those, but that's not what I meant, :p. If you toss in `type`, even if it's blank, in the `<script>` tag, there's never any wait or delay and it always works =p
+
+- Is that legal?
+~ DATE: 3/14/2023, 10:36:16?AM ~
+Ah.
+Polar's bot.
+That'd make sense.
+xD
 ~ DATE: 3/14/2023, 7:22:40?AM ~
 Oh, lol, I should've done that xP
 But now, doing that with 43 votes might attract even more attention xPPP
@@ -132,6 +184,16 @@ From there, don't live there anymore.
 You follow IPL?
 (yes, this is my 1st question when I find someone's Indian, _lol_)
 ~ DATE: 3/10/2023, 5:52:33?AM ~
+Well. There are 12 vowels and 18 letters, both of which can be used separately. And then 12 vowels ? 18 consonants to make more letters. Combo letters, ig. And then one unique letter that makes the consonants sound like i + [consonant]. There are also special letters (that I didn't count in the 247; they're called Grantha letters) that are really similar to Sanskrit, like ????, sri, and are used pretty much exclusively for writing English or Sanskrit in Tamil.
+? > ka, consonant
+? > aa, vowel
+? + ? = ?? > ka + aa = kaa, but kaa is also just a letter
+? + ? = ?? > ka + uhk = ik
+? is only a half-letter, though, it can't be used elsewhere, except for one or two words like ????, meaning steel :p
+
+That is painfully relatable xDDDD
+Are you Indian? Or just learning Hindi on Duolingo, lol...?
+~ DATE: 3/10/2023, 5:52:33?AM | EDITED ~
 Well. There are 12 vowels and 18 letters, both of which can be used separately. And then 12 vowels ? 18 consonants to make more letters. Combo letters, ig. And then one unique letter that makes the consonants sound like i + [consonant]. There are also special letters (that I didn't count in the 247; they're called Grantha letters) that are really similar to Sanskrit, like ????, sri, and are used pretty much exclusively for writing English or Sanskrit in Tamil.
 ? > ka, consonant
 ? > aa, vowel
@@ -474,6 +536,8 @@ _Smirks at bread b'cuz bread_
 ?De verdad hablas espa?ol o era un traducor?
 ~ DATE: 3/2/2023, 12:13:42?PM | EDITED ~
 ?De verdad hablas espa?ol o era un traducor?
+~ DATE: 3/2/2023, 12:13:42?PM | EDITED ~
+?De verdad hablas espa?ol o era un traducor?
 ~ DATE: 3/2/2023, 12:11:05?PM ~
 Not just travel, there's also a ton of other stuff going on.
 But to go there, I'm leaving on the 5th of June and returning on the ~23rd of August.
@@ -634,6 +698,18 @@ You > "idrc, i'm a better arguer than you are anyway >:D"
 ~ DATE: 2/28/2023, 9:06:23?PM ~
 Can we add a 'lil trig bobble to the characters? c:
 ~ DATE: 2/28/2023, 8:45:37?PM ~
+?Hola!
+
+Thank you! :D (It is, by quite a bit, but I shouldn't have copied material from the _Facts 'Bout Me_ blindly, lol. Fixed now :p)
+
+Ty! _Smol hands ftw!_
+
+idek anymore lol:
+Coolio
+
+Ikr?
+Thanks! =)
+~ DATE: 2/28/2023, 8:45:37?PM | EDITED ~
 ?Hola!
 
 Thank you! :D (It is, by quite a bit, but I shouldn't have copied material from the _Facts 'Bout Me_ blindly, lol. Fixed now :p)
@@ -1032,6 +1108,8 @@ Heya... I'm sorry, idk if I've the time to judge this round, especially not by t
 ? here's a [fake] lollipop; now it's not so cruel [or true] anymore :D
 ~ DATE: 2/9/2023, 4:40:16?PM | EDITED ~
 ? here's a [fake] lollipop; now it's not so cruel [or true] anymore :D
+~ DATE: 2/9/2023, 4:40:16?PM | EDITED ~
+? here's a [fake] lollipop; now it's not so cruel [or true] anymore :D
 ~ DATE: 2/8/2023, 8:51:16?PM ~
 Tied with tigers :D
 (...And possibly your 'lil kitty named Ninja who idk, but still lol)
@@ -1054,6 +1132,12 @@ Sent xD
 Radius? Around 60 cm; like 20 inches. Diameter's over a metre (like 4 ft). With the metal frame, the height'll be a 'lil taller than me (I'm 5'4)
 Apologies for the horrific angle; I was in a rush 'cuz the bell was about to ring lol
 ~ DATE: 2/8/2023, 5:56:36?AM ~
+Aw, you should pick it up again :D
+Although, it might be easier to start with something a 'lil more simple... Like Spanish, perhaps...? German is also quite simple, at the basics at least. And then you get stuff like Eichh?rnschen (meaning squirrel), like what the heck, how do you pronounce that?! 
+(Those languages will be easy if you normally speak English, that is, I suppose =p)
+Well yeah, ig it kinda is, lol
+But I've got no life and a lotta time to spare :p
+~ DATE: 2/8/2023, 5:56:36?AM | EDITED ~
 Aw, you should pick it up again :D
 Although, it might be easier to start with something a 'lil more simple... Like Spanish, perhaps...? German is also quite simple, at the basics at least. And then you get stuff like Eichh?rnschen (meaning squirrel), like what the heck, how do you pronounce that?! 
 (Those languages will be easy if you normally speak English, that is, I suppose =p)
@@ -1514,6 +1598,17 @@ Ah, yes, that was good, yeah =P
 Gotta keep lyin' to yourself 'bout that XD)
 Ay, it's fine; what's the worst that could happen? :D
 I claim the title as the most annoying person on KA >:) ?
+~ DATE: 2/3/2023, 10:50:58?PM | EDITED ~
+Lol
+
+For sureeeeeeee
+
+Ikr?! It's definitely _insane_ :o XD
+Ah, yes, that was good, yeah =P
+(And true.
+Gotta keep lyin' to yourself 'bout that XD)
+Ay, it's fine; what's the worst that could happen? :D
+I claim the title as the most annoying person on KA >:) ?
 ~ DATE: 2/3/2023, 10:47:37?PM ~
 @Promise -
 Hi!
@@ -1660,6 +1755,12 @@ Oki, thanks :))
 ~ DATE: 2/1/2023, 4:00:02?PM ~
 Heya! It should be at the top of the Tips and Thanks ;)
 ~ DATE: 2/1/2023, 3:48:05?PM ~
+Why thank you :D
+...
+_...Wait..._
+Does this have to do with my accent again? XD
+I'll take it either way tho tbh lol ?
+~ DATE: 2/1/2023, 3:48:05?PM | EDITED ~
 Why thank you :D
 ...
 _...Wait..._
@@ -2907,29 +3008,29 @@ Bonjour! Moi aussi! For all of the above =P
 =)
 What's happening in a day? 
 That's good :p
-~ DATE: 1/18/2023, 1:32:52?PM ~
+~ DATE: 1/18/2023, 1:32:52?PM | DELETED ~
 It's fine, still; tysm for asking, m8 :)))
 How are things on your side?
-~ DATE: 1/18/2023, 1:15:51?PM ~
+~ DATE: 1/18/2023, 1:15:51?PM | DELETED ~
 Yeah lol
 (It's oki, perhaps not the best to share on KA... Thank you for asking, though, life's been kinda crappy, ngl <3)
 Lol
 Aw, welp... Bye, then XP
-~ DATE: 1/18/2023, 12:41:33?PM ~
+~ DATE: 1/18/2023, 12:41:33?PM | DELETED ~
 Rn, the ceiling =p
 Niceee
 Ig I'll leave you to it, then...?
-~ DATE: 1/18/2023, 12:40:05?PM ~
+~ DATE: 1/18/2023, 12:40:05?PM | DELETED ~
 1. SVG image converter?
 2. Ahhh... _Better,_ but yeah, the colours really, _really_ clash. Maybe just back to the same colour as the body?
 (...also, ah... maybe... some credit to moi for the logo? :p)
-~ DATE: 1/18/2023, 12:27:21?PM ~
+~ DATE: 1/18/2023, 12:27:21?PM | DELETED ~
 ..._Meh._
 You?
-~ DATE: 1/17/2023, 4:24:43?PM ~
+~ DATE: 1/17/2023, 4:24:43?PM | DELETED ~
 Ohhh, yeah, you definitely should, mate, that'd be _awesome_ :DDDDD
 Lol, you're KA-famous at least, that's fs =D
-~ DATE: 1/17/2023, 3:40:44?PM ~
+~ DATE: 1/17/2023, 3:40:44?PM | DELETED ~
 How is the fact you go to school in-person pii?
 
 Wow, lucky! Mine's moronic. They just... Yeah, I mean, there's horrid crap and then they block _Coolmath games_. There are ways around it, though; I use a VPN which gives me different unblocked results for most things, and some kid compiled a list of games into a Google Site, and the school can't block Google Sites, so, like, all's well, ig :D
@@ -3003,6 +3104,13 @@ It could use a 'lil colour tho, the background's an easy fix for that, maybe mak
 It'd be better with a 'lil more juicing, as Longtreader said. Also a menu page and the like would help :p
 
 Noice job, mr bread ? mr maple syrup ? NIKO ? Akbaba :D
+~ DATE: 2/27/2023, 5:47:02?PM | EDITED ~
+That pixel art is pretty freakin' sweet :o
+So's the rigging :D
+It could use a 'lil colour tho, the background's an easy fix for that, maybe make it blue instead of grey?
+It'd be better with a 'lil more juicing, as Longtreader said. Also a menu page and the like would help :p
+
+Noice job, mr bread ? mr maple syrup ? NIKO ? Akbaba :D
 ~ DATE: 2/27/2023, 5:06:08?PM ~
 Well heyo :D
 I'm bored
@@ -3023,6 +3131,9 @@ Random, lol. "sweaty child" xD
 Chill
 Emo >:p
 ~ DATE: 2/26/2023, 3:07:53?PM ~
+Aw, why thank you c:
+Graphics lord ? logic legend = :D
+~ DATE: 2/26/2023, 3:07:53?PM | EDITED ~
 Aw, why thank you c:
 Graphics lord ? logic legend = :D
 ~ DATE: 2/26/2023, 3:07:53?PM | EDITED ~
@@ -3100,6 +3211,9 @@ I hope things are better now... GH to talk (as always ;)) if ya wanna <3
 ~ DATE: 2/1/2023, 5:45:59?AM ~
 I am clearly not a judge, but I _can_ see your comment with the scores. Not Timothy's or IA's, though. Although, yours didn't come in the notifs (I may or may not have subbed to this, lol); I wonder why...
 ~ DATE: 1/31/2023, 9:51:44?AM ~
+Dieser Projekt es so sch?n! :D
+Reminds me of the Parthenon =P
+~ DATE: 1/31/2023, 9:51:44?AM | EDITED ~
 Dieser Projekt es so sch?n! :D
 Reminds me of the Parthenon =P
 ~ DATE: 1/31/2023, 9:51:44?AM | EDITED ~
@@ -3663,6 +3777,39 @@ Furthermore, in the guidelines it says:
 
 _This is regarding the project getting hidden on the HL. This is -not- on the HL. No problem there!
 Neither the guidelines nor fl@gs explicitly state anything to do with off-topic discussion *threads* so it can all be left up to viewer interpretation, making it somewhat easy to argue oneself out of a possible mess..._ >;D
+~ DATE: 12/12/2022, 10:56:52?AM | EDITED ~
+*New thread*
+
+_Same rules apply as 1st thread._
+
+...
+Note: If you join this thread, be prepared for a _lot_ of notifications XP
+
+...
+*A quick disclaimer for fl@g-happy people*
+_Technically, this is not violating any rules._
+
+They are as follows:
+
+"Fl@g as abuse
+disrespectful or offensive, an advertisement
+
+Fl@g as a question
+Should be in ?Questions?
+
+Fl@g as not helpful
+Low quality, not about the video topic, soliciting votes or seeking badges, a homework question, repeatedly making the same post
+
+Fl@g as about the site
+A question about Khan Academy (e.g. ?What software does Sal use??), a post about badges, a technical problem with the site, a request for videos or features"
+
+_Although certain parts of this thread go off-topic, it clearly does not violate anything above._
+
+Furthermore, in the guidelines it says:
+"...Social groups or clubs, or projects that generate social chats, and other posts not related to coding, in the discussion thread..."
+
+_This is regarding the project getting hidden on the HL. This is -not- on the HL. No problem there!
+Neither the guidelines nor fl@gs explicitly state anything to do with off-topic discussion *threads* so it can all be left up to viewer interpretation, making it somewhat easy to argue oneself out of a possible mess..._ >;D
 ~ DATE: 12/11/2022, 8:33:20?PM ~
 I would appreciate some credit as you used my subpage as a base for yours, then decided to make a template on one with much of the same code/style...
 ~ DATE: 12/6/2022, 9:55:58?PM ~
@@ -3686,6 +3833,8 @@ Sub? It'd make my day :D
 
 https://www.khanacademy.org/computer-programming/version-20/5153518035451904
 ~ DATE: 12/4/2022, 3:27:20?PM ~
+?Muy bonito! :D
+~ DATE: 12/4/2022, 3:27:20?PM | EDITED ~
 ?Muy bonito! :D
 ~ DATE: 12/4/2022, 3:27:20?PM | EDITED ~
 ?Muy bonito! :D
@@ -4147,6 +4296,11 @@ Aww, that's a sweet message =)
 
 Thanks for the cookie, btw! (^-^)-?
 Here's some chocolate for you, cuz _someone_ at 'em all XD ?
+~ DATE: 10/20/2022, 1:40:58?PM | EDITED ~
+Aww, that's a sweet message =)
+
+Thanks for the cookie, btw! (^-^)-?
+Here's some chocolate for you, cuz _someone_ at 'em all XD ?
 ~ DATE: 10/19/2022, 3:53:53?PM ~
 Sorry, @TCL :P
 
@@ -4242,6 +4396,14 @@ IDK. Just a theory. Like humans getting goosebumps, just a flight-or-fight respo
 What if dogs bring us back sticks cuz they think we like throwing them?
 
 Do you like MBTI? I'm an INTJ :D
+~ DATE: 9/17/2022, 7:44:25?PM | EDITED ~
+I think it might be more of a primitive response. Ya know? When fish are feeling threatened, they contort their body into a c-shape, which automatically propels them up. Fish all the way down in the sea don't seem to have this ability; only surface-level fish. So if they do it, they automatically go into the air cuz that's how their body works. And like @ski and @br?nte said, they might be able to find out the temperature or pressure change. Also, the fact they won't be able to breathe... 
+
+IDK. Just a theory. Like humans getting goosebumps, just a flight-or-fight response.
+
+What if dogs bring us back sticks cuz they think we like throwing them?
+
+Do you like MBTI? I'm an INTJ :D
 ~ DATE: 9/9/2022, 5:50:02?PM ~
 Put a "." in here to sub!
 
@@ -4250,6 +4412,14 @@ Please vote up for convenience :)
 _Do not post anything in the chat unless you are me. You will be flagged, as it will spam a lot of people._
 ::::::::::::::::::::::::::::
 ---- ANSWER ----
+~ DATE: 3/14/2023, 11:08:28?AM ~
+- There's no es6 in PJS; _es6 ftw!_
+- This is ski.js, btw, not normal JS in HTML :p
+- Everything is much more efficient and we can _actually_ get rid of Oh Noes :)
+- We can import stuff using the `script` tag
+- _Fonts! Legally!_ :D
+
+All in all, many advantages, and good question =)
 ~ DATE: 3/13/2023, 11:31:46?AM ~
 I will re-release it in a new program.
 It will only get complete in one week or so.
@@ -4339,6 +4509,35 @@ It's a scene in a collab but unfinished; still a WIP. So I'd prefer it if you di
 ~ DATE: 12/31/2022, 6:43:42?PM ~
 It has not begun yet; it will start on the 2nd of January =)
 ~ DATE: 12/25/2022, 6:06:55?PM ~
+Using the distributive property, we can go from 
+(fx + g)(hx + j) 
+to 
+(fh)x? + (fj + gh)x + gj
+
+1. fx ? hx = fhx?.
+2. fx ? j = fjx.
+3. g ? hx = ghx.
+4. g ? j = gj.
+At this point, we have all four... Segments, with lack of a better word... Of our expression written:
+fhx? + fjx + ghx + gj
+From here, we can factor out the x.
+(fh)x? + (fj + gh)x + gj
+Now, at the beginning of the video, we had the variables a and b. Let's replace the fj and gh with them.
+a = fj
+b = gh
+Therefore, a ? b will be equal to fj ? gh, which we could then rewrite as fhgj, also equal to (fh)(gj).
+Now, let's refer back to the first, unfactored expression we had:
+fhx? + fjx + ghx + gj
+Now that we have (fh)(gj), when looking back at the previous expression, we can see it is the first coefficient (fh) times the constant term (gj).
+So, 
+a [aka fj] + b [aka gh] = middle term [fj + gh]
+Using the commutative property of multiplication, we can reorder the fjgh to see that
+a [aka fj] ? b [aka gh] = first coefficient ? constant term
+And this is why it all works out in the end.
+
+Hope this helps!
+(actually, I hope it's _coherent_ in the first place, lol XD)
+~ DATE: 12/25/2022, 6:06:55?PM | EDITED ~
 Using the distributive property, we can go from 
 (fx + g)(hx + j) 
 to 
