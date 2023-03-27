@@ -2,3 +2,4 @@ var contestants = [{name: "Crystal Coding", kaid: "https://khanacademy.org/profi
 //WARNING! join failed: LightningCoder | kaid_293295321613227018876720
 //WARNING! join failed: Captain Longtreader | kaid_460330406411328152379375
 //WARNING! join failed: CowboysFan232 | kaid_838836130659786741993223
+//WARNING! join failed: J??-J?? B???? (Offline) ? | kaid_546205135843777431062822
