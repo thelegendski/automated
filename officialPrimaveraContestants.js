@@ -2,9 +2,9 @@ var contestants = [{name: "Crystal Coding # GO Team ALTUM", kaid: "https://khana
 //WARNING! join failed: vw_beetlesultimategreatness | kaid_619314192765827579155878
 //WARNING! join failed: J??-J?? B???? (Offline) ? | kaid_546205135843777431062822
 //WARNING! join failed: ????????F (read bio) | kaid_979231835959986117146697
-//WARNING! join failed: StuffStash | kaid_299451098089163638189975
 //WARNING! join failed: Reflex | kaid_66224682886095078267924
 //WARNING! join failed: Avinasen | kaid_1179196812991584934767621
 //WARNING! invalid join code [team]: RedSus#Tellus | kaid_287661105799232762144759 | Magnus
 //WARNING! join failed: Invisible Bob | kaid_4357452902529547972393951
 //WARNING! join failed: ?LuckyFaith? | kaid_176032155583189834683683
+//WARNING! invalid join code [team]: Samurai Warrior ? | kaid_333534297788735128142174 | Whatever team Galaxy Ranger gets put in
