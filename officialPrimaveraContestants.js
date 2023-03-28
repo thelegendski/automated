@@ -6,3 +6,4 @@ var contestants = [{name: "Crystal Coding", kaid: "https://khanacademy.org/profi
 //WARNING! join failed: HoarseHorse | kaid_3902988618718040904060736
 //WARNING! join failed: Astro | kaid_4391100538307580650220212
 //WARNING! join failed: Reflex | kaid_66224682886095078267924
+//WARNING! join failed: Avinasen | kaid_1179196812991584934767621
