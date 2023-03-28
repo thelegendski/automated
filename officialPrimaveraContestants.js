@@ -7,4 +7,4 @@ var contestants = [{name: "Crystal Coding # GO Team ALTUM", kaid: "https://khana
 //WARNING! invalid join code [team]: RedSus#Tellus | kaid_287661105799232762144759 | Magnus
 //WARNING! join failed: Invisible Bob | kaid_4357452902529547972393951
 //WARNING! join failed: ?LuckyFaith? | kaid_176032155583189834683683
-//WARNING! invalid join code [team]: Samurai Warrior ? | kaid_333534297788735128142174 | Whatever team Galaxy Ranger gets put in
+//WARNING! invalid join code [team]: Samurai Warrior ? | kaid_333534297788735128142174 | Aeuguor
