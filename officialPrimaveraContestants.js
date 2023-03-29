@@ -3,3 +3,4 @@ var contestants = [{name: "Crystal Coding # GO Team ALTUM", kaid: "https://khana
 //WARNING! join failed: Reflex | kaid_66224682886095078267924
 //WARNING! join failed: Avinasen | kaid_1179196812991584934767621
 //WARNING! join failed: Invisible Bob | kaid_4357452902529547972393951
+//WARNING! invalid join code [team]: sugar ? ? | kaid_706936468208143963519267 | Magus or Virtus
