@@ -4,3 +4,4 @@ var contestants = [{name: "Crystal Coding # GO Team ALTUM", kaid: "https://khana
 //WARNING! join failed: Invisible Bob | kaid_4357452902529547972393951
 //WARNING! join failed: ???????? {??????} | kaid_4408766809036862538405271
 //WARNING! join failed: FunkyStone | kaid_100883727649169325640401
+//WARNING! join failed: Cesar | kaid_969151739535826808615246
