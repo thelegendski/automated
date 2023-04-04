@@ -14,3 +14,4 @@ var contestants = [{name: "The No-Sock Guy(alt)", kaid: "https://khanacademy.org
 //WARNING! join failed: Jme | kaid_567701916296046823162388
 //WARNING! join failed: Sparky Studio??? | kaid_2675097681579039205114710
 //WARNING! join failed: StuffStash | kaid_299451098089163638189975
+//WARNING! join failed: Astro | kaid_4391100538307580650220212
