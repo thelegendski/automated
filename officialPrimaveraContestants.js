@@ -7,3 +7,4 @@ var contestants = [{name: "The No-Sock Guy(alt)", kaid: "https://khanacademy.org
 //WARNING! join failed: Cesar | kaid_969151739535826808615246
 //WARNING! join failed: ?????[offlinefornow] | kaid_874944755395678105267495
 //WARNING! invalid join code [team]: The Mandolorian | kaid_133645398557157542995193 | Magnus
+//WARNING! blacklisted user attempted to join: Cooke's | kaid_1191657490399007636732524
