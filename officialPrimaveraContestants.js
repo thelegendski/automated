@@ -17,3 +17,4 @@ var contestants = [{name: "The No-Sock Guy(alt)", kaid: "https://khanacademy.org
 //WARNING! join failed: Astro | kaid_4391100538307580650220212
 //WARNING! join failed: ??Sparky Studio?? | kaid_2675097681579039205114710
 //WARNING! join failed: WinstonWinner000 (Parlor Indie) #OpesFTW | kaid_693763055742960827086832
+//WARNING! join failed: Holly Rebbeck | kaid_47426498467631603567904
