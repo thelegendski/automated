@@ -18,3 +18,4 @@ var contestants = [{name: "The No-Sock Guy(alt)", kaid: "https://khanacademy.org
 //WARNING! join failed: ??Sparky Studio?? | kaid_2675097681579039205114710
 //WARNING! join failed: WinstonWinner000 (Parlor Indie) #OpesFTW | kaid_693763055742960827086832
 //WARNING! join failed: WinstonWinner000 (Parlor Indie) #OpesFTW | kaid_693763055742960827086832
+//WARNING! join failed: Animation Guy ? | kaid_5780573800045062253124480
