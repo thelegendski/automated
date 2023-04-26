@@ -5,11 +5,11 @@ var contestants = [{name: "The No-Sock Guy(alt)", kaid: "https://khanacademy.org
 //WARNING! join failed: connor_young | kaid_100883727649169325640401
 //WARNING! join failed: Cesar | kaid_969151739535826808615246
 //WARNING! join failed: ?????#Magus | kaid_874944755395678105267495
-//WARNING! invalid join code [team]: BART SIMPSON | kaid_133645398557157542995193 | Magnus
+//WARNING! invalid join code [team]: BABY YODA | kaid_133645398557157542995193 | Magnus
 //WARNING! blacklisted user attempted to join: Cooke's | kaid_1191657490399007636732524
 //WARNING! blacklisted user attempted to join: Cooke's | kaid_1191657490399007636732524
 //WARNING! join failed: Astro | kaid_4391100538307580650220212
-//WARNING! join failed: BART SIMPSON | kaid_133645398557157542995193
+//WARNING! join failed: BABY YODA | kaid_133645398557157542995193
 //WARNING! join failed: Jme | kaid_567701916296046823162388
 //WARNING! join failed: Jme | kaid_567701916296046823162388
 //WARNING! join failed: ??Sparky Studio?? | kaid_2675097681579039205114710
