@@ -22,3 +22,4 @@ var contestants = [{name: "The No-Sock Guy(alt)", kaid: "https://khanacademy.org
 //WARNING! join failed: Pleconerd | kaid_2541335341957759377664349
 //WARNING! join failed: LaTwana Porter | kaid_186921656221553351658858
 //WARNING! join failed: Green Leaf | kaid_927132787178726492299650
+//WARNING! invalid join code [team]: Crystal Coding # Go Cinis! | kaid_351465532815782433620675 | team
