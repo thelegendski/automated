@@ -1,0 +1,64 @@
+kaid: kaid_723531831915625965597136
+
+---- REPLY ----
+? DATE: 7/4/2023, 8:08:34 PM
+Not yet. A friend referred me here after they referred me to Scratch. Not trying to throw shade, but Scratch seems a little basic. Thinking about getting a GitHub, Replit, and Dev-to account soon, after being referred there by a fullstack developer. 
+
+Nice to meet you as well.
+? DATE: 7/4/2023, 7:53:17 PM
+I did not join all that long ago with this account; you are correct. This is not my first Khan Academy account; yes, however, my old account is used only for school, so I don't think I am an "alt" in the way that you are thinking of it.
+
+I only know about the CSP here due to a test I ran to import a Tensorflow.js model to Khan Academy. I have developed quite a bit locally on my computer for personal projects as well as building some applications for students at my school. Just another teen developer. :)
+? DATE: 7/4/2023, 6:27:28 PM
+When you import a script, you simply import the text, and the text is run in the script tag you created locally. Here that is in the sandbox.
+
+An alt? I am not sure what you mean. Could you elaborate?
+? DATE: 7/4/2023, 9:17:42 AM
+That's a hard bargain to drive and highly unlikely, but I'll take your word for it.
+? DATE: 6/22/2023, 11:59:30 AM
+Fast progress is rushed progress. Rushed progress is backwards progress. =P
+
+I tried and did not have a successful result. Do you have a working demonstration of directly importing a JSON file into KA? For my purposes, Tensorflow.js should not need write permissions; furthermore, the current error I am getting is a CSP/CORS error in the console.
+
+The main issue I am having is that `tf.loadGraphModel` and `tf.loadLayersModel` do not accept the JSON object itself but rather the URL that directs the function to the JSON object. However if the model is stored in `localstorage` or `indexeddb`, the model has to be stored in a particular format that I do not know. Tensorflow.js expects the developer to use their `model.save` method to store in `localStorage` or `indexedDB` rather than for the developer to do it themselves.
+? DATE: 6/22/2023, 11:29:04 AM
+Ah, that kind of progress. =D
+
+Oh, whoops. I guess I didn't clarify. I mean a ML model. I have a TensorFlow model I created locally that I've converted into a Tensorflow.js model, in JSON. My issue is trying to use Tensorflow.js to import the model as KA stops me from importing JSON files. The solution, in theory, would be assigning the object to a variable, using `JSON.stringify`, and then sending that string to Tensorflow.js. Tensorflow.js accepts `localstorage` and `indexeddb` URLs, but I haven't figured out how to send the JSON object in the right format to either as it seems to be a web browser-specific example.
+The two methods in question are `tf.loadGraphModel` and/or `tf.loadLayersModel`.
+
+Please let me know if you need me to clarify. I probably sounded incoherent.
+? DATE: 6/22/2023, 11:23:08 AM
+ChatGPT wasn't fond of naming its program "test". =P
+? DATE: 6/19/2023, 5:57:10 PM
+@PT
+Unless KA or OpenAI do smth in the near future that lets us import a query to ChatGPT.
+
+@Aryansh
+It is simply misleading. It is simply clickbait. Sure you can name a project whatever you like, and I get to criticize the project's name however I like. You're free to say whatever you like, and so am I. :) You can ignore what I have to say if you would like, and I don't mean any harm by it. I simply wish for the other users in the KACP to be well-informed. To be fair, a plethora of gaming franchises use the term AI to truly mean CPU as the computer's algorithm doesn't hold any intelligence.
+
+Speaking of ChatGPT, here's a very, very simple definition of artificial intelligence: "Artificial intelligence, also known as AI, is like having a smart robot friend that can think and learn just like humans do. It's a special kind of technology that helps computers do things that usually only people can do. AI can understand and talk to us, play games, solve problems, and even help with important tasks like finding information or driving cars. It's a bit like having a really clever helper that can do things on its own without needing constant instructions." Artificial intelligence implies that the program learns and makes decisions based on past knowledge and completely independent from the programmer. In this case, you are force-feeding the data to the chatbot, and the chatbot cannot respond on its own and is completely dependent on the programmer; thus, this is not artificial intelligence, and I find it misleading to label it as such. However, you label it however you like, ;P.
+? DATE: 6/17/2023, 1:01:01 PM
+You would save so much time if you gave up on trying to defend your use of converter. Just saying.
+::::::::::::::::::::::::::::
+no questions
+::::::::::::::::::::::::::::
+---- COMMENT ----
+? DATE: 7/4/2023, 4:38:07 PM
+Only known ways to bypass CSP is the `location` hack or WebRTC. Both are illegal, sadly.
+
+You could just create a WikiMedia account and upload all your images there.
+? DATE: 7/3/2023, 9:03:57 AM
+"Can't relate." - Primavera 2023
+
+Are you individually distributing the teams based on skill level?
+? DATE: 6/22/2023, 7:47:56 PM
+Wow, nice work! Glad to see support for the LGBTQIA+ community. :)
+? DATE: 6/21/2023, 4:11:28 PM
+Progress?
+
+Hey there! I'm wondering if you happen to be experienced with tensorflow.js or know anyone who is as I am trying to import a model to KA, but CORS is a nightmare. The current issue is importing the JSON object not from a URL.
+? DATE: 6/19/2023, 8:45:45 AM
+I think you need to look up what AI means.
+::::::::::::::::::::::::::::
+no answers
