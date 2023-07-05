@@ -80,6 +80,10 @@ You could just create a WikiMedia account and upload all your images there.
 Only known ways to bypass CSP is the `location` hack or WebRTC. Both methods are illegal, sadly.
 
 You could just create a WikiMedia account and upload all your images there.
+~ DATE: 7/4/2023, 4:38:07 PM | EDITED ~
+Only known ways to bypass CSP is the `location` hack or WebRTC. Both methods are illegal, sadly.
+
+You could just create a WikiMedia account and upload all your images there.
 ~ DATE: 7/3/2023, 9:03:57 AM ~
 "Can't relate." - Primavera 2023
 
