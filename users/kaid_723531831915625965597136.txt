@@ -449,6 +449,17 @@ You could, but I am not sure what that would accomplish. Also (not to sound rude
 
 For the Wogglebug:
 The issue seems to arise from the nature of the import of the JSON object. The error may be on my end(?), but it appears as though an external URL may be needed. Or I figure out how Tensorflow.js stores its models in `localstorage` or `indexeddb`.
+~ DATE: 7/4/2023, 10:12:52 PM | EDITED ~
+Hey there, Rob!
+
+Technically, this is ML not AI, but I'd be glad to get some help!
+
+A `Blob` URL didn't work as it still violates the CSP directive. I have to avoid using the default `fetch` function due to the sandbox's restrictions, so the Wogglebug's approach may be the most feasible method. The current issue is with the weird formatting that is necessary for Tensorflow.js to parse the object, which would mean `localstorage` or `indexeddb` could be used but the formatting issue is still in play.
+
+You could, but I am not sure what that would accomplish. Also (not to sound rude, simply an observation), The Wogglebug already mentioned serializing the object in his most recent response.
+
+For the Wogglebug:
+The issue seems to arise from the nature of the import of the JSON object. The error may be on my end(?), but it appears as though an external URL may be needed. Or I figure out how Tensorflow.js stores its models in `localstorage` or `indexeddb`.
 ~ DATE: 7/4/2023, 8:22:37 PM ~
 "Basic" seems to be lower than my skill level, but the community here seems to be much better than anywhere else for a teen developer.
 
@@ -498,6 +509,10 @@ no questions
 ---- COMMENT ----
 ~ DATE: 7/4/2023, 4:38:07 PM ~
 Only known ways to bypass CSP is the `location` hack or WebRTC. Both are illegal, sadly.
+
+You could just create a WikiMedia account and upload all your images there.
+~ DATE: 7/4/2023, 4:38:07 PM | EDITED ~
+Only known ways to bypass CSP is the `location` hack or WebRTC. Both methods are illegal, sadly.
 
 You could just create a WikiMedia account and upload all your images there.
 ~ DATE: 7/4/2023, 4:38:07 PM | EDITED ~
