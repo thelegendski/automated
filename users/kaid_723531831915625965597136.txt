@@ -1,6 +1,10 @@
 kaid: kaid_723531831915625965597136
 
 ---- REPLY ----
+~ DATE: 7/4/2023, 8:22:37 PM ~
+"Basic" seems to be lower than my skill level, but the community here seems to be much better than anywhere else for a teen developer.
+
+Sure thing.
 ~ DATE: 7/4/2023, 8:08:34 PM ~
 Not yet. A friend referred me here after they referred me to Scratch. Not trying to throw shade, but Scratch seems a little basic. Thinking about getting a GitHub, Replit, and Dev-to account soon, after being referred there by a fullstack developer. 
 
@@ -46,6 +50,10 @@ no questions
 ---- COMMENT ----
 ~ DATE: 7/4/2023, 4:38:07 PM ~
 Only known ways to bypass CSP is the `location` hack or WebRTC. Both are illegal, sadly.
+
+You could just create a WikiMedia account and upload all your images there.
+~ DATE: 7/4/2023, 4:38:07 PM | EDITED ~
+Only known ways to bypass CSP is the `location` hack or WebRTC. Both methods are illegal, sadly.
 
 You could just create a WikiMedia account and upload all your images there.
 ~ DATE: 7/4/2023, 4:38:07 PM | EDITED ~
