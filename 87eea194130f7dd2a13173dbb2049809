@@ -1,0 +1,1 @@
+var response = "Elon Musk (born June 28, 1971) is an American entrepreneur and inventor. He is the founder and CEO of Tesla Motors, Inc., a company that designs, manufactures, and sells electric cars. He is also the founder and CEO of SpaceX, a company that develops and manufactures spacecraft and rockets.";
